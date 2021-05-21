@@ -1,2 +1,1 @@
-# Aspose.Page-Products
-Aspose.Page product family landing pages
+This repository contains Aspose.Page Product Family landing pages.

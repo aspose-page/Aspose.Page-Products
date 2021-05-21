@@ -1,0 +1,209 @@
+---
+title: C++ API for XPS and PostScript Parsing and Rendering 
+weight: 250
+url: /cpp/ 
+---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/upper-banner h1="C++ Library for PostScript and XPS Formats" h2="Load, manipulate and convert PostScript PS, EPS and XPS files to PDF and raster images within C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-cpp.png" pfName="Aspose.Page" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/page/cpp" >}}
+
+{{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for C++" >}}
+
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/page/cpp/release-notes/" instalationsDocsLink="https://docs.aspose.com/page/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page.cpp" nugetPackageName="Aspose.Page" >}}
+
+{{< blocks/products/pf/tab-content >}}
+{{< /blocks/products/pf/tab-content >}}
+
+<!--Diagrams Start-->
+{{< blocks/products/pf/carousel >}}
+
+{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< /blocks/products/pf/carousel >}}
+<!--Diagrams End-->
+
+<!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray singleproduct">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+    Advanced XPS &amp; PostScript API Features
+   </h2>
+   <p>
+   </p>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Generate and edit XPS files
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-copy ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Add or delete XPS document pages
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Manipulate canvases, paths, and glyphs elements
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plus ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Handle vector graphics shapes and text strings
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Use different brushes like a solid color, image, or visual brush
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Specify different color spaces including space-based on ICC profile
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Use multiple document elements within the same XPS Package for cross-package operations
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Handle multiple documents within an XPS document
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-share ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Manipulate, save and render XPS outline items
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-print ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Add and manipulate print tickets
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Save XPS files to PDF and raster images
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-save ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Save EPS documents to raster images and PDF
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Insert Pages in XPS Files
+    </h2>
+    <p>
+     Aspose.Page for C++ supports loading XPS files for manipulation and we can easily add new pages within that file. C++ developers can use the library to automate scenarios that may help them on their way.
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Add document Pages to XPS file - C++
+     </h3>
+     <pre><code class="cs">// Create new XPS file
+
+auto doc = System::MakeObject&lt;XpsDocument&gt;(dataDir() + u"Sample1.xps");
+
+// Add empty page at end
+
+doc-&gt;AddPage();
+
+// Insert an empty page at beginning of pages list
+
+doc-&gt;InsertPage(1, true);
+
+// Save resultant XPS document
+
+doc-&gt;Save(outDir() + u"AddPages_out.xps");</code></pre>
+    </div>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     XPS and PostScript Files Conversion
+    </h2>
+    <p>
+     Library offers the conversion of XPS, PS &amp; EPS documents to PDF &amp; raster image formats including BMP, JPEG, PNG, TIFF. Developer can specify quality level, resolution, page numbers while saving documents within images.
+    </p>
+   </div>
+   <!--<div class="col-lg-12">
+
+<h2 class="h2title">Easily Manipulate Pages</h2>
+
+<p>Aspose.Page for .NET provides extensive support for page manipulation. You can add a page to the end of the page list or insert it at any specified position. .NET Pages API also allows to remove pages, select a page by number as “active” or create a page without binding it to the document.</p>
+
+</div>-->
+  </div>
+ </div>
+</div>
+<!--Feature-section End-->
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< blocks/products/pf/testimonials title="" subTitle="" >}}
+
+{{< blocks/products/pf/testimonials-quote >}}
+{{< /blocks/products/pf/testimonials-quote >}}
+
+{{< /blocks/products/pf/testimonials >}}
+
+{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/page/cpp/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-page/Aspose.Page-for-C" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/cpp/page" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/page" >}}
+{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/page/" >}}
+{{< blocks/products/pf/slr-element name="Live Chat Now!" href="https://www.aspose.com/community/user/createuserquick.aspx" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Page for C++?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/support-learning-resources >}}
+
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/page/cpp" >}}
+
+{{< blocks/products/pf/offers-section pfName="" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/page/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-net.png" sdkName="Aspose.Page for .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/page/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-java.png" sdkName="Aspose.Page for Java" >}}
+
+{{< /blocks/products/pf/offers-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
