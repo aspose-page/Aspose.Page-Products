@@ -17,7 +17,239 @@ url: /java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    XPS Document Manipulation
+   </header>
+   <ul>
+    <li>
+     Pages
+    </li>
+    <li>
+     Canvas
+    </li>
+    <li>
+     Paths
+    </li>
+    <li>
+     Glyphs
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-bars">
+    </i>
+    Conversion
+   </header>
+   <ul>
+    <li>
+     PostScript files to EMF &amp; WMF
+    </li>
+    <li>
+     PostScript files to PDF &amp; Images
+    </li>
+    <li>
+     XPS files to XPS, PDF &amp; Images
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-paint-brush">
+    </i>
+    Brushes
+   </header>
+   <ul>
+    <li>
+     Solid Color Brush
+    </li>
+    <li>
+     Image Brush
+    </li>
+    <li>
+     Visual Brush
+    </li>
+    <li>
+     Linear Gradient Brush
+    </li>
+    <li>
+     Radial Gradient Brush
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-th">
+    </i>
+    Color Spaces
+   </header>
+   <ul>
+    <li>
+     sRGB
+    </li>
+    <li>
+     scRGB
+    </li>
+    <li>
+     ICC Profile
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java XPS Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-java.png"/>
+  <header>
+   Aspose.Page
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="API fully supports the GUI based Desktop, Web and Console Applications." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Java Runtime Environment
+   </header>
+   <ul>
+    <li>
+     JSP/JSF Application
+    </li>
+    <li>
+     Desktop Applications
+    </li>
+    <li>
+     Console Applications
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java XPS Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-java.png"/>
+  <header>
+   Aspose.Page
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Page for Java [supported file formats](https://docs.aspose.com/page/java/supported-file-formats/)  are listed below." >}}
+<div class="diagram1 d2 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     XPS
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      PostScript:
+     </b>
+     PS , EPS
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <br/>
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     PNG, JPEG, TIFF, BMP
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    EPS Specific Output Formats
+   </header>
+   <ul>
+    <li>
+     GIF, EMF, WMF
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java XPS API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-java.png"/>
+  <header>
+   Aspose.Page
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

@@ -18,8 +18,6 @@ url: /net/conversion/eps-to-ps/
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.+
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title=".NET Page Document Manipulation Library" %}}
@@ -68,6 +66,8 @@ using (var psStream = new System.IO.FileStream("template.eps", System.IO.FileMod
  
 {{< /blocks/products/pf/agp/faq >}}
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/demobox sectionTitle="[Free Online App for EPS to PS Conversion](https://products.aspose.app/page/conversion/eps-to-ps)" sectionDescription="" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
@@ -88,6 +88,9 @@ PostScript (PS) is a general-purpose page description language used in the busin
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

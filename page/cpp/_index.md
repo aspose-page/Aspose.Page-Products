@@ -17,7 +17,236 @@ url: /cpp/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-bars">
+    </i>
+    Conversion
+   </header>
+   <ul>
+    <li>
+     PS, EPS to PDF, EMF, and WMF
+    </li>
+    <li>
+     XPS Format to XPS and PDF
+    </li>
+    <li>
+     PostScript files to Images
+    </li>
+    <li>
+     XPS files to Images
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    XPS Document Manipulation
+   </header>
+   <ul>
+    <li>
+     Pages
+    </li>
+    <li>
+     Canvas
+    </li>
+    <li>
+     Paths
+    </li>
+    <li>
+     Glyphs
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-paint-brush">
+    </i>
+    Brushes
+   </header>
+   <ul>
+    <li>
+     Solid Color Brush
+    </li>
+    <li>
+     Image Brush
+    </li>
+    <li>
+     Visual Brush
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-th">
+    </i>
+    Color Spaces
+   </header>
+   <ul>
+    <li>
+     sRGB
+    </li>
+    <li>
+     scRGB
+    </li>
+    <li>
+     ICC Profile
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="C++ Page Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png"/>
+  <header>
+   Aspose.Page
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Library can be integrated with any kind of C++ application developed on Linux or Windows platform with [system requirements](https://docs.aspose.com/page/net/system-requirements/)  ." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Windows 32 bit
+   </header>
+   <br/>
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Windows 64 bit
+   </header>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Linux 64 bit
+   </header>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Pages Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png"/>
+  <header>
+   Aspose.Page
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Page for C++ [supported file formats](https://docs.aspose.com/page/cpp/supported-file-formats/)  are listed below." >}}
+<div class="diagram1 d2 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     XPS
+    </li>
+    <li>
+     <b>
+      PostScript:
+     </b>
+     EPS, PS
+    </li>
+   </ul>
+   <!--<header><i class="fa fa-long-arrow-down "> </i> Input Only</header>
+
+<ul>
+
+<li><b>PostScript: </b> EPS, PS</li>
+
+</ul>-->
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <br/>
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     PNG, JPEG, TIFF, BMP
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    EPS / PS Specific Output Formats
+   </header>
+   <ul>
+    <li>
+     EMF, GIF, WMF
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="C++ Page API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png"/>
+  <header>
+   Aspose.Page
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

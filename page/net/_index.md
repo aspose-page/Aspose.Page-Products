@@ -18,9 +18,6 @@ url: /net/
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Page for .NET API." >}}
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Page for .NET can be integrated with any kind of ASP.NET Web Application or a Windows Application." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -120,7 +117,7 @@ url: /net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Page for .NET supported file formats are listed below." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Page for .NET can be integrated with any kind of ASP.NET Web Application or a Windows Application." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -147,6 +144,92 @@ url: /net/
  <!--/row-->
  <div class="d1-logo">
   <img alt="Pages Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-net.png"/>
+  <header>
+   Aspose.Page
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Page for .NET [supported file formats](https://docs.aspose.com/page/net/supported-file-formats/)  are listed below." >}}
+<div class="diagram1 d2 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     XPS
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      PostScript:
+     </b>
+     EPS, PS
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <br/>
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     PNG, JPEG, TIFF, BMP
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    EPS Specific Output Formats
+   </header>
+   <ul>
+    <li>
+     EMF, GIF, WMF
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt=".NET Page API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-net.png"/>
   <header>
    Aspose.Page
   </header>
