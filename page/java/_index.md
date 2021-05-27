@@ -412,11 +412,5 @@ nwDoc.save(dir + "output.xps");</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/java" pricingInformationLink="https://purchase.aspose.com/pricing/page/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Page" description="" >}}
-
-    {{< blocks/products/pf/offers-section-item link="/page/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/page/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png" sdkName="C++" >}}
-
-{{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
