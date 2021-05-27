@@ -5,13 +5,17 @@ url: /java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java File Manipulation APIs for XPS, PS & EPS" h2="Create or manipulate XPS files. Convert XPS, EP & EPS documents to PDF and various images without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-java.png" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/page/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java File Manipulation APIs for XPS, PS & EPS" h2="Create or manipulate XPS files. Convert XPS, EP & EPS documents to PDF and various images without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-java.png" pfName="Aspose.Page for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/page/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-java.png" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/page/java/" instalationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="" nugetPackageName="Fixed Layout:" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+ Aspose.Page for Java is an XPS and PostScript document processing and parsing API. Developers can convert PS &amp; EPS files to PDF and raster image formats. API also permits the users to create, parse and save XPS files as well as add and remove pages within the documents. Furthermore, developers may create canvases, paths and glyph elements for XPS documents and perform operations such as add or remove pages, create vectors &amp; strings, use brushes, and manipulate the appearance of elements.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -382,12 +386,6 @@ nwDoc.save(dir + "output.xps");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -413,10 +411,10 @@ nwDoc.save(dir + "output.xps");</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/java" pricingInformationLink="https://purchase.aspose.com/pricing/page/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Page" description="" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/page/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-net.png" sdkName="Aspose.Page for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/page/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png" sdkName="Aspose.Page for C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/page/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/page/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

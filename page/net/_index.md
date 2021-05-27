@@ -5,13 +5,17 @@ url: /net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs for PS, EPS and XPS File Formats" h2="Load, manipulate and render XPS, PS and EPS documents to PDF and raster image formats without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-net.png" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs for PS, EPS and XPS File Formats" h2="Load, manipulate and render XPS, PS and EPS documents to PDF and raster image formats without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-net.png" pfName="Aspose.Page for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-net.png" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/page/net/" instalationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+ Aspose.Page for .NET is a reliable and standalone XPS and PostScript file manipulation and conversion API. It allows to create, edit and convert XPS files without requiring any additional tools. API allows operations such as manipulation of document pages &amp; elements, create vector graphics, group shapes and specifying colors in different color spaces. Furthermore, It allows the developers to convert PS and EPS files to PDF documents, raster images such as BMP, EMF, GIF, JPEG, PNG, TIFF, and more.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -372,12 +376,6 @@ xDocs.Save(dir + "output.xps");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -403,10 +401,10 @@ xDocs.Save(dir + "output.xps");</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/net" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Page" description="" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/page/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-java.png" sdkName="Aspose.Page for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/page/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png" sdkName="Aspose.Page for C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/page/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/page/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
