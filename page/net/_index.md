@@ -2,6 +2,7 @@
 title: C# .NET API for XPS & PostScript Processing - Aspose 
 weight: 500
 url: /net/ 
+description: C# ASP.NET VB.NET library to load and convert XPS PS and EPS files to PDF and Images. Create or manipulate XPS files in .NET applications
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

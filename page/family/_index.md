@@ -2,6 +2,7 @@
 title: .NET Java and C++ PostScript and XPS File Parsing APIs 
 weight: 10
 url: /family
+description: .NET Java and C++ library to read write and edit XPS documents as well as load XPS PS and EPS files for conversion to PDF and raster images
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

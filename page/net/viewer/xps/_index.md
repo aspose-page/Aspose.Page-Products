@@ -2,6 +2,7 @@
 title:  
 weight: 540
 url: /net/viewer/xps/ 
+description: Try our On-Premise APIs to load, render and display XPS documents on .NET Framework Paltform, Windows and ASP.NET Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 510
 url: /net/signature/xps/ 
+description: Try our On-Premise document digital signature APIs to e-Sgin XPS documents on .NET Framework Paltform, Windows and ASP.NET Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
