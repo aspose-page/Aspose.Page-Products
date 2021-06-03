@@ -1,6 +1,6 @@
 ---
 title: Convert EPS to EMF via .NET 
-weight: 280
+weight: 110
 url: /net/conversion/eps-to-emf/ 
 description: Try our On-Premise APIs with your document on .NET Framework Paltform, Windows and ASP.NET Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework Paltfo
 
 {{% blocks/products/pf/agp/content h2="How to Convert EPS to EMF Using C#" %}}
 
- In order to convert EPS to EMF, weвЂ™ll use
+ In order to convert EPS to EMF, we’ll use
  [Aspose.Page for .NET](https://products.aspose.com/page/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.page) 

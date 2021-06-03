@@ -1,6 +1,6 @@
 ---
 title: Convert PS to GIF via C++ application 
-weight: 140
+weight: 500
 url: /cpp/conversion/ps-to-gif/ 
 description: Try our On-Premise APIs for your document conversion using C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion using C++ Runt
 
 {{% blocks/products/pf/agp/content h2="How to Convert PS to GIF Using C++" %}}
 
- In order to convert PS to GIF, weвЂ™ll use
+ In order to convert PS to GIF, we’ll use
  [Aspose.Page for C++](https://products.aspose.com/page/cpp) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.page) 
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Page.Cpp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert PS to GIF - C++вЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert PS to GIF - C++‎" offSpacer="" %}}
 
 ```cs
 System::SharedPtr<System::Drawing::Imaging::ImageFormat> imageFormat = System::Drawing::Imaging::ImageFormat::get_Gif();
@@ -110,7 +110,7 @@ System::ArrayPtr<System::ArrayPtr<uint8_t>> imagesBytes = device->get_ImagesByte
 
     {{% blocks/products/pf/agp/content h2="C++ Page Document Manipulation Library" %}}
 
- Aspose.Page is an XPS and PostScript formats manipulation and parsing API. One can easily create, modify and convert XPS, EPS And PS formats to PDF and images. Furthermore, one can also manipulate document pages as well as elements, create vector graphics, group shapes and more. Its a standalone API and does not require any other software installation. вЂЋ
+ Aspose.Page is an XPS and PostScript formats manipulation and parsing API. One can easily create, modify and convert XPS, EPS And PS formats to PDF and images. Furthermore, one can also manipulate document pages as well as elements, create vector graphics, group shapes and more. Its a standalone API and does not require any other software installation. ‎
 
 
 

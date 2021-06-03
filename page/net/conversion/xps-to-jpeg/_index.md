@@ -1,6 +1,6 @@
 ---
 title: Convert XPS to JPEG via .NET 
-weight: 460
+weight: 510
 url: /net/conversion/xps-to-jpeg/ 
 description: Try our On-Premise APIs with your document on .NET Framework Paltform, Windows and ASP.NET Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework Paltfo
 
 {{% blocks/products/pf/agp/content h2="How to Convert XPS to JPEG Using C#" %}}
 
- In order to convert XPS to JPEG, weвЂ™ll use
+ In order to convert XPS to JPEG, we’ll use
  [Aspose.Page for .NET](https://products.aspose.com/page/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.page) 

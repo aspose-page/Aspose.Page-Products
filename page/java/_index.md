@@ -1,6 +1,6 @@
 ---
 title: Java PS EPS and XPS Files Parsing & Conversion API - Aspose 
-weight: 260
+weight: 360
 url: /java/ 
 description: Java library to create read or update XPS documents. Load and render PS EPS and XPS files to PDF and multiple image formats without any dependency
 ---

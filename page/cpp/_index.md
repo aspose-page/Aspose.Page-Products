@@ -1,6 +1,6 @@
 ---
 title: C++ API for XPS and PostScript Parsing and Rendering 
-weight: 250
+weight: 380
 url: /cpp/ 
 description: Library to load and convert PS, EPS and XPS files to PDF and Images. Create or manipulate XPS files in C++ applications
 ---

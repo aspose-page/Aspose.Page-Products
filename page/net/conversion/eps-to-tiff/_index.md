@@ -1,6 +1,6 @@
 ---
 title: Convert EPS to TIFF via .NET 
-weight: 340
+weight: 190
 url: /net/conversion/eps-to-tiff/ 
 description: Try our On-Premise APIs with your document on .NET Framework Paltform, Windows and ASP.NET Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework Paltfo
 
 {{% blocks/products/pf/agp/content h2="How to Convert EPS to TIFF Using C#" %}}
 
- In order to convert EPS to TIFF, weвЂ™ll use
+ In order to convert EPS to TIFF, we’ll use
  [Aspose.Page for .NET](https://products.aspose.com/page/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.page) 

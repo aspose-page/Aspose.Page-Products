@@ -1,6 +1,6 @@
 ---
 title: Convert XPS to PNG via C++ application 
-weight: 230
+weight: 220
 url: /cpp/conversion/xps-to-png/ 
 description: Try our On-Premise APIs for your document conversion using C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion using C++ Runt
 
 {{% blocks/products/pf/agp/content h2="How to Convert XPS to PNG Using C++" %}}
 
- In order to convert XPS to PNG, weвЂ™ll use
+ In order to convert XPS to PNG, we’ll use
  [Aspose.Page for C++](https://products.aspose.com/page/cpp) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.page) 
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Page.Cpp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert XPS to PNG - C++вЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert XPS to PNG - C++‎" offSpacer="" %}}
 
 ```cs
 System::SharedPtr<System::IO::Stream> xpsStream = System::IO::File::Open(u"sourceFile.xps", System::IO::FileMode::Open, System::IO::FileAccess::Read);
@@ -98,7 +98,7 @@ document->Save(device, options);
 
     {{% blocks/products/pf/agp/content h2="C++ Page Document Manipulation Library" %}}
 
- Aspose.Page is an XPS and PostScript formats manipulation and parsing API. One can easily create, modify and convert XPS, EPS And PS formats to PDF and images. Furthermore, one can also manipulate document pages as well as elements, create vector graphics, group shapes and more. Its a standalone API and does not require any other software installation. вЂЋ
+ Aspose.Page is an XPS and PostScript formats manipulation and parsing API. One can easily create, modify and convert XPS, EPS And PS formats to PDF and images. Furthermore, one can also manipulate document pages as well as elements, create vector graphics, group shapes and more. Its a standalone API and does not require any other software installation. ‎
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: View EPS File Formats via .NET 
-weight: 520
+weight: 350
 url: /net/viewer/eps/ 
 description: Try our On-Premise APIs to load, render and display EPS documents on .NET Framework Paltform, Windows and ASP.NET Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs to load, render and display EPS documents o
 
 {{% blocks/products/pf/agp/content h2="How to View EPS File Using C#" %}}
 
- In order to view EPS file, weвЂ™ll use
+ In order to view EPS file, we’ll use
  [Aspose.Page for .NET](https://products.aspose.com/page/net) 
  API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
  [NuGet](https://www.nuget.org/packages/aspose.page) 
@@ -101,7 +101,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Page for .NET API" %}}
 
- Aspose.Page is an XPS and PostScript formats manipulation and parsing API. One can easily create, modify and convert XPS, EPS And PS formats to PDF and images. Furthermore, one can also manipulate document pages as well as elements, create vector graphics, group shapes and more. Its a standalone API and does not require any other software installation. вЂЋ
+ Aspose.Page is an XPS and PostScript formats manipulation and parsing API. One can easily create, modify and convert XPS, EPS And PS formats to PDF and images. Furthermore, one can also manipulate document pages as well as elements, create vector graphics, group shapes and more. Its a standalone API and does not require any other software installation. ‎
 
 
 
