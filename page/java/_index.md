@@ -6,11 +6,11 @@ description: Java library to create read or update XPS documents. Load and rende
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java File Manipulation APIs for XPS, PS & EPS" h2="Create or manipulate XPS files. Convert XPS, EP & EPS documents to PDF and various images without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-java.png" pfName="Aspose.Page for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/page/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java File Manipulation APIs for XPS, PS & EPS" h2="Create or manipulate XPS files. Convert XPS, EP & EPS documents to PDF and various images without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-java.png" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/page/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-java.png" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/page/java/" instalationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="" nugetPackageName="Fixed Layout:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-java.png" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com/pricing/page/java" docsLink="https://docs.aspose.com/page/java/" installationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="" nugetPackageName="Fixed Layout:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-page" directDownloadLink="https://downloads.aspose.com/page/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

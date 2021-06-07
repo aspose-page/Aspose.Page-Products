@@ -6,11 +6,11 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Library for PostScript and XPS Formats" h2="Load, manipulate and convert PostScript PS, EPS and XPS files to PDF and raster images within C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-cpp.png" pfName="Aspose.Page for C++" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/page/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Library for PostScript and XPS Formats" h2="Load, manipulate and convert PostScript PS, EPS and XPS files to PDF and raster images within C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-cpp.png" pfName="Aspose.Page" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/page/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/page/cpp/release-notes/" instalationsDocsLink="https://docs.aspose.com/page/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page.cpp" nugetPackageName="Aspose.Page" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/cpp" buyLink="https://purchase.aspose.com/pricing/page/cpp" docsLink="https://docs.aspose.com/page/cpp/release-notes/" installationsDocsLink="https://docs.aspose.com/page/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page.cpp" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
