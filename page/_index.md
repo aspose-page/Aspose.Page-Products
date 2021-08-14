@@ -11,15 +11,15 @@ description: Develop XPS, PS and EPS file manipulation applications using On Pre
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Page On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Page for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-net.png" productLink="https://products.aspose.com/page/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Page for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" productLink="https://products.aspose.com/page/net" >}}
 On Premise APIs for XPS, PS, and EPS formats creation, manipulation & conversion to various formats within Windows and Web applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Page for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-java.png" productLink="https://products.aspose.com/page/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Page for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" productLink="https://products.aspose.com/page/java" >}}
 Java APIs to create, read or update XPS files. Load and render PS, EPS and XPS formats to PDF and multiple image formats in any application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Page for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png" productLink="https://products.aspose.com/page/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.Page for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productLink="https://products.aspose.com/page/cpp" >}}
 Native C++ library to create, manipulate or convert XPS, EPS, and PS files from within pure C++ apps.
 {{< /blocks/products/pf/product >}}
 

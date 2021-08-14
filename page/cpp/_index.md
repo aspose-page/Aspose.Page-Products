@@ -10,7 +10,7 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/cpp" buyLink="https://purchase.aspose.com/pricing/page/cpp" docsLink="https://docs.aspose.com/page/cpp/release-notes/" installationsDocsLink="https://docs.aspose.com/page/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page.cpp" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/cpp" buyLink="https://purchase.aspose.com/pricing/page/cpp" docsLink="https://docs.aspose.com/page/cpp/release-notes/" installationsDocsLink="https://docs.aspose.com/page/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page.cpp" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -104,7 +104,7 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ Page Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png"/>
+  <img alt="C++ Page Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg"/>
   <header>
    Aspose.Page
   </header>
@@ -150,7 +150,7 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Pages Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png"/>
+  <img alt="Pages Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg"/>
   <header>
    Aspose.Page
   </header>
@@ -236,7 +236,7 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ Page API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png"/>
+  <img alt="C++ Page API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg"/>
   <header>
    Aspose.Page
   </header>
