@@ -314,7 +314,7 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use multiple document elements within the same XPS Package for cross-package operations
+     Use multiple document elements for cross-package operations
     </p>
    </div>
    <div class="col-lg-4">
