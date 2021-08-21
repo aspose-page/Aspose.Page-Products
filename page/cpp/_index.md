@@ -122,7 +122,7 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Library can be integrated with any kind of C++ application developed on Linux or Windows platform with [system requirements](https://docs.aspose.com/page/net/system-requirements/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Library can be integrated with any kind of C++ application developed on Linux or Windows platform with [system requirements](https://docs.aspose.com/page/net/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
