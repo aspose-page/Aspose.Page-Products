@@ -47,6 +47,6 @@ Create, load, manipulate, or render Postscript and XPS files to Image formats an
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/page" pricingInformationLink="https://purchase.aspose.com/pricing/page" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/page" pricingInformationLink="https://purchase.aspose.com/pricing/page/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
