@@ -6,7 +6,7 @@ description: Java library to create read or update XPS documents. Load and rende
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java File Manipulation APIs for XPS, PS & EPS" h2="Create or manipulate XPS files. Convert XPS, EP & EPS documents to PDF and various images without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-java.png" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/page/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java File Manipulation APIs for XPS, PS & EPS" h2="Create or manipulate XPS files. Convert XPS, EP & EPS documents to PDF and various images without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-java.svg" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/page/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for Java" >}}
 
@@ -412,5 +412,11 @@ nwDoc.save(dir + "output.xps");</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/java" pricingInformationLink="https://purchase.aspose.com/pricing/page/java" >}}
 
+{{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Aspose.Page offers individual APIs for popular development environments as listed below:" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/page/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/page/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg" sdkName="C++" >}}
+
+{{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

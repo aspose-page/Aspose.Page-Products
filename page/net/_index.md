@@ -6,7 +6,7 @@ description: C# ASP.NET VB.NET library to load and convert XPS PS and EPS files 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs for PS, EPS and XPS File Formats" h2="Load, manipulate and render XPS, PS and EPS documents to PDF and raster image formats without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-net.png" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs for PS, EPS and XPS File Formats" h2="Load, manipulate and render XPS, PS and EPS documents to PDF and raster image formats without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
 
@@ -402,5 +402,11 @@ xDocs.Save(dir + "output.xps");</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/net" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
 
+{{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Aspose.Page offers individual APIs for popular development environments as listed below:" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/page/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/page/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg" sdkName="C++" >}}
+
+{{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -427,5 +427,11 @@ doc-&gt;Save(outDir() + u"AddPages_out.xps");</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/page/cpp" >}}
 
+{{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Aspose.Page offers individual APIs for popular development environments as listed below:" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/page/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/page/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" sdkName="Java" >}}
+
+{{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
