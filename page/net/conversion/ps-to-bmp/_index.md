@@ -128,14 +128,14 @@ Files having extension .BMP represent Bitmap Image files that are used to store 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert PS into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-emf" name="PS TO EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-eps" name="PS TO EPS" description="Encapsulated PostScript Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-gif" name="PS TO GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-jpeg" name="PS TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-pdf" name="PS TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-png" name="PS TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-tiff" name="PS TO TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-wmf" name="PS TO WMF" description="Microsoft Windows Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-emf/" name="PS TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-eps/" name="PS TO EPS" description="Encapsulated PostScript Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-gif/" name="PS TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-jpeg/" name="PS TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-pdf/" name="PS TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-png/" name="PS TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-tiff/" name="PS TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/conversion/ps-to-wmf/" name="PS TO WMF" description="Microsoft Windows Metafile" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

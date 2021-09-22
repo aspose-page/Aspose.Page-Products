@@ -121,14 +121,14 @@ System::ArrayPtr<System::ArrayPtr<uint8_t>> imagesBytes = device->get_ImagesByte
         {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/page-description-language/eps/" >}}
 
 FIles with EPS extension essentially describe an Encapsulated PostScript language program that describes the appearance of a single page. The name "Encapsulated" because it can be included or encapsulated in another PostScript language page description. This script based file format may contain any combination of text, graphics and images. EPS files may include a bitmap preview image encapsulated inside for display by applications that can open such files. EPS files can be converted to standard image formats such as JPG, PNG, TIFF and PDF using different applications e.g. Adobe Illustrator, Photoshop and PaintShop Pro. Because of a security vulnerability in EPS files, Office 2016, Office 2013, Office 2010, and Office 365 have turned off the ability to insert EPS files into Office documents.
-Read More
+
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}
 
 Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths.
-Read More
+
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,14 +140,14 @@ Read More
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert EPS into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-emf" name="EPS TO EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-gif" name="EPS TO GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-jpeg" name="EPS TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-pdf" name="EPS TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-png" name="EPS TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-ps" name="EPS TO PS" description="PostScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-tiff" name="EPS TO TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-wmf" name="EPS TO WMF" description="Microsoft Windows Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-emf/" name="EPS TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-gif/" name="EPS TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-jpeg/" name="EPS TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-pdf/" name="EPS TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-png/" name="EPS TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-ps/" name="EPS TO PS" description="PostScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-tiff/" name="EPS TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/eps-to-wmf/" name="EPS TO WMF" description="Microsoft Windows Metafile" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

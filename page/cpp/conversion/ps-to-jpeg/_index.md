@@ -121,14 +121,14 @@ System::ArrayPtr<System::ArrayPtr<uint8_t>> imagesBytes = device->get_ImagesByte
         {{< blocks/products/pf/agp/about-file-text fileFormat="PS" readMoreLink="https://docs.fileformat.com/page-description-language/ps/" >}}
 
 PostScript (PS) is a general-purpose page description language used in the business of desktop and electronic publishing. The main focus of PostScript (PS) is to facilitate the two-dimensional graphic design. Most languages require a distinct compilation stage before the code execution while Post Script (PS) format support a runtime straight forward interpretation. Its early version defines the graphical shapes, different text appearances and modelled imageries on printed pages or displayed pages, following the rules of Adobe imaging model. A program of PS is able to intercommunicate a document description between a composition and printing system keeping the device independent and high-level. Moreover this program is also capable of governing the appearance of text and graphics on a display.
-Read More
+
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" >}}
 
 A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image.  The higher the compression value, the higher the degradation in image quality. JPEG image file format was standardized by the Joint Photographic Experts Group and, hence, the name JPEG. The format has been the choice of storing and transmitting photographic images on the web. Almost all Operating systems now have viewers that support visualization of JPEG images, which are often stored with JPG extension as well. Even the web browsers support visualization of JPEG images.
-Read More
+
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,14 +140,14 @@ Read More
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert PS into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-bmp" name="PS TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-emf" name="PS TO EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-eps" name="PS TO EPS" description="Encapsulated PostScript Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-gif" name="PS TO GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-pdf" name="PS TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-png" name="PS TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-tiff" name="PS TO TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-wmf" name="PS TO WMF" description="Microsoft Windows Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-bmp/" name="PS TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-emf/" name="PS TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-eps/" name="PS TO EPS" description="Encapsulated PostScript Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-gif/" name="PS TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-pdf/" name="PS TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-png/" name="PS TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-tiff/" name="PS TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/cpp/conversion/ps-to-wmf/" name="PS TO WMF" description="Microsoft Windows Metafile" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
