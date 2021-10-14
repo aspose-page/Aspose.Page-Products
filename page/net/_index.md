@@ -13,9 +13,7 @@ description: C# ASP.NET VB.NET library to load and convert XPS PS and EPS files 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>
- Aspose.Page for .NET is a reliable and standalone XPS and PostScript file manipulation and conversion API. It allows to create, edit and convert XPS files without requiring any additional tools. API allows operations such as manipulation of document pages &amp; elements, create vector graphics, group shapes and specifying colors in different color spaces. Furthermore, It allows the developers to convert PS and EPS files to PDF documents, raster images such as BMP, EMF, GIF, JPEG, PNG, TIFF and more.
-</p>
+<p>Aspose.Page for .NET is a reliable and standalone XPS and PostScript file manipulation and conversion API. It allows to create, edit and convert XPS files without requiring any additional tools. API allows operations such as manipulation of document pages &amp; elements, create vector graphics, group shapes and specifying colors in different color spaces. Furthermore, It allows the developers to convert PS and EPS files to PDF documents, raster images such as BMP, EMF, GIF, JPEG, PNG, TIFF and more.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
