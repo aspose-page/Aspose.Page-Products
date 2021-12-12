@@ -47,7 +47,7 @@ Process of converting PostScript to PDF is same as of EPS to Images, except that
 
 {{% blocks/products/pf/feature-page-section  h2="Convert XPS to PDF" %}}
 
-C++ XPS Processing API deals with conversion of XPS to Images including BMP, JPG, TIFF, PNG and more as well as XPS to PDF conversion on Windows and Linux based systems. Process of converting XPS to PDF is, define output stream. As well as define input stream for input XPS document and pass as parameter to [XpsDocument class](https://apireference.aspose.com/page/cpp/class/aspose.page.x_p_s.xps_document) Object. 
+C++ XPS Processing API deals with conversion of XPS to Images including BMP, JPG, TIFF, PNG and more, as well as XPS to PDF conversion on Windows and Linux based systems. Process of converting XPS to PDF is, define output stream. As well as define input stream for input XPS document and pass as parameter to [XpsDocument class](https://apireference.aspose.com/page/cpp/class/aspose.page.x_p_s.xps_document) Object. 
 Specify the PDF specific save options such as TextCompression, ImageCompression and JpegQualityLevel using [PdfSaveOptions](https://apireference.aspose.com/page/cpp/class/aspose.page.x_p_s.presentation.pdf.pdf_save_options). Create an instance of [PdfDevice](https://apireference.aspose.com/page/cpp/aspose.page.xps.presentation.pdf/pdfdevice) from created earlier output stream. Finally convert XPS document as PDF with PDF save options.
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code for XPS to PDF Conversion" %}}
