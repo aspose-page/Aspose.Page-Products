@@ -267,7 +267,7 @@ description: Java library to create read or update XPS documents. Load and rende
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced XPS and PostScript API Features
+    Advanced XPS and PostScript API Features
    </h2>
    <p>
    </p>
@@ -336,10 +336,10 @@ description: Java library to create read or update XPS documents. Load and rende
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create or Parse XPS Documents
+     Create or Parse XPS Documents
     </h2>
     <p>
-     API creates XPS files on the fly or loads existing documents for parsing and manipulation. It can perform different operations like changing the appearance of graphics and text strings, specifying colors in different color spaces, manipulate device configuration information, user intent and much more.
+     API creates XPS files on the fly or loads existing documents for parsing and manipulation. It can perform different operations like changing the appearance of graphics and text strings, specifying colors in different color spaces, manipulate device configuration information, user intent and much more.
     </p>
     <p>
      Java developers can easily integrate all these features with just a few lines of code.
@@ -365,7 +365,7 @@ nwDoc.save(dir + "output.xps");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Render PostScript Files to Images &amp; PDF
+     Render PostScript Files to Images &amp; PDF
     </h2>
     <p>
      The library provides specialized classes for converting EPS &amp; PS files to raster images &amp; PDF. The configuration of the conversion process is easy to control the image quality within the PDF as well as for standalone images. Furthermore, developers may easily suppress errors if they are working with batches.

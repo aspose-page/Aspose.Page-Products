@@ -109,7 +109,7 @@ document.save(device, options);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Page is an XPS and PostScript formats manipulation and parsing API. One can easily create, modify and convert XPS, EPS And PS formats to PDF and images. Furthermore, one can also manipulate document pages as well as elements, create vector graphics, group shapes and more. Its a standalone API and does not require any other software installation. ‎ ‎
+Aspose.Page is an XPS and PostScript formats manipulation and parsing API. One can easily create, modify and convert XPS, EPS And PS formats to PDF and images. Furthermore, one can also manipulate document pages as well as elements, create vector graphics, group shapes and more. Its a standalone API and does not require any other software installation.    
 
 
 

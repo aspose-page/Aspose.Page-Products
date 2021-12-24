@@ -6,7 +6,7 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Library for PostScript and XPS Formats" h2="Load, manipulate and convert PostScript PS, EPS and XPS files to PDF and raster images within C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-cpp.png" pfName="Aspose.Page" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/page/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Library for PostScript and XPS Formats" h2="Load, manipulate and convert PostScript PS, EPS and XPS files to PDF and raster images within C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-cpp.png" pfName="Aspose.Page" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/page/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for C++" >}}
 
@@ -14,7 +14,7 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Page for C++ is a reliable library for XPS and PostScript file rendering and manipulation. It allows to create, modify and convert existing as well as new XPS files without requiring any other software. API allows operations such as manipulation of document pages &amp; elements such as canvases, paths, and glyphs, create and manipulate vector graphics shapes and specifying colors in different color spaces. Moreover, developers can convert PS and EPS documents to PDF as well as in different raster image formats.
+ Aspose.Page for C++ is a reliable library for XPS and PostScript file rendering and manipulation. It allows to create, modify and convert existing as well as new XPS files without requiring any other software. API allows operations such as manipulation of document pages &amp; elements such as canvases, paths, and glyphs, create and manipulate vector graphics shapes and specifying colors in different color spaces. Moreover, developers can convert PS and EPS documents to PDF as well as in different raster image formats.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -191,7 +191,7 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
      EPS, PS
     </li>
    </ul>
-   <!--<header><i class="fa fa-long-arrow-down "> </i> Input Only</header>
+   <!--<header><i class="fa fa-long-arrow-down "> </i> Input Only</header>
 
 <ul>
 
@@ -272,7 +272,7 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generate and edit XPS files
+     Generate and edit XPS files
     </p>
    </div>
    <div class="col-lg-4">
@@ -286,21 +286,21 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate canvases, paths, and glyphs elements
+     Manipulate canvases, paths, and glyphs elements
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Handle vector graphics shapes and text strings
+     Handle vector graphics shapes and text strings
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use different brushes like a solid color, image, or visual brush
+     Use different brushes like a solid color, image, or visual brush
     </p>
    </div>
    <div class="col-lg-4">
@@ -354,10 +354,10 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Insert Pages in XPS Files
+     Insert Pages in XPS Files
     </h2>
     <p>
-     Aspose.Page for C++ supports loading XPS files for manipulation and we can easily add new pages within that file. C++ developers can use the library to automate scenarios that may help them on their way.
+     Aspose.Page for C++ supports loading XPS files for manipulation and we can easily add new pages within that file. C++ developers can use the library to automate scenarios that may help them on their way.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -392,7 +392,7 @@ doc-&gt;Save(outDir() + u"AddPages_out.xps");</code></pre>
 
 <h2 class="h2title">Easily Manipulate Pages</h2>
 
-<p>Aspose.Page for .NET provides extensive support for page manipulation. You can add a page to the end of the page list or insert it at any specified position. .NET Pages API also allows to remove pages, select a page by number as “active” or create a page without binding it to the document.</p>
+<p>Aspose.Page for .NET provides extensive support for page manipulation. You can add a page to the end of the page list or insert it at any specified position. .NET Pages API also allows to remove pages, select a page by number as “active” or create a page without binding it to the document.</p>
 
 </div>-->
   </div>

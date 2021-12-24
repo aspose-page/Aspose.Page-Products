@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Page.Cpp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert PS to PDF - C++‎" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert PS to PDF - C++ " offSpacer="" %}}
 
 ```cs
 System::SharedPtr<System::IO::FileStream> pdfStream = System::MakeObject<System::IO::FileStream>(u"outputFile.pdf", System::IO::FileMode::Create, System::IO::FileAccess::Write);
@@ -105,7 +105,7 @@ System::SharedPtr<Aspose::Page::EPS::Device::PdfDevice> device = System::MakeObj
 
     {{% blocks/products/pf/agp/content h2="C++ Page Document Manipulation Library" %}}
 
- Aspose.Page is an XPS and PostScript formats manipulation and parsing API. One can easily create, modify and convert XPS, EPS And PS formats to PDF and images. Furthermore, one can also manipulate document pages as well as elements, create vector graphics, group shapes and more. Its a standalone API and does not require any other software installation. ‎
+ Aspose.Page is an XPS and PostScript formats manipulation and parsing API. One can easily create, modify and convert XPS, EPS And PS formats to PDF and images. Furthermore, one can also manipulate document pages as well as elements, create vector graphics, group shapes and more. Its a standalone API and does not require any other software installation.  
 
 
 

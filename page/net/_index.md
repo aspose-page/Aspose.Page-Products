@@ -6,14 +6,14 @@ description: C# ASP.NET VB.NET library to load and convert XPS PS and EPS files 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs for PS, EPS and XPS File Formats" h2="Load, manipulate and render XPS, PS and EPS documents to PDF and raster image formats without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs for PS, EPS and XPS File Formats" h2="Load, manipulate and render XPS, PS and EPS documents to PDF and raster image formats without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Page for .NET is a reliable and standalone XPS and PostScript file manipulation and conversion API. It allows to create, edit and convert XPS files without requiring any additional tools. API allows operations such as manipulation of document pages &amp; elements, create vector graphics, group shapes and specifying colors in different color spaces. Furthermore, It allows the developers to convert PS and EPS files to PDF documents, raster images such as BMP, EMF, GIF, JPEG, PNG, TIFF and more.</p>
+<p>Aspose.Page for .NET is a reliable and standalone XPS and PostScript file manipulation and conversion API. It allows to create, edit and convert XPS files without requiring any additional tools. API allows operations such as manipulation of document pages &amp; elements, create vector graphics, group shapes and specifying colors in different color spaces. Furthermore, It allows the developers to convert PS and EPS files to PDF documents, raster images such as BMP, EMF, GIF, JPEG, PNG, TIFF and more.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -124,7 +124,7 @@ description: C# ASP.NET VB.NET library to load and convert XPS PS and EPS files 
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   <!-- <header><i class="fa fa-cubes"> </i>Mono</header><br /><header><i class="fa fa-cubes"> </i>.NET Core</header>-->
+   <!-- <header><i class="fa fa-cubes"> </i>Mono</header><br /><header><i class="fa fa-cubes"> </i>.NET Core</header>-->
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -332,7 +332,7 @@ description: C# ASP.NET VB.NET library to load and convert XPS PS and EPS files 
      Read or Create XPS Files
     </h2>
     <p>
-     Aspose.Page for .NET not only supports loading XPS files for manipulation but it also provides the capability to create XPS files from scratch. .NET developers can use the library to automate scenarios that may help them on their way.
+     Aspose.Page for .NET not only supports loading XPS files for manipulation but it also provides the capability to create XPS files from scratch. .NET developers can use the library to automate scenarios that may help them on their way.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -365,7 +365,7 @@ xDocs.Save(dir + "output.xps");</code></pre>
 
 <h2 class="h2title">Easily Manipulate Pages</h2>
 
-<p>Aspose.Page for .NET provides extensive support for page manipulation. You can add a page to the end of the page list or insert it at any specified position. .NET Pages API also allows to remove pages, select a page by number as “active” or create a page without binding it to the document.</p>
+<p>Aspose.Page for .NET provides extensive support for page manipulation. You can add a page to the end of the page list or insert it at any specified position. .NET Pages API also allows to remove pages, select a page by number as “active” or create a page without binding it to the document.</p>
 
 </div>-->
   </div>
