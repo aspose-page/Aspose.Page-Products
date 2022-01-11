@@ -107,7 +107,7 @@ description: Java library to create read or update XPS documents. Load and rende
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java XPS Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg"/>
+  <img width="70" height="75" alt="Java XPS Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg"/>
   <header>
    Aspose.Page
   </header>
@@ -153,7 +153,7 @@ description: Java library to create read or update XPS documents. Load and rende
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java XPS Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg"/>
+  <img width="70" height="75" alt="Java XPS Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg"/>
   <header>
    Aspose.Page
   </header>
@@ -239,7 +239,7 @@ description: Java library to create read or update XPS documents. Load and rende
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java XPS API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg"/>
+  <img width="70" height="75" alt="Java XPS API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg"/>
   <header>
    Aspose.Page
   </header>

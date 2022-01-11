@@ -104,7 +104,7 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ Page Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ Page Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg"/>
   <header>
    Aspose.Page
   </header>
@@ -150,7 +150,7 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Pages Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg"/>
+  <img width="70" height="75" alt="Pages Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg"/>
   <header>
    Aspose.Page
   </header>
@@ -236,7 +236,7 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ Page API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ Page API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg"/>
   <header>
    Aspose.Page
   </header>

@@ -102,7 +102,7 @@ description: C# ASP.NET VB.NET library to load and convert XPS PS and EPS files 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Page Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg"/>
+  <img width="70" height="75" alt=".NET Page Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg"/>
   <header>
    Aspose.Page
   </header>
@@ -146,7 +146,7 @@ description: C# ASP.NET VB.NET library to load and convert XPS PS and EPS files 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Pages Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg"/>
+  <img width="70" height="75" alt="Pages Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg"/>
   <header>
    Aspose.Page
   </header>
@@ -232,7 +232,7 @@ description: C# ASP.NET VB.NET library to load and convert XPS PS and EPS files 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Page API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg"/>
+  <img width="70" height="75" alt=".NET Page API" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg"/>
   <header>
    Aspose.Page
   </header>
