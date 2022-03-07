@@ -77,19 +77,7 @@ In order to render XPS to PNG, we’ll use <a href="https://products.aspose.com/
 
 {{% blocks/products/pf/agp/code-block title="XPS to PNG Java Conversion Source Code" offSpacer="" %}}
 
-```cs
- // load the XPS file in an instance of XpsDocument
-XpsDocument document = new XpsDocument("template.xps");
-// create an instance of PngSaveOptions
-PngSaveOptions options = new PngSaveOptions();
-// create rendering device for XPS format
-ImageDevice device = new ImageDevice();
-// save XPS as PNG
-document.save(device, options);   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "7804c7e1f9f1ded0fc3b504c0a74f611" "convert-xps-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

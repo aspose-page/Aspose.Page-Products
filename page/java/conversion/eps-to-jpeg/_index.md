@@ -74,23 +74,7 @@ In order to render EPS to JPEG, we’ll use <a href="https://products.aspose.com
 
 {{% blocks/products/pf/agp/code-block title="EPS to JPEG Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// initialize PostScript input stream
-FileInputStream psStream = new FileInputStream("input.eps");
-
-// load EPS document
-PsDocument document = new PsDocument(psStream);
-
-//create an instance of JpegSaveOptions
-JpegSaveOptions options = new JpegSaveOptions();
-//create rendering device for EPS format
-ImageDevice device = new ImageDevice();
-//save EPS as JPEG
-document.save(device, options);   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "7804c7e1f9f1ded0fc3b504c0a74f611" "convert-eps-to-jpg.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

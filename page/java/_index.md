@@ -348,19 +348,7 @@ description: Java library to create read or update XPS documents. Load and rende
      <h3>
       Create XPS file from scratch - Java
      </h3>
-     <pre><code class="cs">// create document
-
-XpsDocument nwDoc = new XpsDocument();
-
-// add glyph to the document
-
-com.aspose.nwDoc.XpsGlyphs glyphs = nwDoc.addGlyphs("Arial", 12, XpsFontStyle.Regular, 300f, 450f, "Hello World!");
-
-glyphs.setFill(xps.createSolidColorBrush(Color.BLACK));
-
-// save result
-
-nwDoc.save(dir + "output.xps");</code></pre>
+     {{< gist "aspose-com-gists" "7804c7e1f9f1ded0fc3b504c0a74f611" "create-xps-file.java" >}}
     </div>
    </div>
    <div class="col-lg-12">

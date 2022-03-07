@@ -74,23 +74,7 @@ In order to render EPS to WMF, we’ll use <a href="https://products.aspose.com/
 
 {{% blocks/products/pf/agp/code-block title="EPS to WMF Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// initialize PostScript input stream
-FileInputStream psStream = new FileInputStream("input.eps");
-
-// load EPS document
-PsDocument document = new PsDocument(psStream);
-
-//create an instance of WmfSaveOptions
-WmfSaveOptions options = new WmfSaveOptions();
-//create rendering device for EPS format
-ImageDevice device = new ImageDevice();
-//save EPS as WMF
-document.save(device, options);   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "7804c7e1f9f1ded0fc3b504c0a74f611" "convert-eps-to-wmf.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -77,19 +77,7 @@ In order to render XPS to TIFF, we’ll use <a href="https://products.aspose.com
 
 {{% blocks/products/pf/agp/code-block title="XPS to TIFF Java Conversion Source Code" offSpacer="" %}}
 
-```cs
- // load the XPS file in an instance of XpsDocument
-XpsDocument document = new XpsDocument("template.xps");
-// create an instance of TiffSaveOptions
-TiffSaveOptions options = new TiffSaveOptions();
-// create rendering device for XPS format
-ImageDevice device = new ImageDevice();
-// save XPS as TIFF
-document.save(device, options);   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "7804c7e1f9f1ded0fc3b504c0a74f611" "convert-xps-to-tiff.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -74,32 +74,7 @@ In order to render PS to PDF, we’ll use <a href="https://products.aspose.com/p
 
 {{% blocks/products/pf/agp/code-block title="PS to PDF Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// initialize PDF output stream
-FileOutputStream pdfStream = new FileOutputStream("output.pdf");
-    
- // initialize PostScript input stream
-FileInputStream psStream = new FileInputStream("input.ps");
-
-// load PS document from steam
-PsDocument document = new PsDocument(psStream);
-
-// initialize PdfSaveOptions 
-// set necessary properties
-PdfSaveOptions options = new PdfSaveOptions();
-options.setJpegQualityLevel(100);
-options.setImageCompression(com.aspose.xps.rendering.PdfImageCompression.Jpeg);
-options.setTextCompression(com.aspose.xps.rendering.PdfTextCompression.Flate);
-options.setPageNumbers(new int[] { 1, 2, 6 });
-
-// create rendering device for PDF format
-PdfDevice device = new PdfDevice(pdfStream);
-// render PS as PDF
-document.save(device, options);   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "7804c7e1f9f1ded0fc3b504c0a74f611" "convert-ps-to-pdf.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

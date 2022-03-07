@@ -77,28 +77,7 @@ In order to render XPS to PDF, we’ll use <a href="https://products.aspose.com/
 
 {{% blocks/products/pf/agp/code-block title="XPS to PDF Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// initialize PDF output stream
-FileOutputStream pdfStream = new FileOutputStream("output.pdf");
-
-// load XPS document
-XpsDocument document = new XpsDocument("input.xps");
-
-// initialize PdfSaveOptions with necessary parameters
-PdfSaveOptions options = new PdfSaveOptions();
-options.setJpegQualityLevel(100);
-options.setImageCompression(com.aspose.xps.rendering.PdfImageCompression.Jpeg);
-options.setTextCompression(com.aspose.xps.rendering.PdfTextCompression.Flate);
-options.setPageNumbers(new int[] { 1, 2, 6 });
-
-// create rendering device for PDF format
-PdfDevice device = new PdfDevice(pdfStream);
-// render XPS as PDF
-document.save(device, options);   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "7804c7e1f9f1ded0fc3b504c0a74f611" "convert-xps-to-pdf.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

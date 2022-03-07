@@ -74,23 +74,7 @@ In order to render PS to EPS, we’ll use <a href="https://products.aspose.com/p
 
 {{% blocks/products/pf/agp/code-block title="PS to EPS Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// initialize PostScript input stream
-FileInputStream psStream = new FileInputStream("input.ps");
-
-// load PS document
-PsDocument document = new PsDocument(psStream);
-
-//create an instance of EpsSaveOptions
-EpsSaveOptions options = new EpsSaveOptions();
-//create rendering device for PS format
-ImageDevice device = new ImageDevice();
-//save PS as EPS
-document.save(device, options);   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "7804c7e1f9f1ded0fc3b504c0a74f611" "convert-ps-to-eps.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
