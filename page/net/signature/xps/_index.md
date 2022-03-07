@@ -68,19 +68,7 @@ PM> Install-Package Aspose.Page
 
 {{% blocks/products/pf/agp/code-block title="e-Sign XPS Files - C#" offSpacer="" %}}
 
-```cs
-XpsDocument document = new XpsDocument();
-
-XpsSolidColorBrush textFill = document.CreateSolidColorBrush(Color.Black);
-			
-textFill = document.CreateSolidColorBrush(Color.Black);
-//Add glyph to the document
-XpsGlyphs glyphs = document.AddGlyphs("Arial", 24, FontStyle.Regular, 450f, 50f, "eSignature Text");
-glyphs.Fill = textFill;
-
-document.Save("outPath.xps");  
-
-```
+{{< gist "aspose-com-gists" "4bea593fe35730d0d7831b00b656f9fc" "electronically-sign-xps-file.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

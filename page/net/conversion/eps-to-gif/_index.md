@@ -65,25 +65,7 @@ PM> Install-Package Aspose.Page
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows EPS to GIF C# Conversion" offSpacer="" %}}
 
-```cs
-// create a stream for input EPS file
-using (var psStream = new System.IO.FileStream("template.eps", System.IO.FileMode.Create, System.IO.FileAccess.Read))
-{
-    // create a stream for output GIF file
-    using (var pdfStream = System.IO.File.Open("output.gif", System.IO.FileMode.Open, System.IO.FileAccess.Write))
-    {
-        // load the EPS file from stream
-        var document = new Aspose.Page.EPS.PsDocument(psStream);
-        // create an instance of ImageSaveOptions
-        var options = new Aspose.Page.EPS.Device.ImageSaveOptions();
-        // create rendering device for GIF
-        var device = new Aspose.Page.EPS.Device.ImageDevice(System.Drawing.Imaging.ImageFormat.Gif);
-        // save EPS as GIF
-        document.Save(device, options);
-    }
-} 
-
-```
+{{< gist "aspose-com-gists" "4bea593fe35730d0d7831b00b656f9fc" "convert-eps-to-gif.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -65,25 +65,7 @@ PM> Install-Package Aspose.Page
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows PS to BMP C# Conversion" offSpacer="" %}}
 
-```cs
-// create a stream for input PS file
-using (var psStream = new System.IO.FileStream("template.ps", System.IO.FileMode.Create, System.IO.FileAccess.Read))
-{
-    // create a stream for output BMP file
-    using (var pdfStream = System.IO.File.Open("output.bmp", System.IO.FileMode.Open, System.IO.FileAccess.Write))
-    {
-        // load the PS file from stream
-        var document = new Aspose.Page.EPS.PsDocument(psStream);
-        // create an instance of ImageSaveOptions
-        var options = new Aspose.Page.EPS.Device.ImageSaveOptions();
-        // create rendering device for BMP
-        var device = new Aspose.Page.EPS.Device.ImageDevice(System.Drawing.Imaging.ImageFormat.Bmp);
-        // save PS as BMP
-        document.Save(device, options);
-    }
-} 
-
-```
+{{< gist "aspose-com-gists" "4bea593fe35730d0d7831b00b656f9fc" "convert-ps-to-bmp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

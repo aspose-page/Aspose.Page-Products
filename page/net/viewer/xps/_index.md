@@ -66,25 +66,7 @@ PM> Install-Package Aspose.Page
 
 {{% blocks/products/pf/agp/code-block title="C# code to view XPS" offSpacer="" %}}
 
-```cs
-
-string output = System.IO.Path.GetTempPath() + Guid.NewGuid().ToString() + ".pdf";
-// create a stream for output PDF file
-using (var stream = System.IO.File.Open(output, System.IO.FileMode.Open, System.IO.FileAccess.Write))
-{
-    // load the XPS via XpsDocument class constructor
-    var document = new Aspose.Page.XPS.XpsDocument("template.xps", new Aspose.Page.XPS.XpsLoadOptions());
-    // create an instance of PdfSaveOptions
-    var options = new Aspose.Page.XPS.Presentation.Pdf.PdfSaveOptions();
-    // create PDF rendering device for XPS while passing the output stream as parameter
-    var device = new Aspose.Page.XPS.Presentation.Pdf.PdfDevice(stream);
-    // save XPS as PDF
-    document.Save(device, options);
-}
-// load resultant PDF in default application
-System.Diagnostics.Process.Start(output);
-
-```
+{{< gist "aspose-com-gists" "4bea593fe35730d0d7831b00b656f9fc" "view-xps-file-format.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

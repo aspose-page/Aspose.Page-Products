@@ -65,21 +65,7 @@ PM> Install-Package Aspose.Page
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows XPS to PDF C# Conversion" offSpacer="" %}}
 
-```cs
-// create a stream for output PDF file
-using (var output = System.IO.File.Open("output.pdf", System.IO.FileMode.Open, System.IO.FileAccess.Write))
-{
-    // load the XPS via XpsDocument class constructor
-    var document = new Aspose.Page.XPS.XpsDocument("template.xps", new Aspose.Page.XPS.XpsLoadOptions());
-    // create an instance of PdfSaveOptions
-    var options = new Aspose.Page.XPS.Presentation.Pdf.PdfSaveOptions();
-    // create PDF rendering device for XPS while passing the output stream as parameter
-    var device = new Aspose.Page.XPS.Presentation.Pdf.PdfDevice(output);
-    // save XPS as PDF
-    document.Save(device, options);
-} 
-
-```
+{{< gist "aspose-com-gists" "4bea593fe35730d0d7831b00b656f9fc" "convert-xps-to-pdf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

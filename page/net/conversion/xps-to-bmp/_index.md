@@ -65,17 +65,7 @@ PM> Install-Package Aspose.Page
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows XPS to BMP C# Conversion" offSpacer="" %}}
 
-```cs
-// load the XPS file in an instance of XpsDocument
-var document = new Aspose.Page.XPS.XpsDocument("template.xps", new Aspose.Page.XPS.XpsLoadOptions());
-// create an instance of BmpSaveOptions
-var options = new Aspose.Page.XPS.Presentation.Image.BmpSaveOptions();
-// create rendering device for XPS format
-var device = new Aspose.Page.XPS.Presentation.Image.ImageDevice();
-// save XPS as BMP
-document.Save(device, options); 
-
-```
+{{< gist "aspose-com-gists" "4bea593fe35730d0d7831b00b656f9fc" "convert-xps-to-bmp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

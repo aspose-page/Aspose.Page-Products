@@ -65,25 +65,7 @@ PM> Install-Package Aspose.Page
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows EPS to PDF C# Conversion" offSpacer="" %}}
 
-```cs
-// create a stream for input EPS file
-using (var psStream = new System.IO.FileStream("template.eps", System.IO.FileMode.Create, System.IO.FileAccess.Read))
-{
-    // create a stream for output PDF file
-    using (var pdfStream = System.IO.File.Open("output.pdf", System.IO.FileMode.Open, System.IO.FileAccess.Write))
-    {
-        // load the EPS file from stream
-        var document = new Aspose.Page.EPS.PsDocument(psStream);
-        // create an instance of PdfSaveOptions
-        var options = new Aspose.Page.EPS.Device.PdfSaveOptions();
-        // create PDF rendering device for EPS
-        var device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
-        // save EPS as PDF
-        document.Save(device, options);
-    }
-} 
-
-```
+{{< gist "aspose-com-gists" "4bea593fe35730d0d7831b00b656f9fc" "convert-eps-to-pdf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

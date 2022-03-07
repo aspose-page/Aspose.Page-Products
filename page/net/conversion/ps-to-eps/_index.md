@@ -61,25 +61,7 @@ PM> Install-Package Aspose.Page
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows PS to EPS C# Conversion" offSpacer="" %}}
 
-```cs
-// create a stream for input PS file
-using (var psStream = new System.IO.FileStream("template.ps", System.IO.FileMode.Create, System.IO.FileAccess.Read))
-{
-    // create a stream for output EPS file
-    using (var pdfStream = System.IO.File.Open("output.eps", System.IO.FileMode.Open, System.IO.FileAccess.Write))
-    {
-        // load the PS file from stream
-        var document = new Aspose.Page.EPS.PsDocument(psStream);
-        // create an instance of ImageSaveOptions
-        var options = new Aspose.Page.EPS.Device.ImageSaveOptions();
-        // create rendering device for EPS
-        var device = new Aspose.Page.EPS.Device.ImageDevice(System.Drawing.Imaging.ImageFormat.Eps);
-        // save PS as EPS
-        document.Save(device, options);
-    }
-} 
-
-```
+{{< gist "aspose-com-gists" "4bea593fe35730d0d7831b00b656f9fc" "convert-ps-to-eps.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

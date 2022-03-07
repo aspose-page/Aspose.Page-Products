@@ -338,19 +338,7 @@ description: C# ASP.NET VB.NET library to load and convert XPS PS and EPS files 
      <h3>
       Create document pages from scratch - C#
      </h3>
-     <pre><code class="cs">// create XPS document
-
-XpsDocument xDocs = new XpsDocument();
-
-// add glyph to the document
-
-var glyphs = xDocs.AddGlyphs("Arial", 12, FontStyle.Regular, 300f, 450f, "Hello World!");
-
-glyphs.Fill = xDocs.CreateSolidColorBrush(Color.Black);
-
-// save result
-
-xDocs.Save(dir + "output.xps");</code></pre>
+     {{< gist "aspose-com-gists" "4bea593fe35730d0d7831b00b656f9fc" "create-xps-document.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
