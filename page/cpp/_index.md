@@ -363,21 +363,7 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
      <h3>
       Add document Pages to XPS file - C++
      </h3>
-     <pre><code class="cs">// Create new XPS file
-
-auto doc = System::MakeObject&lt;XpsDocument&gt;(dataDir() + u"Sample1.xps");
-
-// Add empty page at end
-
-doc-&gt;AddPage();
-
-// Insert an empty page at beginning of pages list
-
-doc-&gt;InsertPage(1, true);
-
-// Save resultant XPS document
-
-doc-&gt;Save(outDir() + u"AddPages_out.xps");</code></pre>
+    {{< gist "aspose-com-gists" "e1af0e06639806637acbe94be7b2c76a" "create-xps-file-and-add-pages.cpp" >}}
     </div>
    </div>
    <div class="col-lg-12">

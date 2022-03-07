@@ -63,23 +63,7 @@ PM> Install-Package Aspose.Page.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Convert XPS to TIFF - C++ " offSpacer="" %}}
 
-```cs
-System::SharedPtr<System::IO::Stream> xpsStream = System::IO::File::Open(u"sourceFile.xps", System::IO::FileMode::Open, System::IO::FileAccess::Read);
-
-// Load XPS document form the stream
-System::SharedPtr<XpsDocument> document = System::MakeObject<XpsDocument>(xpsStream, System::MakeObject<XpsLoadOptions>());
-
-// Initialize options object with necessary parameters.
-System::SharedPtr<TiffSaveOptions> options = [&] { auto tmp_0 = System::MakeObject<TiffSaveOptions>(); return tmp_0; }();
-
-System::SharedPtr<ImageDevice> device = System::MakeObject<ImageDevice>();
-
-document->Save(device, options);
-// Iterate through document partitions
-// Initialize image output stream
-// Write to image stream
-
-```
+{{< gist "aspose-com-gists" "e1af0e06639806637acbe94be7b2c76a" "convert-xps-to-tiff.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

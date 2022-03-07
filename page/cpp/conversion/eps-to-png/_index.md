@@ -63,35 +63,7 @@ PM> Install-Package Aspose.Page.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Convert EPS to PNG - C++ " offSpacer="" %}}
 
-```cs
-System::SharedPtr<System::Drawing::Imaging::ImageFormat> imageFormat = System::Drawing::Imaging::ImageFormat::get_Png();
-
-System::SharedPtr<System::IO::FileStream> epsStream = System::MakeObject<System::IO::FileStream>(u"sourceFile.eps", System::IO::FileMode::Open, System::IO::FileAccess::Read);
-
-System::SharedPtr<EpsDocument> document = System::MakeObject<EpsDocument>(epsStream);
-
-// If you want to convert Postscript file despite of minor errors set this flag
-bool suppressErrors = true;
-
-//Initialize options object with necessary parameters.
-System::SharedPtr<ImageSaveOptions> options = System::MakeObject<ImageSaveOptions>(suppressErrors);
-
-System::SharedPtr<Aspose::Page::EPS::Device::ImageDevice> device = System::MakeObject<Aspose::Page::EPS::Device::ImageDevice>();
-
-	auto __finally_guard_0 = ::System::MakeScopeGuard([&epsStream]()
-	{
-		psStream->Close();
-	});
-
-	try{
-		document->Save(device, options);
-	}catch (...){
-		throw;
-	}
-System::ArrayPtr<System::ArrayPtr<uint8_t>> imagesBytes = device->get_ImagesBytes();
-//loop through each imagesBytes and write via file stream
-
-```
+{{< gist "aspose-com-gists" "e1af0e06639806637acbe94be7b2c76a" "convert-eps-to-png.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -63,35 +63,7 @@ PM> Install-Package Aspose.Page.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Convert PS to EMF - C++ " offSpacer="" %}}
 
-```cs
-System::SharedPtr<System::Drawing::Imaging::ImageFormat> imageFormat = System::Drawing::Imaging::ImageFormat::get_Emf();
-
-System::SharedPtr<System::IO::FileStream> psStream = System::MakeObject<System::IO::FileStream>(u"sourceFile.ps", System::IO::FileMode::Open, System::IO::FileAccess::Read);
-
-System::SharedPtr<PsDocument> document = System::MakeObject<PsDocument>(psStream);
-
-// If you want to convert Postscript file despite of minor errors set this flag
-bool suppressErrors = true;
-
-//Initialize options object with necessary parameters.
-System::SharedPtr<ImageSaveOptions> options = System::MakeObject<ImageSaveOptions>(suppressErrors);
-
-System::SharedPtr<Aspose::Page::EPS::Device::ImageDevice> device = System::MakeObject<Aspose::Page::EPS::Device::ImageDevice>();
-
-	auto __finally_guard_0 = ::System::MakeScopeGuard([&psStream]()
-	{
-		psStream->Close();
-	});
-
-	try{
-		document->Save(device, options);
-	}catch (...){
-		throw;
-	}
-System::ArrayPtr<System::ArrayPtr<uint8_t>> imagesBytes = device->get_ImagesBytes();
-//loop through each imagesBytes and write via file stream
-
-```
+{{< gist "aspose-com-gists" "e1af0e06639806637acbe94be7b2c76a" "convert-ps-to-emf.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

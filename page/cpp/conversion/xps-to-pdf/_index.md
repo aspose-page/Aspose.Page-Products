@@ -63,9 +63,7 @@ PM> Install-Package Aspose.Page.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Convert XPS to PDF - C++ " offSpacer="" %}}
 
-```cs
-
-```
+{{< gist "aspose-com-gists" "e1af0e06639806637acbe94be7b2c76a" "convert-xps-to-pdf.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

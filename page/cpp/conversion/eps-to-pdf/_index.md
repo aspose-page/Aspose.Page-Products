@@ -63,30 +63,7 @@ PM> Install-Package Aspose.Page.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Convert EPS to PDF - C++ " offSpacer="" %}}
 
-```cs
-System::SharedPtr<System::IO::FileStream> pdfStream = System::MakeObject<System::IO::FileStream>(u"outputFile.pdf", System::IO::FileMode::Create, System::IO::FileAccess::Write);
-// Initialize PostScript input stream
-System::SharedPtr<System::IO::FileStream> epsStream = System::MakeObject<System::IO::FileStream>(u"sourceFile.eps", System::IO::FileMode::Open, System::IO::FileAccess::Read);
-System::SharedPtr<EpsDocument> document = System::MakeObject<EpsDocument>(epsStream);
-bool suppressErrors = true;
-System::SharedPtr<PdfSaveOptions> options = System::MakeObject<PdfSaveOptions>(suppressErrors);
-
-// Default page size or set it as of requirement
-System::SharedPtr<Aspose::Page::EPS::Device::PdfDevice> device = System::MakeObject<Aspose::Page::EPS::Device::PdfDevice>(pdfStream);
-
-	auto __finally_guard_0 = ::System::MakeScopeGuard([&epsStream, &pdfStream]()
-	{
-		epsStream->Close();
-		pdfStream->Close();
-	});
-
-	try{
-		document->Save(device, options);
-	}catch (...){
-		throw;
-	}
-
-```
+{{< gist "aspose-com-gists" "e1af0e06639806637acbe94be7b2c76a" "convert-eps-to-pdf.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
