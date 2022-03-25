@@ -1,12 +1,12 @@
 ---
-title: Java PS EPS and XPS Files Parsing & Conversion API - Aspose 
+title: Java PS EPS and XPS Files Parsing and Conversion API 
 weight: 360
 url: /java/ 
-description: Java library to create read or update XPS documents. Load and render PS EPS and XPS files to PDF and multiple image formats without any dependency
+description: Java library to create, read or update XPS, PS, or EPS documents. Native APIs that are easy to integrate into your own project/solution.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java File Manipulation APIs for XPS, PS & EPS" h2="Create or manipulate XPS files. Convert XPS, EP & EPS documents to PDF and various images without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-java.svg" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/page/java" >}}
+{{< blocks/products/pf/upper-banner h1="XPS, PS, and EPS files Manipulation Java APIs" h2="Convert XPS, EP, and EPS documents to PDF and various images without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-java.svg" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/page/java" tryOnlineUrl="https://products.aspose.app/font/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for Java" >}}
 
@@ -14,7 +14,11 @@ description: Java library to create read or update XPS documents. Load and rende
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Page for Java is an XPS and PostScript document processing and parsing API. Developers can convert PS &amp; EPS files to PDF and raster image formats. API also permits the users to create, parse and save XPS files as well as add and remove pages within the documents. Furthermore, developers may create canvases, paths and glyph elements for XPS documents and perform operations such as add or remove pages, create vectors &amp; strings, use brushes, and manipulate the appearance of elements.
+Page Description Languages describe the appearance of a page at a higher level than an array of pixels. PDLs serve as a binding link between computer applications, such as graphics tools, text editors, etc, and output devices: publishing (printing) systems and displays. Most printing systems treat printed pages as a rectangle of m pixels in a width and n pixels in a height. Of course, it is not convenient to store such large files in memory, edit them, and transfer them over the distributed network. 
+This solution supports PS, EPS, and XPS PDLs.
+</p>
+<p>
+Aspose.Page for Java is an XPS and PostScript document processing and parsing API. Developers can convert PS, XPS, and EPS files to PDF and raster image formats. API also permits the users to create, parse and save XPS files as well as add and remove pages within the documents. Furthermore, developers may create canvases, paths, and glyph elements for XPS documents and perform operations such as adding or removing pages, creating vectors and strings, using brushes, and manipulating the appearance of elements.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -231,7 +235,7 @@ description: Java library to create read or update XPS documents. Load and rende
    </header>
    <ul>
     <li>
-     GIF, EMF, WMF
+     EMF, WMF
     </li>
    </ul>
   </div>

@@ -1,12 +1,13 @@
 ---
-title: .NET Java and C++ PostScript and XPS File Parsing APIs 
+title: PostScript and XPS File Parsing APIs for .NET Java and C++
 weight: 10
 url: /family
-description: .NET Java and C++ library to read write and edit XPS documents as well as load XPS PS and EPS files for conversion to PDF and raster images
+description: Manipulate XPS, PS and EPS files with this solution. Its rich functionality  implemented for .NET, Java and C++ languages.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Developer APIs for PS, EPS & XPS File Formats" h2="Native APIs to create & manipulate XPS files. Convert XPS, PS & EPS files to PDF and raster images on any platform." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page.svg" pfName="Aspose.Page" downloadUrl="https://downloads.aspose.com/page" tryOnlineUrl="https://products.aspose.app/page/family" >}}
+{{< blocks/products/pf/upper-banner h1="PS, EPS and XPS File Formats Developer APIs" h2="Create and manipulate XPS, PS and EPS files with this  Native APIs" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page.svg" pfName="Aspose.Page" downloadUrl="https://downloads.aspose.com/page" tryOnlineUrl="https://products.aspose.app/page/family" >}}
+
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Page High Code APIs Include" >}}
@@ -36,7 +37,7 @@ Create, load, manipulate, or render Postscript and XPS files to Image formats an
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/page" >}}
-{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/page" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/page/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

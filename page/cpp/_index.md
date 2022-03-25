@@ -1,12 +1,12 @@
 ---
-title: C++ API for XPS and PostScript Parsing and Rendering 
+title: C++ API to parce and render XPS, PS and XPS files
 weight: 380
 url: /cpp/ 
-description: Library to load and convert PS, EPS and XPS files to PDF and Images. Create or manipulate XPS files in C++ applications
+description: Load and convert PS, EPS and XPS files to PDF and Images with this lIbrary. Create or manipulate XPS files in C++ applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Library for PostScript and XPS Formats" h2="Load, manipulate and convert PostScript PS, EPS and XPS files to PDF and raster images within C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-cpp.png" pfName="Aspose.Page" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/page/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Library for PostScript and XPS Formats" h2="Load, merge and convert PostScript PS, EPS and XPS files to PDF and raster images within C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-cpp.png" pfName="Aspose.Page" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/page/cpp" tryOnlineUrl="https://products.aspose.app/font/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for C++" >}}
 
@@ -14,7 +14,11 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Page for C++ is a reliable library for XPS and PostScript file rendering and manipulation. It allows to create, modify and convert existing as well as new XPS files without requiring any other software. API allows operations such as manipulation of document pages &amp; elements such as canvases, paths, and glyphs, create and manipulate vector graphics shapes and specifying colors in different color spaces. Moreover, developers can convert PS and EPS documents to PDF as well as in different raster image formats.
+Page Description Languages describe the appearance of a page at a higher level than an array of pixels. PDLs serve as a binding link between computer applications, such as graphics tools, text editors, etc, and output devices: publishing (printing) systems and displays. Most printing systems treat printed pages as a rectangle of m pixels in a width and n pixels in a height. Of course, it is not convenient to store such large files in memory, edit them, and transfer them over the distributed network. 
+This solution supports PS, EPS, and XPS PDLs.
+</p>
+<p>
+ Aspose.Page for C++ is a reliable library for XPS, PS and EPS file rendering and manipulation. It allows to create, modify and convert existing as well as new XPS files without requiring any other software. API allows operations such as manipulation of document pages and elements such as canvases, paths, and glyphs, creating and manipulating vector graphics shapes, and specifying colors in different color spaces. Moreover, developers can convert PS and EPS documents to PDF as well as in different raster image formats.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -224,11 +228,11 @@ description: Library to load and convert PS, EPS and XPS files to PDF and Images
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    EPS / PS Specific Output Formats
+    EPS/PS Specific Output Formats
    </header>
    <ul>
     <li>
-     EMF, GIF, WMF
+     EMF, WMF
     </li>
    </ul>
   </div>

@@ -1,19 +1,23 @@
 ---
-title: C# .NET API for XPS & PostScript Processing - Aspose 
+title: C# .NET API for XPS and PostScript Processing 
 weight: 100
 url: /net/ 
 description: C# ASP.NET VB.NET library to load and convert XPS PS and EPS files to PDF and Images. Create or manipulate XPS files in .NET applications
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs for PS, EPS and XPS File Formats" h2="Load, manipulate and render XPS, PS and EPS documents to PDF and raster image formats without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs for PS, EPS and XPS File Formats" h2="Load, merge, convert and render XPS, PS, and EPS documents without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" tryOnlineUrl="https://products.aspose.app/font/applications">}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Page for .NET is a reliable and standalone XPS and PostScript file manipulation and conversion API. It allows to create, edit and convert XPS files without requiring any additional tools. API allows operations such as manipulation of document pages &amp; elements, create vector graphics, group shapes and specifying colors in different color spaces. Furthermore, It allows the developers to convert PS and EPS files to PDF documents, raster images such as BMP, EMF, GIF, JPEG, PNG, TIFF and more.</p>
+<p>Page Description Languages describe the appearance of a page at a higher level than an array of pixels. PDLs serve as a binding link between computer applications, such as graphics tools, text editors, etc, and output devices: publishing (printing) systems and displays. Most printing systems treat printed pages as a rectangle of m pixels in a width and n pixels in a height. Of course, it is not convenient to store such large files in memory, edit them, and transfer them over the distributed network. 
+This solution supports PS, EPS, and XPS PDLs.
+</p>
+<p>Aspose.Page for .NET is a reliable and standalone API to convert, load, and render XPS and Postscript files. It also allows signing XPS files without requiring any additional tools. There are also such operations as manipulation of document pages and elements, creating vector graphics, grouping shapes, and specifying colors in different color spaces. Using the solution developers can convert PS, XPS, and EPS files to PDF documents, raster images such as BMP, EMF, JPEG, PNG, TIFF, and more.
+</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -141,6 +145,11 @@ description: C# ASP.NET VB.NET library to load and convert XPS PS and EPS files 
      ASP.NET Web Application
     </li>
    </ul>
+      <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET Core
+   </header>
   </div>
   <!--/right-->
  </div>
@@ -224,7 +233,7 @@ description: C# ASP.NET VB.NET library to load and convert XPS PS and EPS files 
    </header>
    <ul>
     <li>
-     EMF, GIF, WMF
+     EMF, WMF
     </li>
    </ul>
   </div>
