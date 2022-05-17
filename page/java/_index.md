@@ -6,7 +6,7 @@ description: Java library to create, read or update XPS, PS, or EPS documents. N
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="XPS, PS, and EPS files Manipulation Java APIs" h2="Convert XPS, EP, and EPS documents to PDF and various images without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-java.svg" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/page/java" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
+{{< blocks/products/pf/upper-banner h1="XPS, PS, and EPS files Manipulation Java APIs" h2="Convert XPS, PS, and EPS documents to PDF and various images without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-java.svg" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/page/java" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for Java" >}}
 
