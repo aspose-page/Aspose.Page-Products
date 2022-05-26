@@ -1,5 +1,5 @@
 ---
-title: Convert EPS to TIFF via C++ application 
+title: Convert EPS to TIFF via C++
 weight: 470
 url: /cpp/conversion/eps-to-tiff/ 
 description: EPS to TIFF conversion provided by Aspose.Page for C++ API solution. Works in C++ Runtime Environment for Windows 32 bit, Windows 64 bit, and Linux 64 bit.

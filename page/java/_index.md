@@ -1,5 +1,5 @@
 ---
-title: Java PS EPS and XPS Files Parsing and Conversion API 
+title: Java API for PostScript Processing
 weight: 360
 url: /java/ 
 description: Java library to create, read or update XPS, PS, or EPS documents. Native APIs that are easy to integrate into your own project/solution.

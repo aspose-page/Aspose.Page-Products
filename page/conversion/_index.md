@@ -1,5 +1,5 @@
 ---
-title: XPS & PostScript Format Conversion Solution 
+title: XPS, EPS, and PS Conversion Solution 
 weight: 7730
 url: /conversion
 limit: 

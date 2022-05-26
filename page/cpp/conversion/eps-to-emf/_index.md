@@ -1,5 +1,5 @@
 ---
-title: Convert EPS to EMF via C++ application 
+title: Convert EPS to EMF via C++
 weight: 400
 url: /cpp/conversion/eps-to-emf/ 
 description: EPS to EMF conversion provided by Aspose.Page for C++ API solution. Works in C++ Runtime Environment for Windows 32 bit, Windows 64 bit, and Linux 64 bit.

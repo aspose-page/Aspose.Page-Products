@@ -1,5 +1,5 @@
 ---
-title: Convert EPS to GIF via C++ application 
+title: Convert EPS to GIF via C++
 weight: 440
 url: /cpp/conversion/eps-to-gif/ 
 description: EPS to GIF conversion provided by Aspose.Page for C++ API solution. Works in C++ Runtime Environment for Windows 32 bit, Windows 64 bit, and Linux 64 bit.
