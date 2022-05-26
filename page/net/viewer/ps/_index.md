@@ -2,7 +2,7 @@
 title: View PS File Formats via .NET 
 weight: 280
 url: /net/viewer/ps/ 
-description: C# source code to load, render and display PS documents on .NET Framework Platform, Windows and ASP.NET Applications.
+description: Open to view PS files. C# source code to load, render and display EPS documents on .NET Framework Platform, Windows, and ASP.NET Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

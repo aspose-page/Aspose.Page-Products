@@ -1,5 +1,5 @@
 ---
-title: PostScript and XPS File Parsing APIs for .NET Java and C++
+title: PS, EPS and XPS .NET Java and C++ APIs
 weight: 10
 url: /family
 description: Manipulate XPS, PS and EPS files with this solution. Its rich functionality  implemented for .NET, Java and C++ languages.

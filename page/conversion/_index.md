@@ -1,9 +1,9 @@
 ---
-title: XPS & PostScript Format Conversion Solution 
+title: XPS, EPS, and PS Conversion Solution 
 weight: 7730
 url: /conversion
 limit: 
-description: APIs & Free Apps to Convert XPS, PS & EPS files
+description: Page Description Language files conversion functionality provided by Aspose.Page native APIs and Free Apps to Convert XPS, PS, EPS, and OXPS files.
 ---
 
 {{< blocks/products/pf/agp/conversion-solution >}} 

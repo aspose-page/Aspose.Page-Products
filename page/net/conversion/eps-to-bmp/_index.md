@@ -2,7 +2,7 @@
 title: Convert EPS to BMP via C# 
 weight: 40
 url: /net/conversion/eps-to-bmp/ 
-description: Sample code for EPS to BMP C# conversion. Use API example code for batch EPS files to BMP conversion within VB.NET, Asp.NET or any .NET based application.
+description: Sample code for EPS to BMP C# conversion. Use API code snippets for batch EPS files to BMP conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

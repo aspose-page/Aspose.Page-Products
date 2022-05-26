@@ -1,5 +1,5 @@
 ---
-title: XPS, PS and EPS File Format Cloud and App Based Solution 
+title: XPS, PS and EPS managing API Solution
 weight: 150
 url: /
 description: Develop XPS, PS, and EPS file manipulation applications using On-Premise or Cloud APIs, or simply use cross-platform apps to view, merge or convert XPS, PS, and EPS files.

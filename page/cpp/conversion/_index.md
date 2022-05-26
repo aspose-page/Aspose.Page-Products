@@ -1,7 +1,7 @@
 ---
-title: C++ Encapsulated PostScript and XPS Files Conversion
+title: PDL Conversion via C++ API
 url: /cpp/conversion/
-description: Convert PS, EPS and XPS to PDF and Images including BMP, JPG, PNG, TIFF using C++ library.
+description: Convert PS, EPS, and XPS to PDF and Images including BMP, JPG, PNG, and TIFF using the C++ library with the Aspose.Page PDL conversion functionality.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

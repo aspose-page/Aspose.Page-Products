@@ -1,5 +1,5 @@
 ---
-title: C++ API to parce and render XPS, PS and XPS files
+title: C++ API for PostScript Processing
 weight: 380
 url: /cpp/ 
 description: Load and convert PS, EPS and XPS files to PDF and Images with this lIbrary. Create or manipulate XPS files in C++ applications.

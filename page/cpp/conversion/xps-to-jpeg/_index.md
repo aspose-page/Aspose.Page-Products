@@ -1,8 +1,8 @@
 ---
-title: Convert XPS to JPEG via C++ application 
+title: Convert XPS to JPEG via C++
 weight: 130
 url: /cpp/conversion/xps-to-jpeg/ 
-description: Try our On-Premise APIs for your document conversion using C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+description: PS to JPEG conversion provided by Aspose.Page for C++ API solution. Works in C++ Runtime Environment for Windows 32 bit, Windows 64 bit, and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
