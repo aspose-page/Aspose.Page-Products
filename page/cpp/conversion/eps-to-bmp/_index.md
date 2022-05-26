@@ -2,7 +2,7 @@
 title: Convert EPS to BMP via C++ application 
 weight: 300
 url: /cpp/conversion/eps-to-bmp/ 
-description: Try our On-Premise APIs for your document conversion using C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+description: EPS to BMP conversion provided by Aspose.Page for C++ API solution. Works in C++ Runtime Environment for Windows 32 bit, Windows 64 bit, and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

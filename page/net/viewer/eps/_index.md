@@ -2,7 +2,7 @@
 title: View EPS File Formats via .NET 
 weight: 350
 url: /net/viewer/eps/ 
-description: C# source code to load, render and display EPS documents on .NET Framework Platform, Windows and ASP.NET Applications.
+description: Open to view EPS files. C# source code to load, render and display EPS documents on .NET Framework Platform, Windows, and ASP.NET Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

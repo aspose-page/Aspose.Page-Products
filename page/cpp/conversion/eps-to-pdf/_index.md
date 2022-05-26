@@ -2,7 +2,7 @@
 title: Convert EPS to PDF via C++ application 
 weight: 420
 url: /cpp/conversion/eps-to-pdf/ 
-description: Try our On-Premise APIs for your document conversion using C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+description: EPS to PDF conversion provided by Aspose.Page for C++ API solution. Works in C++ Runtime Environment for Windows 32 bit, Windows 64 bit, and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,7 +2,7 @@
 title: eSign XPS Files via .NET 
 weight: 50
 url: /net/signature/xps/ 
-description: C# source code to e-Sgin XPS documents on .NET Framework Platform, Windows and ASP.NET Applications.
+description: C# source code to e-Sign XPS documents on .NET Framework Platform, Windows, and ASP.NET Applications. Simple APIs for XPS Signature functionality.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

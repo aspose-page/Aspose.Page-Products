@@ -2,7 +2,7 @@
 title: View XPS File Formats via .NET 
 weight: 170
 url: /net/viewer/xps/ 
-description: C# source code to load, render and display XPS documents on .NET Framework Platform, Windows and ASP.NET Applications.
+description: Open to view XPS files. C# source code to load, render and display EPS documents on .NET Framework Platform, Windows, and ASP.NET Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

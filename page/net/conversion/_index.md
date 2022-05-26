@@ -1,7 +1,7 @@
 ---
 title: C# Encapsulated PostScript and XPS Files Conversion
 url: /net/conversion/
-description: Convert PS, EPS and XPS to PDF and Images including BMP, JPG, PNG, TIFF with few lines of C# code via .NET library.
+description: Convert PS, EPS, and XPS to PDF and Images including BMP, JPG, PNG, and TIFF using the .NET library with the Aspose.Page PDL conversion functionality.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
