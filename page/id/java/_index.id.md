@@ -384,7 +384,7 @@ Aspose.Page for Java adalah API penguraian dan pemrosesan dokumen XPS dan PostSc
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/page/java/" >}}
 {{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-page/Aspose.Page-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Referensi API" href="https://apireference.aspose.com/java/page" >}}
+{{< blocks/products/pf/slr-element name="Referensi API" href="https://reference.aspose.com/page/java/" >}}
 {{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -396,8 +396,8 @@ Aspose.Page for Java adalah API penguraian dan pemrosesan dokumen XPS dan PostSc
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.Page untuk Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

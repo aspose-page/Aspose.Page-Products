@@ -397,7 +397,7 @@ Toto řešení podporuje PS, EPS a XPS PDL.
 {{< blocks/products/pf/slr-tab tabTitle="Výukové zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/page/cpp/" >}}
 {{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-page/Aspose.Page-for-C" >}}
-{{< blocks/products/pf/slr-element name="Reference API" href="https://apireference.aspose.com/cpp/page" >}}
+{{< blocks/products/pf/slr-element name="Reference API" href="https://reference.aspose.com/page/cpp" >}}
 {{< blocks/products/pf/slr-element name="Výuková videa" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -409,8 +409,8 @@ Toto řešení podporuje PS, EPS a XPS PDL.
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Page pro C++?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

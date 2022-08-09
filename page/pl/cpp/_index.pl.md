@@ -397,7 +397,7 @@ To rozwiązanie obsługuje pliki PS, EPS i XPS PDL.
 {{< blocks/products/pf/slr-tab tabTitle="Zasoby edukacyjne" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentacja" href="https://docs.aspose.com/page/cpp/" >}}
 {{< blocks/products/pf/slr-element name="Kod źródłowy" href="https://github.com/aspose-page/Aspose.Page-for-C" >}}
-{{< blocks/products/pf/slr-element name="Referencje API" href="https://apireference.aspose.com/cpp/page" >}}
+{{< blocks/products/pf/slr-element name="Referencje API" href="https://reference.aspose.com/page/cpp" >}}
 {{< blocks/products/pf/slr-element name="Filmy instruktażowe" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -409,8 +409,8 @@ To rozwiązanie obsługuje pliki PS, EPS i XPS PDL.
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Page dla C++?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Lista klientów" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Historie sukcesów" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Lista klientów" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Historie sukcesów" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

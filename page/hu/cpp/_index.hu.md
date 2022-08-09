@@ -397,7 +397,7 @@ Ez a megoldás támogatja a PS, EPS és XPS PDL-eket.
 {{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/page/cpp/" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="https://github.com/aspose-page/Aspose.Page-for-C" >}}
-{{< blocks/products/pf/slr-element name="API referenciák" href="https://apireference.aspose.com/cpp/page" >}}
+{{< blocks/products/pf/slr-element name="API referenciák" href="https://reference.aspose.com/page/cpp" >}}
 {{< blocks/products/pf/slr-element name="Oktatóvideók" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -409,8 +409,8 @@ Ez a megoldás támogatja a PS, EPS és XPS PDL-eket.
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Miért az Aspose.Page C++-hoz?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

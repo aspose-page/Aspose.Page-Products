@@ -384,7 +384,7 @@ Aspose.Page for Java는 XPS 및 PostScript 문서 처리 및 구문 분석 API�
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/page/java/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-page/Aspose.Page-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.com/java/page" >}}
+{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/page/java/" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -396,8 +396,8 @@ Aspose.Page for Java는 XPS 및 PostScript 문서 처리 및 구문 분석 API�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Page for Java인가?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="고객 목록" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="성공 사례" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

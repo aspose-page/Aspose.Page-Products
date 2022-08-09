@@ -397,7 +397,7 @@ description: 이 라이브러리를 사용하여 PS, EPS 및 XPS 파일을 로�
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/page/cpp/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-page/Aspose.Page-for-C" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.com/cpp/page" >}}
+{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/page/cpp" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -409,8 +409,8 @@ description: 이 라이브러리를 사용하여 PS, EPS 및 XPS 파일을 로�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Page for C++인가?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="고객 목록" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="성공 사례" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

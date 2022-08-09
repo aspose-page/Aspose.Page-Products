@@ -6,11 +6,11 @@ description: C# ASP.NET Knihovna VB.NET pro načítání a převod souborů XPS 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET API pro formáty souborů PS, EPS a XPS" h2="Načtěte, slučujte, převádějte a vykreslujte dokumenty XPS, PS a EPS bez jakékoli softwarové závislosti." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" tryOnlineUrl="https://products.aspose.app/page/applications">}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET API pro formáty souborů PS, EPS a XPS" h2="Načtěte, slučujte, převádějte a vykreslujte dokumenty XPS, PS a EPS bez jakékoli softwarové závislosti." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/page/net/" tryOnlineUrl="https://products.aspose.app/page/applications">}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Jazyky popisu stránky popisují vzhled stránky na vyšší úrovni než pole obrazových bodů. PDL slouží jako spojovací článek mezi počítačovými aplikacemi, jako jsou grafické nástroje, textové editory atd., a výstupními zařízeními: publikační (tiskové) systémy a displeje. Většina tiskových systémů zachází s vytištěnými stránkami jako s obdélníkem o m pixelech na šířku a n pixelech na výšku. Samozřejmě není vhodné takto velké soubory ukládat do paměti, upravovat je a přenášet po distribuované síti. 
@@ -377,7 +377,7 @@ Toto řešení podporuje PS, EPS a XPS PDL.
 {{< blocks/products/pf/slr-tab tabTitle="Výukové zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-page/Aspose.Page-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="Reference API" href="https://apireference.aspose.com/net/page" >}}
+{{< blocks/products/pf/slr-element name="Reference API" href="https://reference.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="Výuková videa" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -389,13 +389,13 @@ Toto řešení podporuje PS, EPS a XPS PDL.
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Page pro .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/net" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page/net/" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Aspose.Page nabízí jednotlivá rozhraní API pro populární vývojová prostředí, jak je uvedeno níže:" >}}
 

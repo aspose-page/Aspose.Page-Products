@@ -6,11 +6,11 @@ description: Bibliothèque C# ASP.NET VB.NET pour charger et convertir des fichi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API .NET pour les formats de fichiers PS, EPS et XPS" h2="Chargez, fusionnez, convertissez et affichez des documents XPS, PS et EPS sans aucune dépendance logicielle." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" tryOnlineUrl="https://products.aspose.app/page/applications">}}
+{{< blocks/products/pf/i18n/upper-banner h1="API .NET pour les formats de fichiers PS, EPS et XPS" h2="Chargez, fusionnez, convertissez et affichez des documents XPS, PS et EPS sans aucune dépendance logicielle." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/page/net/" tryOnlineUrl="https://products.aspose.app/page/applications">}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Les langages de description de page décrivent l'apparence d'une page à un niveau supérieur à un tableau de pixels. Les PDL servent de lien de liaison entre les applications informatiques, telles que les outils graphiques, les éditeurs de texte, etc., et les périphériques de sortie : les systèmes d'édition (d'impression) et les écrans. La plupart des systèmes d'impression traitent les pages imprimées comme un rectangle de m pixels en largeur et n pixels en hauteur. Bien sûr, il n'est pas pratique de stocker des fichiers aussi volumineux en mémoire, de les modifier et de les transférer sur le réseau distribué. 
@@ -377,7 +377,7 @@ Cette solution prend en charge les PDL PS, EPS et XPS.
 {{< blocks/products/pf/slr-tab tabTitle="Ressources d'apprentissage" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-page/Aspose.Page-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="Références API" href="https://apireference.aspose.com/net/page" >}}
+{{< blocks/products/pf/slr-element name="Références API" href="https://reference.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="Vidéos didactiques" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -389,13 +389,13 @@ Cette solution prend en charge les PDL PS, EPS et XPS.
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Page pour .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Liste des clients" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Réussites" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Liste des clients" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Réussites" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/net" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page/net/" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Aspose.Page propose des API individuelles pour les environnements de développement populaires répertoriés ci-dessous :" >}}
 

@@ -384,7 +384,7 @@ Aspose.Page für Java ist eine API zum Verarbeiten und Analysieren von XPS- und 
 {{< blocks/products/pf/slr-tab tabTitle="Lernmittel" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/page/java/" >}}
 {{< blocks/products/pf/slr-element name="Quellcode" href="https://github.com/aspose-page/Aspose.Page-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API-Referenzen" href="https://apireference.aspose.com/java/page" >}}
+{{< blocks/products/pf/slr-element name="API-Referenzen" href="https://reference.aspose.com/page/java/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial-Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -396,8 +396,8 @@ Aspose.Page für Java ist eine API zum Verarbeiten und Analysieren von XPS- und 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Warum Aspose.Page für Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Kundenliste" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Erfolgsgeschichten" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Kundenliste" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Erfolgsgeschichten" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

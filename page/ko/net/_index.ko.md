@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET 라이브러리는 XPS PS 및 EPS 파일을 로�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PS, EPS 및 XPS 파일 형식용 .NET API" h2="소프트웨어 종속성 없이 XPS, PS 및 EPS 문서를 로드, 병합, 변환 및 렌더링합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" tryOnlineUrl="https://products.aspose.app/page/applications">}}
+{{< blocks/products/pf/i18n/upper-banner h1="PS, EPS 및 XPS 파일 형식용 .NET API" h2="소프트웨어 종속성 없이 XPS, PS 및 EPS 문서를 로드, 병합, 변환 및 렌더링합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/page/net/" tryOnlineUrl="https://products.aspose.app/page/applications">}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>페이지 설명 언어는 픽셀 배열보다 높은 수준에서 페이지 모양을 설명합니다. PDL은 그래픽 도구, 텍스트 편집기 등과 같은 컴퓨터 응용 프로그램과 출력 장치(출판(인쇄) 시스템 및 디스플레이) 간의 바인딩 링크 역할을 합니다. 대부분의 인쇄 시스템은 인쇄된 페이지를 너비가 m픽셀이고 높이가 n픽셀인 직사각형으로 취급합니다. 물론 이러한 대용량 파일을 메모리에 저장하고 편집하고 분산 네트워크를 통해 전송하는 것은 편리하지 않습니다. 
@@ -377,7 +377,7 @@ description: C# ASP.NET VB.NET 라이브러리는 XPS PS 및 EPS 파일을 로�
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-page/Aspose.Page-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.com/net/page" >}}
+{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -389,13 +389,13 @@ description: C# ASP.NET VB.NET 라이브러리는 XPS PS 및 EPS 파일을 로�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why .NET용 Aspose.Page?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="고객 목록" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="성공 사례" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/net" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page/net/" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Aspose.Page는 아래와 같이 널리 사용되는 개발 환경을 위한 개별 API를 제공합니다." >}}
 

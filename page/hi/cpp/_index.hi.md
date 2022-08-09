@@ -397,7 +397,7 @@ description: इस पुस्तकालय के साथ पीएस, �
 {{< blocks/products/pf/slr-tab tabTitle="सीखने के संसाधन" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="प्रलेखन" href="https://docs.aspose.com/page/cpp/" >}}
 {{< blocks/products/pf/slr-element name="सोर्स कोड" href="https://github.com/aspose-page/Aspose.Page-for-C" >}}
-{{< blocks/products/pf/slr-element name="एपीआई संदर्भ" href="https://apireference.aspose.com/cpp/page" >}}
+{{< blocks/products/pf/slr-element name="एपीआई संदर्भ" href="https://reference.aspose.com/page/cpp" >}}
 {{< blocks/products/pf/slr-element name="ट्यूटोरियल वीडियो" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -409,8 +409,8 @@ description: इस पुस्तकालय के साथ पीएस, �
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="C++ के लिए Aspose.Page क्यों?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

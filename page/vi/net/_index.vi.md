@@ -6,11 +6,11 @@ description: Thư viện C# ASP.NET VB.NET để tải và chuyển đổi các 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Các API .NET cho Định dạng tệp PS, EPS và XPS" h2="Tải, hợp nhất, chuyển đổi và hiển thị các tài liệu XPS, PS và EPS mà không cần bất kỳ phụ thuộc phần mềm nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" tryOnlineUrl="https://products.aspose.app/page/applications">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Các API .NET cho Định dạng tệp PS, EPS và XPS" h2="Tải, hợp nhất, chuyển đổi và hiển thị các tài liệu XPS, PS và EPS mà không cần bất kỳ phụ thuộc phần mềm nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/page/net/" tryOnlineUrl="https://products.aspose.app/page/applications">}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Mô tả trang Ngôn ngữ mô tả sự xuất hiện của một trang ở cấp độ cao hơn một mảng pixel. PDL đóng vai trò như một liên kết ràng buộc giữa các ứng dụng máy tính, chẳng hạn như công cụ đồ họa, trình soạn thảo văn bản, v.v. và các thiết bị đầu ra: hệ thống xuất bản (in) và màn hình. Hầu hết các hệ thống in ấn coi các trang in là một hình chữ nhật có chiều rộng là m pixel và chiều cao là n pixel. Tất nhiên, việc lưu trữ các tệp lớn như vậy trong bộ nhớ, chỉnh sửa và chuyển chúng qua mạng phân tán là không thuận tiện. 
@@ -377,7 +377,7 @@ Giải pháp này hỗ trợ PS, EPS và XPS PDLs.
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-page/Aspose.Page-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://apireference.aspose.com/net/page" >}}
+{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://reference.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -389,13 +389,13 @@ Giải pháp này hỗ trợ PS, EPS và XPS PDLs.
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Page cho .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/net" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page/net/" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Aspose.Page cung cấp các API riêng lẻ cho các môi trường phát triển phổ biến như được liệt kê bên dưới:" >}}
 

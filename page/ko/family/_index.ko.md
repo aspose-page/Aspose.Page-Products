@@ -31,7 +31,7 @@ Windows Forms, ASP.NET 또는 .NET Framework 2.0 이상을 기반으로 하는 �
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/page/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-page?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -42,8 +42,8 @@ Windows Forms, ASP.NET 또는 .NET Framework 2.0 이상을 기반으로 하는 �
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Aspose.Page 제품군을 선택해야 하는 이유" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="고객 목록" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="성공 사례" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

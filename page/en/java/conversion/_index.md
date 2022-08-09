@@ -16,7 +16,7 @@ If we define the PS and EPS files then PostScript (PS) is mainly used for printi
 
 {{% blocks/products/pf/feature-page-section  h2="PostScript to PDF Conversion" %}}
 
-Converting Postscript to PDF documents, process is, Load PS or EPS file using [PsDocument class](https://apireference.aspose.com/page/java/com.aspose.eps/PsDocument). Set the PDF saving options as of requirement using [PdfSaveOptions class](https://apireference.aspose.com/page/java/com.aspose.eps.device/PdfSaveOptions). Use [FileOutputStream](https://docs.oracle.com/javase/7/docs/api/java/io/FileOutputStream.html) for output PDF file. Use [PdfDevice class](https://apireference.aspose.com/page/java/com.aspose.eps.device/PdfDevice) having FileOutputStream object as parameter. Finally call the [save method](https://apireference.aspose.com/page/java/com.aspose.eps/PsDocument#save-com.aspose.page.Device-com.aspose.page.SaveOptions-) for saving into PDF file.
+Converting Postscript to PDF documents, process is, Load PS or EPS file using [PsDocument class](https://reference.aspose.com/page/java/com.aspose.eps/PsDocument). Set the PDF saving options as of requirement using [PdfSaveOptions class](https://reference.aspose.com/page/java/com.aspose.eps.device/PdfSaveOptions). Use [FileOutputStream](https://docs.oracle.com/javase/7/docs/api/java/io/FileOutputStream.html) for output PDF file. Use [PdfDevice class](https://reference.aspose.com/page/java/com.aspose.eps.device/PdfDevice) having FileOutputStream object as parameter. Finally call the [save method](https://reference.aspose.com/page/java/com.aspose.eps/PsDocument#save-com.aspose.page.Device-com.aspose.page.SaveOptions-) for saving into PDF file.
 
 {{% blocks/products/pf/feature-page-code h3="Java Code to convert PS EPS to PDF" %}}
 
@@ -30,7 +30,7 @@ Converting Postscript to PDF documents, process is, Load PS or EPS file using [P
 
 {{% blocks/products/pf/feature-page-section  h2="Convert PostScript to Images" %}}
 
-As of API support to PostScript to images conversion, Process is, intialize input stream with PS source file and create [PsDocument](https://apireference.aspose.com/page/java/com.aspose.eps/psdocument) object with created PS input stream as parameter. Use [ImageSaveOptions](https://apireference.aspose.com/page/java/com.aspose.eps.device/imagesaveoptions) to specify AdditionalFontsFolder and SuppressError etc. Use [ImageDevice](https://apireference.aspose.com/page/java/com.aspose.eps.device/imagedevice) object for specifying image type and size if needed. Save PS/EPS file as and image with image save options as an array of arrays of bytes. One array of bytes for one page of input file.
+As of API support to PostScript to images conversion, Process is, intialize input stream with PS source file and create [PsDocument](https://reference.aspose.com/page/java/com.aspose.eps/psdocument) object with created PS input stream as parameter. Use [ImageSaveOptions](https://reference.aspose.com/page/java/com.aspose.eps.device/imagesaveoptions) to specify AdditionalFontsFolder and SuppressError etc. Use [ImageDevice](https://reference.aspose.com/page/java/com.aspose.eps.device/imagedevice) object for specifying image type and size if needed. Save PS/EPS file as and image with image save options as an array of arrays of bytes. One array of bytes for one page of input file.
 
 {{% blocks/products/pf/feature-page-code h3="Java Code for PostScript to Images Conversion" %}}
 
@@ -44,7 +44,7 @@ As of API support to PostScript to images conversion, Process is, intialize inpu
 
 {{% blocks/products/pf/feature-page-section  h2="XPS to Images JPG, PNG, BMP Conversion" %}}
 
-Jave API deals XPS format that is used for representing page layout. In any scenario, whenever there is need to convert XPS to images BMP, JPG, PNG, and TIFF programmatically, following code can easily be integrated within Java application. Conversion process is, use [XpsDocument class](https://apireference.aspose.com/page/java/com.aspose.xps/XpsDocument) to load the XPS document. Use the relevant image option class such as  [PngSaveOptions](https://apireference.aspose.com/page/java/com.aspose.xps.rendering/PngSaveOptions), [JpegSaveOptions](https://apireference.aspose.com/page/java/com.aspose.xps.rendering/JpegSaveOptions), [BmpSaveOptions](https://apireference.aspose.com/page/java/com.aspose.xps.rendering/BmpSaveOptions), [TiffSaveOptions](https://apireference.aspose.com/page/java/com.aspose.xps.rendering/TiffSaveOptions) for image additional settings. Create the [image device](https://apireference.aspose.com/page/java/com.aspose.xps.rendering/ImageDevice) class instance. Call the [XpsDocument.save](https://apireference.aspose.com/page/java/com.aspose.xps/XpsDocument#save-com.aspose.page.Device-com.aspose.page.SaveOptions-) to save converted JPEG image into ImageDevice object and then use ImageDevice for saving the image as a JPG.
+Jave API deals XPS format that is used for representing page layout. In any scenario, whenever there is need to convert XPS to images BMP, JPG, PNG, and TIFF programmatically, following code can easily be integrated within Java application. Conversion process is, use [XpsDocument class](https://reference.aspose.com/page/java/com.aspose.xps/XpsDocument) to load the XPS document. Use the relevant image option class such as  [PngSaveOptions](https://reference.aspose.com/page/java/com.aspose.xps.rendering/PngSaveOptions), [JpegSaveOptions](https://reference.aspose.com/page/java/com.aspose.xps.rendering/JpegSaveOptions), [BmpSaveOptions](https://reference.aspose.com/page/java/com.aspose.xps.rendering/BmpSaveOptions), [TiffSaveOptions](https://reference.aspose.com/page/java/com.aspose.xps.rendering/TiffSaveOptions) for image additional settings. Create the [image device](https://reference.aspose.com/page/java/com.aspose.xps.rendering/ImageDevice) class instance. Call the [XpsDocument.save](https://reference.aspose.com/page/java/com.aspose.xps/XpsDocument#save-com.aspose.page.Device-com.aspose.page.SaveOptions-) to save converted JPEG image into ImageDevice object and then use ImageDevice for saving the image as a JPG.
 
 {{% blocks/products/pf/feature-page-code h3="Java Code for XPS to Image Conversion" %}}
 
@@ -58,7 +58,7 @@ Jave API deals XPS format that is used for representing page layout. In any scen
 
 {{% blocks/products/pf/feature-page-section  h2="Convert XPS to PDF" %}}
 
-Process of converting XPS to PDF documents programmatically is simple having high fidelity results among the input and output files. Process is load the file using XpsDocument class. Initialize [PdfSaveOptions class](https://apireference.aspose.com/page/java/com.aspose.xps.rendering/PdfDevice) object and 
+Process of converting XPS to PDF documents programmatically is simple having high fidelity results among the input and output files. Process is load the file using XpsDocument class. Initialize [PdfSaveOptions class](https://reference.aspose.com/page/java/com.aspose.xps.rendering/PdfDevice) object and 
 create PdfDevice object for rendering and lastly save output PDF document.
 
 {{% blocks/products/pf/feature-page-code h3="Java Code for XPS to PDF Conversion" %}}

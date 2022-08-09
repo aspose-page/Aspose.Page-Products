@@ -31,7 +31,7 @@ description: 使用此解決方案處理 XPS、PS 和 EPS 文件。它為 .NET�
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/page/" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-page?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API 參考" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API 參考" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -42,8 +42,8 @@ description: 使用此解決方案處理 XPS、PS 和 EPS 文件。它為 .NET�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="為什麼選擇 Aspose.Page 產品系列？" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="客戶名單" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="成功的故事" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

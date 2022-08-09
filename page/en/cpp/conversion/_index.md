@@ -17,7 +17,7 @@ C++ library facilitates the rendering of the PostScript PS and Encapsulated Post
 
 
 C++ library allows to convert Encapsulated PostScript (EPS) file to images on Windows and Linux platform. Process is 
-Using FileStream create the input stream for EPS file as well as create [PsDocument class](https://apireference.aspose.com/page/cpp/class/aspose.page.e_p_s.ps_document) object having input stream as parameter. For Images specific settings, use the [ImageSaveOptions class](https://apireference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.image_save_options). Define image type and size using [ImageDevice](https://apireference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.image_device). Save EPS as images with image save options to an array of arrays of bytes creating for every bytes array a new file output stream.
+Using FileStream create the input stream for EPS file as well as create [PsDocument class](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.ps_document) object having input stream as parameter. For Images specific settings, use the [ImageSaveOptions class](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.image_save_options). Define image type and size using [ImageDevice](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.image_device). Save EPS as images with image save options to an array of arrays of bytes creating for every bytes array a new file output stream.
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code for EPS to Images Conversion" %}}
 
@@ -32,7 +32,7 @@ Using FileStream create the input stream for EPS file as well as create [PsDocum
 {{% blocks/products/pf/feature-page-section  h2="PostScript to PDF Conversion" %}}
 
 
-Process of converting PostScript to PDF is same as of EPS to Images, except that developers will use [PdfSaveOptions](https://apireference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_save_options) to define additional settings such as AdditionalFontsFolder and SuppressError value etc. Moreover, will use [PdfDevice](https://apireference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_device) from created output stream. 
+Process of converting PostScript to PDF is same as of EPS to Images, except that developers will use [PdfSaveOptions](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_save_options) to define additional settings such as AdditionalFontsFolder and SuppressError value etc. Moreover, will use [PdfDevice](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_device) from created output stream. 
 
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code for PostScript to PDF Conversion" %}}
@@ -47,8 +47,8 @@ Process of converting PostScript to PDF is same as of EPS to Images, except that
 
 {{% blocks/products/pf/feature-page-section  h2="Convert XPS to PDF" %}}
 
-C++ XPS Processing API deals with conversion of XPS to Images including BMP, JPG, TIFF, PNG and more, as well as XPS to PDF conversion on Windows and Linux based systems. Process of converting XPS to PDF is, define output stream. As well as define input stream for input XPS document and pass as parameter to [XpsDocument class](https://apireference.aspose.com/page/cpp/class/aspose.page.x_p_s.xps_document) Object. 
-Specify the PDF specific save options such as TextCompression, ImageCompression and JpegQualityLevel using [PdfSaveOptions](https://apireference.aspose.com/page/cpp/class/aspose.page.x_p_s.presentation.pdf.pdf_save_options). Create an instance of [PdfDevice](https://apireference.aspose.com/page/cpp/aspose.page.xps.presentation.pdf/pdfdevice) from created earlier output stream. Finally convert XPS document as PDF with PDF save options.
+C++ XPS Processing API deals with conversion of XPS to Images including BMP, JPG, TIFF, PNG and more, as well as XPS to PDF conversion on Windows and Linux based systems. Process of converting XPS to PDF is, define output stream. As well as define input stream for input XPS document and pass as parameter to [XpsDocument class](https://reference.aspose.com/page/cpp/class/aspose.page.x_p_s.xps_document) Object. 
+Specify the PDF specific save options such as TextCompression, ImageCompression and JpegQualityLevel using [PdfSaveOptions](https://reference.aspose.com/page/cpp/class/aspose.page.x_p_s.presentation.pdf.pdf_save_options). Create an instance of [PdfDevice](https://reference.aspose.com/page/cpp/aspose.page.xps.presentation.pdf/pdfdevice) from created earlier output stream. Finally convert XPS document as PDF with PDF save options.
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code for XPS to PDF Conversion" %}}
 

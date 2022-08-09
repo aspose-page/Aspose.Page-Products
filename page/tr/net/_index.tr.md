@@ -6,11 +6,11 @@ description: XPS PS ve EPS dosyalarını yüklemek ve PDF ve Görüntülere dön
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PS, EPS ve XPS Dosya Biçimleri için .NET API'leri" h2="XPS, PS ve EPS belgelerini herhangi bir yazılım bağımlılığı olmadan yükleyin, birleştirin, dönüştürün ve oluşturun." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" tryOnlineUrl="https://products.aspose.app/page/applications">}}
+{{< blocks/products/pf/i18n/upper-banner h1="PS, EPS ve XPS Dosya Biçimleri için .NET API'leri" h2="XPS, PS ve EPS belgelerini herhangi bir yazılım bağımlılığı olmadan yükleyin, birleştirin, dönüştürün ve oluşturun." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/page/net/" tryOnlineUrl="https://products.aspose.app/page/applications">}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Sayfa Tanımlama Dilleri, bir sayfanın görünümünü bir piksel dizisinden daha yüksek bir düzeyde tanımlar. PDL'ler, grafik araçları, metin editörleri vb. gibi bilgisayar uygulamaları ile çıktı aygıtları: yayınlama (baskı) sistemleri ve ekranları arasında bağlayıcı bir bağlantı görevi görür. Çoğu yazdırma sistemi, yazdırılan sayfaları genişlikte m piksel ve yükseklikte n pikselden oluşan bir dikdörtgen olarak ele alır. Elbette bu kadar büyük dosyaları bellekte depolamak, düzenlemek ve dağıtık ağ üzerinden aktarmak uygun değildir. 
@@ -377,7 +377,7 @@ Bu çözüm PS, EPS ve XPS PDL'leri destekler.
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-page/Aspose.Page-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API Referansları" href="https://apireference.aspose.com/net/page" >}}
+{{< blocks/products/pf/slr-element name="API Referansları" href="https://reference.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -389,13 +389,13 @@ Bu çözüm PS, EPS ve XPS PDL'leri destekler.
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why .NET için Aspose.Page?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/net" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page/net/" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Aspose.Page, popüler geliştirme ortamları için aşağıda listelendiği gibi bireysel API'ler sunar:" >}}
 

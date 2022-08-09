@@ -384,7 +384,7 @@ Aspose.Page for Java 是一個 XPS 和 PostScript 文檔處理和解析 API。�
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/page/java/" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-page/Aspose.Page-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API 參考" href="https://apireference.aspose.com/java/page" >}}
+{{< blocks/products/pf/slr-element name="API 參考" href="https://reference.aspose.com/page/java/" >}}
 {{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -396,8 +396,8 @@ Aspose.Page for Java 是一個 XPS 和 PostScript 文檔處理和解析 API。�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="為什麼選擇 Java 版 Aspose.Page？" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="客戶名單" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="成功的故事" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

@@ -17,7 +17,7 @@ Moreover, for XPS files transformation, API can add or remove pages, deals with 
 
 {{% blocks/products/pf/feature-page-section  h2="Convert PostScript to PDF" %}}
 
-To convert PostScript PS and Encapsulated PostScript EPS files to PDF, Process is, load PS or EPS file using [PsDocument class](https://apireference.aspose.com/page/net/aspose.page.eps/psdocument). Set PDF options using [PdfSaveOptions class](https://apireference.aspose.com/page/net/aspose.page.eps.device/pdfsaveoptions). Use [FileStream class](https://docs.microsoft.com/en-us/dotnet/api/system.io.filestream) for output PDF file. Use [PdfDevice class](https://apireference.aspose.com/page/net/aspose.page.eps.device/pdfdevice) by intializing with output PDF filestream object. And finally call [PsDocument.Save](https://apireference.aspose.com/page/net/aspose.page.eps/psdocument/methods/save) for PDF conversion.
+To convert PostScript PS and Encapsulated PostScript EPS files to PDF, Process is, load PS or EPS file using [PsDocument class](https://reference.aspose.com/page/net/aspose.page.eps/psdocument). Set PDF options using [PdfSaveOptions class](https://reference.aspose.com/page/net/aspose.page.eps.device/pdfsaveoptions). Use [FileStream class](https://docs.microsoft.com/en-us/dotnet/api/system.io.filestream) for output PDF file. Use [PdfDevice class](https://reference.aspose.com/page/net/aspose.page.eps.device/pdfdevice) by intializing with output PDF filestream object. And finally call [PsDocument.Save](https://reference.aspose.com/page/net/aspose.page.eps/psdocument/methods/save) for PDF conversion.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code for PS EPS to PDF Conversion" %}}
 
@@ -31,7 +31,7 @@ To convert PostScript PS and Encapsulated PostScript EPS files to PDF, Process i
 
 {{% blocks/products/pf/feature-page-section  h2="PostScript to Images Conversion" %}}
 
-For any EPS/PS PostScript to image converter application, following code works well. Process is, Load document using PsDocument class having input file stream as parameter. Create [ImageSaveOptions class](https://apireference.aspose.com/page/net/aspose.page.xps.presentation.image/imagesaveoptions) object and intialize it with required settings. Finally save each input file page to an image PNG, JPG, TIFF, BMP etc.
+For any EPS/PS PostScript to image converter application, following code works well. Process is, Load document using PsDocument class having input file stream as parameter. Create [ImageSaveOptions class](https://reference.aspose.com/page/net/aspose.page.xps.presentation.image/imagesaveoptions) object and intialize it with required settings. Finally save each input file page to an image PNG, JPG, TIFF, BMP etc.
 
 
 {{% blocks/products/pf/feature-page-code h3="C# Code for PostScript to Images Conversion" %}}
@@ -46,7 +46,7 @@ For any EPS/PS PostScript to image converter application, following code works w
 
 {{% blocks/products/pf/feature-page-section  h2="Convert XPS to Images JPG, PNG, BMP" %}}
 
-.NET API also supports XPS Conversion to Images BMP, JPG, PNG, TIFF etc. and provides [XpsDocument class](https://apireference.aspose.com/page/net/aspose.page.xps/xpsdocument) for XPS operations. To convert **XPS to Image**, Process is, Load XPS file from stream. Intialize the relevant image save options e.g for **XPS to JPG** it is [JpegSaveOptions](https://apireference.aspose.com/page/net/aspose.page.xps.presentation.image/jpegsaveoptions) and for **XPS to PNG** its [PngSaveOptions](https://apireference.aspose.com/page/net/aspose.page.xps.presentation.image/jpegsaveoptions). Here is list of all XPS to Image [save options](https://apireference.aspose.com/page/net/aspose.page.xps.presentation.image). Define relevant settings such as SmoothingMode, Resolution, and PageNumbers etc for rendering. Finally iterate through document partitions to save into images.
+.NET API also supports XPS Conversion to Images BMP, JPG, PNG, TIFF etc. and provides [XpsDocument class](https://reference.aspose.com/page/net/aspose.page.xps/xpsdocument) for XPS operations. To convert **XPS to Image**, Process is, Load XPS file from stream. Intialize the relevant image save options e.g for **XPS to JPG** it is [JpegSaveOptions](https://reference.aspose.com/page/net/aspose.page.xps.presentation.image/jpegsaveoptions) and for **XPS to PNG** its [PngSaveOptions](https://reference.aspose.com/page/net/aspose.page.xps.presentation.image/jpegsaveoptions). Here is list of all XPS to Image [save options](https://reference.aspose.com/page/net/aspose.page.xps.presentation.image). Define relevant settings such as SmoothingMode, Resolution, and PageNumbers etc for rendering. Finally iterate through document partitions to save into images.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code for XPS to Image Conversion" %}}
 
