@@ -6,11 +6,11 @@ description: ไลบรารี C# ASP.NET VB.NET เพื่อโหลด
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET API สำหรับรูปแบบไฟล์ PS, EPS และ XPS" h2="โหลด ผสาน แปลง และแสดงผลเอกสาร XPS, PS และ EPS โดยไม่ต้องพึ่งพาซอฟต์แวร์ใดๆ" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" tryOnlineUrl="https://products.aspose.app/page/applications">}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET API สำหรับรูปแบบไฟล์ PS, EPS และ XPS" h2="โหลด ผสาน แปลง และแสดงผลเอกสาร XPS, PS และ EPS โดยไม่ต้องพึ่งพาซอฟต์แวร์ใดๆ" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/page/net/" tryOnlineUrl="https://products.aspose.app/page/applications">}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>คำอธิบายเพจ ภาษาอธิบายลักษณะที่ปรากฏของเพจในระดับที่สูงกว่าอาร์เรย์ของพิกเซล PDL ทำหน้าที่เป็นตัวเชื่อมระหว่างแอปพลิเคชันคอมพิวเตอร์ เช่น เครื่องมือกราฟิก โปรแกรมแก้ไขข้อความ ฯลฯ และอุปกรณ์ส่งออก: ระบบและจอแสดงผลสำหรับเผยแพร่ (การพิมพ์) ระบบการพิมพ์ส่วนใหญ่ถือว่าหน้าที่พิมพ์เป็นรูปสี่เหลี่ยมผืนผ้า m พิกเซลในความกว้างและ n พิกเซลในความสูง แน่นอนว่าไม่สะดวกที่จะเก็บไฟล์ขนาดใหญ่ดังกล่าวไว้ในหน่วยความจำ แก้ไข และโอนไฟล์ผ่านเครือข่ายแบบกระจาย 
@@ -377,7 +377,7 @@ description: ไลบรารี C# ASP.NET VB.NET เพื่อโหลด
 {{< blocks/products/pf/slr-tab tabTitle="แหล่งเรียนรู้" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="เอกสาร" href="https://docs.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="รหัสแหล่งที่มา" href="https://github.com/aspose-page/Aspose.Page-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="การอ้างอิง API" href="https://apireference.aspose.com/net/page" >}}
+{{< blocks/products/pf/slr-element name="การอ้างอิง API" href="https://reference.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="วิดีโอสอน" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -389,13 +389,13 @@ description: ไลบรารี C# ASP.NET VB.NET เพื่อโหลด
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Page สำหรับ .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/net" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page/net/" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Aspose.Page นำเสนอ API แต่ละรายการสำหรับสภาพแวดล้อมการพัฒนายอดนิยมตามรายการด้านล่าง:" >}}
 

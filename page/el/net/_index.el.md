@@ -6,11 +6,11 @@ description: Βιβλιοθήκη C# ASP.NET VB.NET για φόρτωση και
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET API για μορφές αρχείων PS, EPS και XPS" h2="Φορτώστε, συγχωνεύστε, μετατρέψτε και αποδώστε έγγραφα XPS, PS και EPS χωρίς εξαρτήσεις λογισμικού." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" tryOnlineUrl="https://products.aspose.app/page/applications">}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET API για μορφές αρχείων PS, EPS και XPS" h2="Φορτώστε, συγχωνεύστε, μετατρέψτε και αποδώστε έγγραφα XPS, PS και EPS χωρίς εξαρτήσεις λογισμικού." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/page/net/" tryOnlineUrl="https://products.aspose.app/page/applications">}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Περιγραφή σελίδας Οι γλώσσες περιγράφουν την εμφάνιση μιας σελίδας σε υψηλότερο επίπεδο από μια σειρά pixel. Τα PDL χρησιμεύουν ως δεσμευτικός σύνδεσμος μεταξύ εφαρμογών υπολογιστή, όπως εργαλεία γραφικών, επεξεργαστές κειμένου, κ.λπ., και συσκευές εξόδου: συστήματα δημοσίευσης (εκτύπωσης) και οθόνες. Τα περισσότερα συστήματα εκτύπωσης αντιμετωπίζουν τις εκτυπωμένες σελίδες ως ορθογώνιο m pixel σε πλάτος και n pixel σε ύψος. Φυσικά, δεν είναι βολικό να αποθηκεύετε τόσο μεγάλα αρχεία στη μνήμη, να τα επεξεργάζεστε και να τα μεταφέρετε μέσω του κατανεμημένου δικτύου. 
@@ -377,7 +377,7 @@ description: Βιβλιοθήκη C# ASP.NET VB.NET για φόρτωση και
 {{< blocks/products/pf/slr-tab tabTitle="Πόροι μάθησης" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Τεκμηρίωση" href="https://docs.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="Πηγαίος κώδικας" href="https://github.com/aspose-page/Aspose.Page-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="Αναφορές API" href="https://apireference.aspose.com/net/page" >}}
+{{< blocks/products/pf/slr-element name="Αναφορές API" href="https://reference.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="Εκπαιδευτικά βίντεο" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -389,13 +389,13 @@ description: Βιβλιοθήκη C# ASP.NET VB.NET για φόρτωση και
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Page για .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/net" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page/net/" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Το Aspose.Page προσφέρει μεμονωμένα API για δημοφιλή περιβάλλοντα ανάπτυξης όπως αναφέρονται παρακάτω:" >}}
 

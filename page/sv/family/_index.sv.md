@@ -31,7 +31,7 @@ Skapa, ladda, manipulera eller återge Postscript- och XPS-filer till bildformat
 {{< blocks/products/pf/slr-tab tabTitle="Lärresurser" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/page/" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-page?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API-referenser" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API-referenser" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -42,8 +42,8 @@ Skapa, ladda, manipulera eller återge Postscript- och XPS-filer till bildformat
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Page produktfamilj?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Kundlista" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

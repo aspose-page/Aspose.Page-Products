@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET könyvtár XPS PS és EPS fájlok PDF és képek 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET API-k PS, EPS és XPS fájlformátumokhoz" h2="Az XPS, PS és EPS dokumentumok betöltése, egyesítése, konvertálása és renderelése szoftverfüggőség nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/page/net" tryOnlineUrl="https://products.aspose.app/page/applications">}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET API-k PS, EPS és XPS fájlformátumokhoz" h2="Az XPS, PS és EPS dokumentumok betöltése, egyesítése, konvertálása és renderelése szoftverfüggőség nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-net.svg" pfName="Aspose.Page" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/page/net/" tryOnlineUrl="https://products.aspose.app/page/applications">}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Oldalleírás A nyelvek egy oldal megjelenését írják le magasabb szinten, mint egy pixeltömb. A PDL-ek kötőelemként szolgálnak a számítógépes alkalmazások, például grafikus eszközök, szövegszerkesztők stb., és a kimeneti eszközök: publikációs (nyomtató) rendszerek és kijelzők között. A legtöbb nyomtatórendszer a kinyomtatott oldalakat egy szélességben m pixelből és magasságban n képpontból álló téglalapként kezeli. Természetesen nem kényelmes ekkora fájlokat a memóriában tárolni, szerkeszteni és az elosztott hálózaton keresztül továbbítani. 
@@ -377,7 +377,7 @@ Ez a megoldás támogatja a PS, EPS és XPS PDL-eket.
 {{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="https://github.com/aspose-page/Aspose.Page-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API referenciák" href="https://apireference.aspose.com/net/page" >}}
+{{< blocks/products/pf/slr-element name="API referenciák" href="https://reference.aspose.com/page/net/" >}}
 {{< blocks/products/pf/slr-element name="Oktatóvideók" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -389,13 +389,13 @@ Ez a megoldás támogatja a PS, EPS és XPS PDL-eket.
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Page .NET-hez?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/net" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page/net/" pricingInformationLink="https://purchase.aspose.com/pricing/page/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Az Aspose.Page egyedi API-kat kínál népszerű fejlesztői környezetekhez, az alábbiak szerint:" >}}
 

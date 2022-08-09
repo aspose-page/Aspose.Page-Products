@@ -31,7 +31,7 @@ Maak, laad, manipuleer of render Postscript- en XPS-bestanden naar afbeeldingsfo
 {{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/page/" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-page?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API-referenties" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API-referenties" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Instructievideo's" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -42,8 +42,8 @@ Maak, laad, manipuleer of render Postscript- en XPS-bestanden naar afbeeldingsfo
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.Page productfamilie?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Klantenlijst:" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Klantenlijst:" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Succesverhalen" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
