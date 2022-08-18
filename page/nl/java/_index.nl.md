@@ -10,7 +10,7 @@ description: Java-bibliotheek om XPS-, PS- of EPS-documenten te maken, te lezen 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/java/" installationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="" nugetPackageName="Vaste indeling:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-page" directDownloadLink="https://downloads.aspose.com/page/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/java/" installationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="" nugetPackageName="Vaste indeling:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-page" directDownloadLink="https://downloads.aspose.com/page/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>

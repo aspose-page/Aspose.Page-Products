@@ -13,7 +13,7 @@ feature: conversion
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/cpp/" installationsDocsLink="https://docs.aspose.com/page/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/cpp/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/cpp/" installationsDocsLink="https://docs.aspose.com/page/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/cpp/" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -10,7 +10,7 @@ description: C# ASP.NET VB.NET 庫，用於加載 XPS PS 和 EPS 文件並將其
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/net/" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>頁面描述語言以比像素陣列更高的級別描述頁面的外觀。 PDL 充當計算機應用程序（例如圖形工具、文本編輯器等）與輸出設備（出版（打印）系統和顯示器）之間的綁定鏈接。大多數打印系統將打印頁面視為寬度為 m 像素，高度為 n 像素的矩形。當然，將這麼大的文件存儲在內存中、編輯它們並通過分佈式網絡傳輸它們並不方便。 
