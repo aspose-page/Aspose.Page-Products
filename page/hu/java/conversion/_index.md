@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-java.md
-title: PDL Conversion API | Jáva
+title: PDL Conversion API | Java
 url: /java/conversion/
 description: Konvertálja a PS-t, EPS-t és XPS-t PDF-be és képekké, beleértve a BMP-t, JPG-t, PNG-t és TIFF-et, a Java könyvtár használatával az Aspose.Page PDL konverziós funkcióval.
 family: page

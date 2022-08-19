@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-java.md
-title: PDL 変換 API |ジャワ
+title: PDL 変換 API | Java
 url: /java/conversion/
 description: Aspose.Page PDL 変換機能を備えた Java ライブラリを使用して、PS、EPS、および XPS を BMP、JPG、PNG、および TIFF を含む PDF および画像に変換します。
 family: page

@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-java.md
-title: API μετατροπής PDL | Ιάβα
+title: API μετατροπής PDL | Java
 url: /java/conversion/
 description: Μετατρέψτε PS, EPS και XPS σε PDF και εικόνες, συμπεριλαμβανομένων BMP, JPG, PNG και TIFF χρησιμοποιώντας τη βιβλιοθήκη Java με τη λειτουργία μετατροπής Aspose.Page PDL.
 family: page

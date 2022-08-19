@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-java.md
-title: واجهة برمجة تطبيقات تحويل PDL | جافا
+title: واجهة برمجة تطبيقات تحويل PDL | Java
 url: /java/conversion/
 description: قم بتحويل PS و EPS و XPS إلى PDF والصور بما في ذلك BMP و JPG و PNG و TIFF باستخدام مكتبة Java مع وظيفة تحويل Aspose.Page PDL.
 family: page

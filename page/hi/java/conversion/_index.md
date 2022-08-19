@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-java.md
-title: पीडीएल रूपांतरण एपीआई | जावा
+title: पीडीएल रूपांतरण एपीआई | Java
 url: /java/conversion/
 description: Aspose.Page PDL रूपांतरण कार्यक्षमता के साथ जावा लाइब्रेरी का उपयोग करके PS, EPS, और XPS को PDF और छवियों में BMP, JPG, PNG और TIFF सहित कनवर्ट करें।
 family: page

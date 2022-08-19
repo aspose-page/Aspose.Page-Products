@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-java.md
-title: PDL 변환 API | 자바
+title: PDL 변환 API | Java
 url: /java/conversion/
 description: Aspose.Page PDL 변환 기능이 있는 Java 라이브러리를 사용하여 PS, EPS 및 XPS를 BMP, JPG, PNG 및 TIFF를 포함한 PDF 및 이미지로 변환합니다.
 family: page
