@@ -24,9 +24,9 @@ name4: 릴리즈 노트
 
 {{<section why>}}
 ---
-tabTitlecpp: 왜 Aspose.PUB for C++인가?
-tabTitlejava: 왜 자바용 Aspose.PUB인가?
-tabTitlenet: 왜 .NET용 Aspose.PUB인가?
+tabTitlecpp: 왜 Aspose.Page for C++인가?
+tabTitlejava: 왜 자바용 Aspose.Page인가?
+tabTitlenet: 왜 .NET용 Aspose.Page인가?
 name1: 고객 목록
 name2: 성공 사례
 ---

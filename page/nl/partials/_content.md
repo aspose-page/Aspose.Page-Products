@@ -24,9 +24,9 @@ name4: Release-opmerkingen
 
 {{<section why>}}
 ---
-tabTitlecpp: Waarom Aspose.PUB voor C++?
-tabTitlejava: Waarom Aspose.PUB voor Java?
-tabTitlenet: Waarom Aspose.PUB voor .NET?
+tabTitlecpp: Waarom Aspose.Page voor C++?
+tabTitlejava: Waarom Aspose.Page voor Java?
+tabTitlenet: Waarom Aspose.Page voor .NET?
 name1: 'Klantenlijst:'
 name2: Succesverhalen
 ---

@@ -24,9 +24,9 @@ name4: Σημειώσεις έκδοσης
 
 {{<section why>}}
 ---
-tabTitlecpp: Γιατί Aspose.PUB για C++;
-tabTitlejava: Γιατί Aspose.PUB για Java;
-tabTitlenet: Γιατί το Aspose.PUB για .NET;
+tabTitlecpp: Γιατί Aspose.Page για C++;
+tabTitlejava: Γιατί Aspose.Page για Java;
+tabTitlenet: Γιατί το Aspose.Page για .NET;
 name1: Λίστα Πελατών
 name2: Ιστορίες επιτυχίας
 ---

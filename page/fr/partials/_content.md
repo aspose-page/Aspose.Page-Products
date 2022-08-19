@@ -24,9 +24,9 @@ name4: Notes de version
 
 {{<section why>}}
 ---
-tabTitlecpp: Pourquoi Aspose.PUB pour C++ ?
-tabTitlejava: Pourquoi Aspose.PUB pour Java ?
-tabTitlenet: Pourquoi Aspose.PUB pour .NET ?
+tabTitlecpp: Pourquoi Aspose.Page pour C++ ?
+tabTitlejava: Pourquoi Aspose.Page pour Java ?
+tabTitlenet: Pourquoi Aspose.Page pour .NET ?
 name1: Liste des clients
 name2: Réussites
 ---

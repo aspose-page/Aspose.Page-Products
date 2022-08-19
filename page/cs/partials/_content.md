@@ -24,9 +24,9 @@ name4: Poznámky k vydání
 
 {{<section why>}}
 ---
-tabTitlecpp: Proč Aspose.PUB pro C++?
-tabTitlejava: Proč Aspose.PUB pro Javu?
-tabTitlenet: Proč Aspose.PUB pro .NET?
+tabTitlecpp: Proč Aspose.Page pro C++?
+tabTitlejava: Proč Aspose.Page pro Javu?
+tabTitlenet: Proč Aspose.Page pro .NET?
 name1: Seznam zákazníků
 name2: Příběhy úspěchu
 ---

@@ -24,9 +24,9 @@ name4: रिलीज नोट्स
 
 {{<section why>}}
 ---
-tabTitlecpp: C++ के लिए Aspose.PUB क्यों?
-tabTitlejava: जावा के लिए Aspose.PUB क्यों?
-tabTitlenet: .NET के लिए Aspose.PUB क्यों?
+tabTitlecpp: C++ के लिए Aspose.Page क्यों?
+tabTitlejava: जावा के लिए Aspose.Page क्यों?
+tabTitlenet: .NET के लिए Aspose.Page क्यों?
 name1: ग्राहकों की सूची
 name2: सफलता की कहानियां
 ---

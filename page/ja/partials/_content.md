@@ -24,9 +24,9 @@ name4: リリースノート
 
 {{<section why>}}
 ---
-tabTitlecpp: Aspose.PUB for C++ を選ぶ理由
-tabTitlejava: Aspose.PUB for Java を選ぶ理由
-tabTitlenet: Aspose.PUB for .NET を選ぶ理由
+tabTitlecpp: Aspose.Page for C++ を選ぶ理由
+tabTitlejava: Aspose.Page for Java を選ぶ理由
+tabTitlenet: Aspose.Page for .NET を選ぶ理由
 name1: 顧客リスト
 name2: サクセスストーリー
 ---

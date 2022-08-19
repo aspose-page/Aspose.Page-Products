@@ -24,9 +24,9 @@ name4: Sürüm notları
 
 {{<section why>}}
 ---
-tabTitlecpp: Neden C++ için Aspose.PUB?
-tabTitlejava: Neden Java için Aspose.PUB?
-tabTitlenet: Neden .NET için Aspose.PUB?
+tabTitlecpp: Neden C++ için Aspose.Page?
+tabTitlejava: Neden Java için Aspose.Page?
+tabTitlenet: Neden .NET için Aspose.Page?
 name1: Müşteri Listesi
 name2: Başarı Öyküleri
 ---

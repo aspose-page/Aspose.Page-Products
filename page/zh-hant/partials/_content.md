@@ -24,9 +24,9 @@ name4: 發行說明
 
 {{<section why>}}
 ---
-tabTitlecpp: 為什麼 Aspose.PUB 用於 C++？
-tabTitlejava: 為什麼選擇 Aspose.PUB for Java？
-tabTitlenet: 為什麼 Aspose.PUB 用於 .NET？
+tabTitlecpp: 為什麼 Aspose.Page 用於 C++？
+tabTitlejava: 為什麼選擇 Aspose.Page for Java？
+tabTitlenet: 為什麼 Aspose.Page 用於 .NET？
 name1: 客戶名單
 name2: 成功的故事
 ---

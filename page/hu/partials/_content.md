@@ -24,9 +24,9 @@ name4: Kiadási megjegyzések
 
 {{<section why>}}
 ---
-tabTitlecpp: Miért az Aspose.PUB C++-hoz?
-tabTitlejava: Miért az Aspose.PUB a Java számára?
-tabTitlenet: Miért Aspose.PUB a .NET számára?
+tabTitlecpp: Miért az Aspose.Page C++-hoz?
+tabTitlejava: Miért az Aspose.Page a Java számára?
+tabTitlenet: Miért Aspose.Page a .NET számára?
 name1: Ügyfelek listája
 name2: Sikertörténetek
 ---
