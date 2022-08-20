@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-net.md
-title: 'API chuyển đổi PDL C# | .NET
+title: API chuyển đổi PDL C# | .NET
 url: /net/conversion/
 description: Chuyển đổi PS, EPS và XPS sang PDF và Hình ảnh bao gồm BMP, JPG, PNG và TIFF bằng cách sử dụng thư viện .NET với chức năng chuyển đổi Aspose.Page PDL.
 family: page
@@ -24,7 +24,7 @@ p3: "Giải pháp API cho .NET ở đây cho phép bạn chuyển đổi các t�
 
 {{<section feature1>}}
 ---
-title: 'Chuyển đổi PostScript sang PDF qua C# .NET.'
+title: "Chuyển đổi PostScript sang PDF qua C# .NET."
 h3: "Mã C# cho PS EPS chuyển đổi sang PDF"
 item1: "Để chuyển đổi các tệp PostScript PS và PostScript EPS được đóng gói sang PDF thông qua .NET API, bạn cần thực hiện các bước tiếp theo:"
 item2: "Tải tệp PS hoặc EPS bằng [*PsDocument Class*](https://reference.aspose.com/page/net/aspose.page.eps/psdocument/)."
@@ -36,7 +36,7 @@ item6: "Gọi [*PsDocument.Save*](https://reference.aspose.com/page/net/aspose.p
 
 {{<section feature2>}}
 ---
-title: 'Chuyển đổi PostScript sang Hình ảnh qua C# .NET.'
+title: "Chuyển đổi PostScript sang Hình ảnh qua C# .NET."
 h3: "Mã C# cho Chuyển đổi PostScript sang Hình ảnh"
 item1: "Đối với bất kỳ ứng dụng chuyển đổi EPS / PS PostScript sang hình ảnh nào, mã C# sau hoạt động tốt, vì vậy hãy thực hiện các bước tiếp theo:"
 item2: Tải tài liệu bằng cách sử dụng lớp PsDocument có luồng tệp đầu vào dưới dạng tham số.
@@ -46,7 +46,7 @@ item4: Lưu từng trang tệp đầu vào thành hình ảnh PNG, JPG, TIFF, BM
 
 {{<section feature3>}}
 ---
-title: 'Chuyển đổi XPS sang Hình ảnh JPG, PNG, BMP thông qua C# .NET.'
+title: Chuyển đổi XPS sang Hình ảnh JPG, PNG, BMP thông qua C# .NET.'
 h3: "Mã C# để chuyển đổi XPS sang hình ảnh"
 item1: ".NET API cũng hỗ trợ Chuyển đổi XPS sang Hình ảnh BMP, JPG, PNG, TIFF, v.v. và cung cấp Lớp XpsDocument cho các hoạt động XPS. Để chuyển đổi XPS thành Hình ảnh, hãy thực hiện các bước tiếp theo:"
 item2: Tải tệp XPS từ luồng.

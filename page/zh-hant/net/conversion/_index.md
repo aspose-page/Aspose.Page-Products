@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-net.md
-title: PDL 轉換 API C# | 。網
+title: PDL 轉換 API C# | .NET
 url: /net/conversion/
 description: 使用具有 Aspose.Page PDL 轉換功能的 .NET 庫將 PS、EPS 和 XPS 轉換為 PDF 和圖像，包括 BMP、JPG、PNG 和 TIFF。
 family: page

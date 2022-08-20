@@ -345,7 +345,7 @@ description: C# ASP.NET VB.NET लाइब्रेरी XPS PS और EPS फ
     </p>
     <div class="codeblock" id="code">
      <h3>
-      स्क्रैच से दस्तावेज़ पेज बनाएं - सी #
+      स्क्रैच से दस्तावेज़ पेज बनाएं -  C#
      </h3>
      {{< gist "aspose-com-gists" "4bea593fe35730d0d7831b00b656f9fc" "create-xps-document.cs" >}}
     </div>

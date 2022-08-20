@@ -36,7 +36,7 @@ item6: "اتصل بـ [*PsDocument.Save*](https://reference.aspose.com/page/net/
 
 {{<section feature2>}}
 ---
-title: 'PostScript لتحويل الصور عبر C# .NET.'
+title: PostScript لتحويل الصور عبر C# .NET.'
 h3: "كود C# لتحويل PostScript إلى صور"
 item1: "لأي تطبيق EPS / PS PostScript لتحويل الصور ، يعمل كود C# التالي بشكل جيد ، لذا اتبع الخطوات التالية:"
 item2: قم بتحميل المستند باستخدام فئة PsDocument ذات دفق ملف الإدخال كمعامل.
@@ -46,7 +46,7 @@ item4: احفظ كل صفحة ملف إدخال على صورة PNG ، JPG ، TI
 
 {{<section feature3>}}
 ---
-title: 'تحويل XPS إلى صور JPG و PNG و BMP عبر C# .NET.'
+title: تحويل XPS إلى صور JPG و PNG و BMP عبر C# .NET.'
 h3: "C# رمز XPS لتحويل الصورة"
 item1: "يدعم .NET API أيضًا تحويل XPS إلى صور BMP و JPG و PNG و TIFF وما إلى ذلك ، ويوفر فئة XpsDocument لعمليات XPS. لتحويل XPS إلى صورة ، اتبع الخطوات التالية:"
 item2: قم بتحميل ملف XPS من الدفق.
