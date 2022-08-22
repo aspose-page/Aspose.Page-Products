@@ -24,7 +24,7 @@ name4: ملاحظات الإصدار
 
 {{<section why>}}
 ---
-tabTitlecpp: لماذا Aspose.Page لـ C ++؟
+tabTitlecpp: لماذا Aspose.Page لـ C++؟
 tabTitlejava: لماذا Aspose.Page لجافا؟
 tabTitlenet: لماذا Aspose.Page لـ .NET؟
 name1: قائمة العملاء

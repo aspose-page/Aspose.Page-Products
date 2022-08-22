@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-cpp.md
-title: पीडीएल रूपांतरण एपीआई | सी++
+title: पीडीएल रूपांतरण एपीआई | C++
 url: /cpp/conversion/
 description: Aspose.Page PDL रूपांतरण कार्यक्षमता के साथ C++ लाइब्रेरी का उपयोग करके PS, EPS, और XPS को PDF और BMP, JPG, PNG और TIFF सहित छवियों में कनवर्ट करें।
 family: page
@@ -36,7 +36,7 @@ item4: छवि के साथ छवियों के रूप में 
 {{<section feature2>}}
 ---
 title: जावा के माध्यम से पीडीएफ रूपांतरण के लिए पोस्टस्क्रिप्ट।
-h3: पोस्टस्क्रिप्ट से पीडीएफ रूपांतरण के लिए सी++ कोड
+h3: पोस्टस्क्रिप्ट से पीडीएफ रूपांतरण के लिए C++ कोड
 item1: "पोस्टस्क्रिप्ट को पीडीएफ में बदलने की प्रक्रिया ईपीएस से इमेज के समान ही है, सिवाय इसके कि डेवलपर्स [*PdfSaveOptions*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device) का उपयोग करेंगे। .pdf_save_options) अतिरिक्त सेटिंग्स जैसे कि अतिरिक्त फ़ॉन्ट्सफ़ोल्डर और SuppressError मान आदि को परिभाषित करने के लिए। इसके अलावा, [*PdfDevice*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_device) का उपयोग करेंगे। निर्मित आउटपुट स्ट्रीम से।"
 ---
 

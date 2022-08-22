@@ -37,7 +37,7 @@ item4: Sla EPS op als afbeeldingen met opties voor het opslaan van afbeeldingen 
 ---
 title: PostScript naar PDF-conversie via Java.
 h3: C++-code voor conversie van PostScript naar PDF
-item1: "Het proces van het converteren van PostScript naar PDF is hetzelfde als van EPS naar afbeeldingen, behalve dat ontwikkelaars [*PdfSaveOptions*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device) zullen gebruiken .pdf_save_options) om aanvullende instellingen te definiëren, zoals de waarde AdditionalFontsFolder en SuppressError enz. Bovendien zal [*PdfDevice*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_device) uit de gemaakte uitvoerstroom."
+item1: "Het proces van het converteren van PostScript naar PDF is hetzelfde als van EPS naar afbeeldingen, behalve dat ontwikkelaars [*PdfSaveOptions*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_save_options) zullen gebruiken om aanvullende instellingen te definiëren, zoals de waarde AdditionalFontsFolder en SuppressError enz. Bovendien zal [*PdfDevice*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_device) worden gebruikt uit de gemaakte uitvoerstroom."
 ---
 
 {{<section feature3>}}
@@ -47,7 +47,7 @@ h3: C++-code voor XPS naar PDF-conversie
 item1: "C++ XPS Processing API behandelt de conversie van XPS naar afbeeldingen, waaronder BMP, JPG, TIFF, PNG en meer, evenals XPS naar PDF-conversie op Windows- en Linux-gebaseerde systemen. Het proces van het converteren van XPS naar PDF is:"
 item2: Definieer de uitvoerstroom en definieer de invoerstroom voor het XPS-invoerdocument.
 item3: "Geef het door als parameter aan [*XpsDocument Class*](https://reference.aspose.com/page/cpp/class/aspose.page.x_p_s.xps_document) Object."
-item4: "Specificeer de PDF-specifieke opslagopties zoals TextCompression, ImageCompression en JpegQualityLevel met behulp van [*PdfSaveOptions*](https://reference.aspose.com/page/cpp/class/aspose.page.x_p_s.presentation.pdf.pdf_save_options)."
+item4: "Specificeer de PDF-specifieke opslagopties zoals TextCompression, ImageCompression en JpegQualityLevel met [*PdfSaveOptions*](https://reference.aspose.com/page/cpp/class/aspose.page.x_p_s.presentation.pdf.pdf_save_options)."
 item5: "Maak een instantie van [*PdfDevice*](https://reference.aspose.com/page/cpp/class/aspose.page.x_p_s.presentation.pdf.pdf_device) van de eerder gemaakte uitvoerstroom."
 item6: Converteer ten slotte XPS-document als PDF met de PDF-opslagopties.
 ---

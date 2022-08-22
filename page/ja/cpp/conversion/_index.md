@@ -37,7 +37,7 @@ item4: バイト配列ごとに新しいファイル出力ストリームを作�
 ---
 title: Java による PostScript から PDF への変換。
 h3: PostScript から PDF への変換用の C++ コード
-item1: "PostScript を PDF に変換するプロセスは、EPS を画像に変換するプロセスと同じですが、開発者が [*PdfSaveOptions*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device) を使用する点が異なります。 .pdf_save_options) を使用して、AdditionalFontsFolder や SuppressError 値などの追加設定を定義します。さらに、[*PdfDevice*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_device) 作成された出力ストリームから。"
+item1: "PostScript を PDF に変換するプロセスは、EPS を画像に変換するプロセスと同じですが、開発者が [*PdfSaveOptions*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_save_options) を使用する点が異なります。  を使用して、AdditionalFontsFolder や SuppressError 値などの追加設定を定義します。さらに、[*PdfDevice*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_device) を使用します) 作成された出力ストリームから。"
 ---
 
 {{<section feature3>}}

@@ -108,7 +108,7 @@ description: इस पुस्तकालय के साथ पीएस, �
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="सी++ पेज प्रोसेसिंग एपीआई" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ पेज प्रोसेसिंग एपीआई" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg"/>
   <header>
    Aspose.Page
   </header>
@@ -126,7 +126,7 @@ description: इस पुस्तकालय के साथ पीएस, �
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="प्लेटफार्म स्वतंत्रता" description="लाइब्रेरी को लिनक्स या विंडोज प्लेटफॉर्म पर विकसित किसी भी प्रकार के सी++ एप्लिकेशन के साथ एकीकृत किया जा सकता है [सिस्टम आवश्यकताएं](https://docs.aspose.com/page/net/system-requirements/)." >}}
+{{< blocks/products/pf/carousel-item h3="प्लेटफार्म स्वतंत्रता" description="लाइब्रेरी को लिनक्स या विंडोज प्लेटफॉर्म पर विकसित किसी भी प्रकार के C++ एप्लिकेशन के साथ एकीकृत किया जा सकता है [सिस्टम आवश्यकताएं](https://docs.aspose.com/page/net/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -240,7 +240,7 @@ description: इस पुस्तकालय के साथ पीएस, �
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="सी++ पेज एपीआई" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ पेज एपीआई" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg"/>
   <header>
    Aspose.Page
   </header>

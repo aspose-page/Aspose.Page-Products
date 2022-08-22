@@ -49,5 +49,5 @@ item2: Defina o fluxo de saída, bem como o fluxo de entrada para o documento XP
 item3: "Passe-o como parâmetro para o objeto [*XpsDocument Class*](https://reference.aspose.com/page/cpp/class/aspose.page.x_p_s.xps_document)."
 item4: "Especifique as opções de salvamento específicas do PDF, como TextCompression, ImageCompression e JpegQualityLevel usando [*PdfSaveOptions*](https://reference.aspose.com/page/cpp/class/aspose.page.x_p_s.presentation.pdf.pdf_save_options)."
 item5: "Crie uma instância de [*PdfDevice*](https://reference.aspose.com/page/cpp/class/aspose.page.x_p_s.presentation.pdf.pdf_device) do fluxo de saída criado anteriormente."
-item6: Por fim, converta o documento XPS como PDF com as opções de salvamento de PDF.
+item6: Finalmente, converta o documento XPS como PDF com as opções de salvamento de PDF.
 ---

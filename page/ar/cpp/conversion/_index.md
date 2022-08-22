@@ -1,9 +1,9 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-cpp.md
-title: واجهة برمجة تطبيقات تحويل PDL | C ++
+title: واجهة برمجة تطبيقات تحويل PDL | C++
 url: /cpp/conversion/
-description: قم بتحويل PS و EPS و XPS إلى PDF والصور بما في ذلك BMP و JPG و PNG و TIFF باستخدام مكتبة C ++ مع وظيفة تحويل Aspose.Page PDL.
+description: قم بتحويل PS و EPS و XPS إلى PDF والصور بما في ذلك BMP و JPG و PNG و TIFF باستخدام مكتبة C++ مع وظيفة تحويل Aspose.Page PDL.
 family: page
 platformtag: cpp
 feature: conversion
@@ -12,7 +12,7 @@ feature: conversion
 {{<section banner>}}
 ---
 h1: تحويل PS و EPS و XPS
-h2: PS و EPS و XPS Converter API حل لـ C ++.
+h2: PS و EPS و XPS Converter API حل لـ C++.
 ---
 
 {{<section overview>}}
@@ -24,9 +24,9 @@ p3: "يتيح لك حل API لـ Java هنا تحويل ملفات تنسيقا�
 
 {{<section feature1>}}
 ---
-title: تحويل EPS إلى صور عبر C ++.
-h3: كود C ++ لتحويل EPS إلى صور
-item1: "تتيح مكتبة C ++ تحويل ملفات Encapsulated PostScript (EPS) إلى صور على أنظمة Windows و Linux. العملية هي:"
+title: تحويل EPS إلى صور عبر C++.
+h3: كود C++ لتحويل EPS إلى صور
+item1: "تتيح مكتبة C++ تحويل ملفات Encapsulated PostScript (EPS) إلى صور على أنظمة Windows و Linux. العملية هي:"
 item2: "استخدم FileStream لإنشاء دفق الإدخال لملف EPS وكذلك لإنشاء كائن [*PsDocument Class*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.ps_document) به دفق إدخال كمعامل. بالنسبة إلى الإعدادات الخاصة بالصور ، استخدم [*ImageSaveOptions Class*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.image_save_options)."
 item3: "حدد نوع الصورة وحجمها باستخدام [*ImageDevice*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.image_device)."
 item4: احفظ EPS كصور مع خيارات حفظ الصورة في مصفوفة من مصفوفات البايت مما يؤدي إلى إنشاء دفق إخراج ملف جديد لكل صفيف بايت.
@@ -36,15 +36,15 @@ item4: احفظ EPS كصور مع خيارات حفظ الصورة في مصفو
 {{<section feature2>}}
 ---
 title: PostScript لتحويل PDF عبر Java.
-h3: كود C ++ لتحويل PostScript إلى PDF
+h3: كود C++ لتحويل PostScript إلى PDF
 item1: "عملية تحويل PostScript إلى PDF هي نفس عملية تحويل EPS إلى صور ، باستثناء أن المطورين سيستخدمون [*PdfSaveOptions*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_save_options) لتعريف إعدادات إضافية مثل قيم ExtraFontsFolder و SuppressError وما إلى ذلك ، علاوة على ذلك ، ستستخدم [*PdfDevice*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_device) من دفق الإخراج الذي تم إنشاؤه."
 ---
 
 {{<section feature3>}}
 ---
-title: قم بتحويل XPS إلى PDF عبر C ++.
-h3: كود C ++ لتحويل XPS إلى PDF
-item1: "تتعامل واجهة برمجة تطبيقات معالجة XPS C ++ مع تحويل XPS إلى صور بما في ذلك BMP و JPG و TIFF و PNG والمزيد ، بالإضافة إلى تحويل XPS إلى PDF على الأنظمة المستندة إلى Windows و Linux. عملية تحويل XPS إلى PDF هي:"
+title: قم بتحويل XPS إلى PDF عبر C++.
+h3: كود C++ لتحويل XPS إلى PDF
+item1: "تتعامل واجهة برمجة تطبيقات معالجة XPS C++ مع تحويل XPS إلى صور بما في ذلك BMP و JPG و TIFF و PNG والمزيد ، بالإضافة إلى تحويل XPS إلى PDF على الأنظمة المستندة إلى Windows و Linux. عملية تحويل XPS إلى PDF هي:"
 item2: تحديد دفق الإخراج وكذلك تحديد دفق الإدخال لمستند XPS للإدخال.
 item3: "مرره كمعامل إلى كائن [*XpsDocument*](https://reference.aspose.com/page/cpp/class/aspose.page.x_p_s.xps_document)."
 item4: "حدد خيارات الحفظ الخاصة بـ PDF مثل TextCompression و ImageCompression و JpegQualityLevel باستخدام [*PdfSaveOptions*](https://reference.aspose.com/page/cpp/class/aspose.page.x_p_s.presentation.pdf.pdf_save_options)."

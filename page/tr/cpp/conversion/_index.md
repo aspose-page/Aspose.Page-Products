@@ -37,7 +37,7 @@ item4: EPS'yi, her bayt dizisi için yeni bir dosya çıktı akışı oluşturan
 ---
 title: Java ile PostScript'ten PDF'ye Dönüştürme.
 h3: PostScript'ten PDF'ye Dönüştürme için C++ Kodu
-item1: "PostScript'i PDF'ye dönüştürme işlemi, EPS'den Görüntüler'e olanla aynıdır, ancak geliştiriciler, EkFontsFolder ve SuppressError değeri vb. gibi ek ayarları tanımlamak için [*PdfSaveOptions*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_save_options)'ü kullanır. Ayrıca, oluşturulan çıktı akışından [*PdfDevice*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_device)'i kullanır."
+item1: "PostScript'i PDF'ye dönüştürme işlemi, geliştiricilerin [*PdfSaveOptions*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_save_options) kullanması dışında EPS'den Görüntülere aynıdır. EkFontsFolder ve SuppressError değeri vb. gibi ek ayarları tanımlamak için. Ayrıca, [*PdfDevice*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_device) kullanır. oluşturulan çıktı akışından."
 ---
 
 {{<section feature3>}}

@@ -24,7 +24,7 @@ name4: Ghi chú phát hành
 
 {{<section why>}}
 ---
-tabTitlecpp: Tại sao Aspose.Page cho C ++?
+tabTitlecpp: Tại sao Aspose.Page cho C++?
 tabTitlejava: Tại sao nên dùng Aspose.Page cho Java?
 tabTitlenet: Tại sao Aspose.Page cho .NET?
 name1: Danh sách khách hàng

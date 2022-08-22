@@ -37,7 +37,7 @@ item4: 모든 바이트 배열에 대해 새 파일 출력 스트림을 생성�
 ---
 title: Java를 통한 PostScript에서 PDF로의 변환.
 h3: PostScript에서 PDF로의 변환을 위한 C++ 코드
-item1: "PostScript를 PDF로 변환하는 프로세스는 EPS에서 이미지로 변환하는 과정과 동일하지만 개발자는 [*PdfSaveOptions*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device)를 사용하여 AdditionalFontsFolder 및 SuppressError 값 등과 같은 추가 설정을 정의합니다. 또한 생성된 출력 스트림에서 [*PdfDevice*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_device)를 사용합니다."
+item1: "PostScript를 PDF로 변환하는 프로세스는 개발자가 [*PdfSaveOptions*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device)를 사용한다는 점을 제외하고 EPS에서 이미지로 변환하는 과정과 동일합니다. .pdf_save_options) AdditionalFontsFolder 및 SuppressError 값 등과 같은 추가 설정을 정의합니다. 또한 [*PdfDevice*](https://reference.aspose.com/page/cpp/class/aspose.page.e_p_s.device.pdf_device)를 사용합니다.  생성된 출력 스트림에서."
 ---
 
 {{<section feature3>}}
