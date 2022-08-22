@@ -25,8 +25,18 @@ name4: Poznámky k vydání
 {{<section why>}}
 ---
 tabTitlecpp: Proč Aspose.Page pro C++?
-tabTitlejava: Proč Aspose.Page pro Javu?
+tabTitlejava: Proč Aspose.Page pro Java?
 tabTitlenet: Proč Aspose.Page pro .NET?
 name1: Seznam zákazníků
 name2: Příběhy úspěchu
+---
+
+{{<section widgetbackup>}}
+---
+title: "Webová aplikace pro převod {{i18n.informat}} na {{i18n.outformat}}"
+overview: "[Převést {{i18n.informat}} na {{i18n.outformat}}](https://products.aspose.app/page/conversion/{{i18n.informat lower}}-to-{{i18n.outformat lower}}) právě teď na našich webových stránkách s živými ukázkami."
+p1: Není třeba stahovat Aspose API.
+p2: Není třeba psát žádný kód.
+p3: "Stačí nahrát svůj soubor {{i18n.informat}}, bude okamžitě převeden na {{i18n.outformat}}."
+p4: Dostanete odkaz ke stažení.
 ---

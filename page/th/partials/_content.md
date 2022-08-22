@@ -24,9 +24,19 @@ name4: บันทึกประจำรุ่น
 
 {{<section why>}}
 ---
-tabTitlecpp: ทำไมต้อง Aspose.Page สำหรับ C++
-tabTitlejava: ทำไมต้อง Aspose.Page สำหรับ Java?
+tabTitlecpp: ทำไมต้อง Aspose.Page สำหรับ C ++
+tabTitlejava: ทำไมต้อง Aspose.Page สำหรับ Java
 tabTitlenet: ทำไมต้อง Aspose.Page สำหรับ .NET?
 name1: รายชื่อลูกค้า
 name2: เรื่องราวความสำเร็จ
+---
+
+{{<section widgetbackup>}}
+---
+title: "เว็บแอปพลิเคชันการแปลง {{i18n.informat}} ถึง {{i18n.outformat}}"
+overview: "[แปลง {{i18n.informat}} เป็น {{i18n.outformat}}](https://products.aspose.app/page/conversion/{{i18n.informat lower}}-to-{{i18n.outformat lower}}) ตอนนี้โดยไปที่เว็บไซต์ Live Demos ของเรา"
+p1: ไม่จำเป็นต้องดาวน์โหลด Aspose API
+p2: ไม่ต้องเขียนโค้ดใดๆ
+p3: "เพียงอัปโหลดไฟล์ {{i18n.informat}} ของคุณ ไฟล์จะถูกแปลงเป็น {{i18n.outformat}} ทันที"
+p4: คุณจะได้รับลิงค์ดาวน์โหลด
 ---

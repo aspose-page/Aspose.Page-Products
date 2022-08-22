@@ -100,16 +100,11 @@ PM> Install-Package Aspose.Page
 
 {{% /blocks/products/pf/agp/code-autogen %}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="{{i18n.informat}} to {{i18n.outformat}} Conversion Live Demos" sectionDescription="[Convert {{i18n.informat}} to {{i18n.outformat}}](https://products.aspose.app/page/conversion/{{i18n.informat lower}}-to-{{i18n.outformat lower}}) right now by visiting our Live Demos website." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your {{i18n.informat}} file, it will be converted instantly to {{i18n.outformat}}." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
-
-    {{% blocks/products/pf/agp/content h2="C++ Page Document Manipulation Library" %}}
-
-    {{% /blocks/products/pf/agp/content %}}
-
+{{< blocks/products/pf/agp/demobox sectionTitle="{{<import path="/{{lang}}/partials/_content.md" section="widgetbackup.title">}}" sectionDescription="{{<import path="/{{lang}}/partials/_content.md" section="widgetbackup.overview">}}" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="{{<import path="/{{lang}}/partials/_content.md" section="widgetbackup.p1">}}" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-edit" text="{{<import path="/{{lang}}/partials/_content.md" section="widgetbackup.p2">}}" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="{{<import path="/{{lang}}/partials/_content.md" section="widgetbackup.p3">}}" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text="{{<import path="/{{lang}}/partials/_content.md" section="widgetbackup.p4">}}" >}}
 {{< /blocks/products/pf/agp/demobox >}}
 
 
