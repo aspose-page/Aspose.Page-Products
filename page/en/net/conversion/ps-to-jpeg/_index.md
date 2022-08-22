@@ -18,7 +18,7 @@ h2: Convert PS to JPEG via API Solution for .NET.
 {{<section overview>}}
 ---
 title: "How to Convert PS to JPEG Using C#"
-p1: "Aspose.Page for PS to JPEG converter offers conversion of Encapsulated PostScript (PS) file to JPEG image with using of any language supported by .NET platform: C#, VB, J#."
+p1: "Aspose.Page for PS to JPEG converter offers conversion of PostScript (PS) file to JPEG image with using of any language supported by .NET platform: C#, VB, J#."
 p2: "The API you see here can be used to create your own cross-platform application or be integrated into your .NET project."
 p3: "In order to convert XPS to JPEG, we’ll use:"
 p4: "Aspose.Page for .NET API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform."

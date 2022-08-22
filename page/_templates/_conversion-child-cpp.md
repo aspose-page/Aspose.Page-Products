@@ -4,7 +4,7 @@ title: {{i18n.title}}
 description: {{i18n.description}}
 url: {{i18n.url}}
 family: page
-platformtag: net
+platformtag: cpp
 feature: conversion
 informat: {{i18n.informat}}
 outformat: {{i18n.outformat}}
@@ -14,9 +14,9 @@ otherformats: {{i18n.otherformats}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}">}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/net/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/cpp/" installationsDocsLink="https://docs.aspose.com/page/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/cpp/" >}}
 
 {{% blocks/products/pf/feature-page-summary h2="{{i18n.overview.title}}" %}}
 
@@ -50,6 +50,7 @@ PM> Install-Package Aspose.Page
 1. {{i18n.feature1.item2}}
 2. {{i18n.feature1.item3}}
 3. {{i18n.feature1.item4}}
+4. {{i18n.feature1.item5}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -60,31 +61,42 @@ PM> Install-Package Aspose.Page
 
 -  {{i18n.feature2.item2}}
 -  {{i18n.feature2.item3}}
--  {{i18n.feature2.item4}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 
 {{% blocks/products/pf/agp/code-autogen title="{{i18n.gist.p2}}" gistPath="" %}}
 
-{{< highlight csharp >}}
-    // create a stream for input {{i18n.informat}} file
-    using (var psStream = new System.IO.FileStream("template.{{i18n.informat}}", System.IO.FileMode.Create, System.IO.FileAccess.Read))
-    {
-        // create a stream for output {{i18n.outformat}} file
-        using (var pdfStream = System.IO.File.Open("output.gif", System.IO.FileMode.Open, System.IO.FileAccess.Write))
-        {
-            // load the {{i18n.informat}} file from stream
-            var document = new Aspose.Page.{{i18n.informat}}.PsDocument(psStream);
-            // create an instance of ImageSaveOptions
-            var options = new Aspose.Page.{{i18n.informat}}.Device.ImageSaveOptions();
-            // create rendering device for {{i18n.outformat}}
-            var device = new Aspose.Page.{{i18n.informat}}.Device.ImageDevice(System.Drawing.Imaging.ImageFormat.{{i18n.outformat}});
-            // save {{i18n.informat}} as {{i18n.outformat}}
-            document.Save(device, options);
-        }
-    }
+
+{{< highlight java >}}
+    System::SharedPtr<System::Drawing::Imaging::ImageFormat> imageFormat = System::Drawing::Imaging::ImageFormat::get_{{i18n.outformat}}();
+
+    System::SharedPtr<System::IO::FileStream> epsStream = System::MakeObject<System::IO::FileStream>(u"sourceFile.eps", System::IO::FileMode::Open, System::IO::FileAccess::Read);
+
+    System::SharedPtr<{{i18n.informat}}Document> document = System::MakeObject<EpsDocument>({{i18n.informat lower}}Stream);
+
+    // If you want to convert Postscript file despite of minor errors set this flag
+    bool suppressErrors = true;
+
+    //Initialize options object with necessary parameters.
+    System::SharedPtr<ImageSaveOptions> options = System::MakeObject<ImageSaveOptions>(suppressErrors);
+
+    System::SharedPtr<Aspose::Page::{{i18n.informat}}::Device::ImageDevice> device = System::MakeObject<Aspose::Page::{{i18n.informat}}::Device::ImageDevice>();
+
+	    auto __finally_guard_0 = ::System::MakeScopeGuard([&epsStream]()
+	    {
+		    psStream->Close();
+	    });
+
+	    try{
+		    document->Save(device, options);
+	    }catch (...){
+		    throw;
+	    }
+    System::ArrayPtr<System::ArrayPtr<uint8_t>> imagesBytes = device->get_ImagesBytes();
+    //loop through each imagesBytes and write via file stream
 {{< /highlight >}} 
+
 
 {{% /blocks/products/pf/agp/code-autogen %}}
 
@@ -99,6 +111,7 @@ PM> Install-Package Aspose.Page
     {{% /blocks/products/pf/agp/content %}}
 
 {{< /blocks/products/pf/agp/demobox >}}
+
 
 
 {{< blocks/products/pf/agp/about-file-section >}}     
