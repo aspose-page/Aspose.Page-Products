@@ -10,7 +10,7 @@ description: مكتبة Java لإنشاء مستندات XPS أو PS أو EPS أ
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/java/" installationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="" nugetPackageName="التخطيط الثابت:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-page" directDownloadLink="https://downloads.aspose.com/page/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/java/" installationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="" nugetPackageName="التخطيط الثابت:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-page" directDownloadLink="https://downloads.aspose.com/page/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -395,7 +395,7 @@ Aspose.Page for Java هو واجهة برمجة تطبيقات لمعالجة و
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/page/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Page لجافا؟" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Page لJava؟" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="قصص نجاح" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

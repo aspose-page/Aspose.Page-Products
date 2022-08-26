@@ -1,5 +1,5 @@
 ---
-title: पीएस, ईपीएस और एक्सपीएस .NET जावा और सी++ एपीआई
+title: पीएस, ईपीएस और एक्सपीएस .NET Java और C++ एपीआई
 weight: 10
 url: /hi/family
 description: इस समाधान के साथ एक्सपीएस, पीएस और ईपीएस फाइलों में हेरफेर करें। इसकी समृद्ध कार्यक्षमता .NET, Java और C++ भाषाओं के लिए लागू की गई है।
@@ -17,7 +17,7 @@ description: इस समाधान के साथ एक्सपीएस
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Page for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" productLink="/page/hi/java/" >}}
-जावा एसई या ईई पर आधारित डेस्कटॉप, वेब या किसी भी तरह के एप्लिकेशन के लिए नेटिव जावा एपीआई।
+Java एसई या ईई पर आधारित डेस्कटॉप, वेब या किसी भी तरह के एप्लिकेशन के लिए नेटिव Java एपीआई।
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Page for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productLink="/page/hi/cpp/" >}}

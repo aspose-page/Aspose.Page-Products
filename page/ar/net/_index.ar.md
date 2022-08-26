@@ -10,7 +10,7 @@ description: مكتبة C# ASP.NET VB.NET لتحميل وتحويل ملفات X
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/net/" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>تصف لغات وصف الصفحة مظهر الصفحة بمستوى أعلى من مصفوفة وحدات البكسل. تعمل PDLs كحلقة وصل بين تطبيقات الكمبيوتر ، مثل أدوات الرسومات ومحررات النصوص وما إلى ذلك ، وأجهزة الإخراج: أنظمة النشر (الطباعة) وشاشات العرض. تعامل معظم أنظمة الطباعة الصفحات المطبوعة كمستطيل من m بكسل في العرض و n بكسل في الارتفاع. بالطبع ، ليس من الملائم تخزين مثل هذه الملفات الكبيرة في الذاكرة وتحريرها ونقلها عبر الشبكة الموزعة. 

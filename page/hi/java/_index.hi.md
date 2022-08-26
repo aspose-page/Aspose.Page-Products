@@ -1,16 +1,16 @@
 ---
-title: पोस्टस्क्रिप्ट प्रोसेसिंग के लिए जावा एपीआई
+title: पोस्टस्क्रिप्ट प्रोसेसिंग के लिए Java एपीआई
 weight: 360
 url: /hi/java/ 
 description: XPS, PS, या EPS दस्तावेज़ बनाने, पढ़ने या अपडेट करने के लिए Java लाइब्रेरी। नेटिव एपीआई जिन्हें आपकी खुद की परियोजना/समाधान में एकीकृत करना आसान है।
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="एक्सपीएस, पीएस, और ईपीएस फाइल मैनिपुलेशन जावा एपीआई" h2="XPS, PS और EPS दस्तावेज़ों को बिना किसी सॉफ़्टवेयर निर्भरता के PDF और विभिन्न छवियों में कनवर्ट करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-java.svg" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/page/java" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="एक्सपीएस, पीएस, और ईपीएस फाइल मैनिपुलेशन Java एपीआई" h2="XPS, PS और EPS दस्तावेज़ों को बिना किसी सॉफ़्टवेयर निर्भरता के PDF और विभिन्न छवियों में कनवर्ट करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-java.svg" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/page/java" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" liveDemosLink="https://products.aspose.app/page/family" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/java/" installationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="" nugetPackageName="निश्चित लेआउट:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-page" directDownloadLink="https://downloads.aspose.com/page/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/java/" installationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="" nugetPackageName="निश्चित लेआउट:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-page" directDownloadLink="https://downloads.aspose.com/page/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -18,7 +18,7 @@ description: XPS, PS, या EPS दस्तावेज़ बनाने, �
 यह समाधान PS, EPS और XPS PDL को सपोर्ट करता है।
 </p>
 <p>
-जावा के लिए Aspose.Page एक XPS और पोस्टस्क्रिप्ट दस्तावेज़ प्रसंस्करण और पार्सिंग API है। डेवलपर्स पीएस, एक्सपीएस और ईपीएस फाइलों को पीडीएफ और रास्टर इमेज फॉर्मेट में बदल सकते हैं। एपीआई उपयोगकर्ताओं को एक्सपीएस फाइलों को बनाने, पार्स करने और सहेजने के साथ-साथ दस्तावेजों के भीतर पृष्ठों को जोड़ने और हटाने की भी अनुमति देता है। इसके अलावा, डेवलपर XPS दस्तावेज़ों के लिए कैनवस, पथ और ग्लिफ़ तत्व बना सकते हैं और पृष्ठों को जोड़ने या हटाने, वैक्टर और स्ट्रिंग्स बनाने, ब्रश का उपयोग करने और तत्वों की उपस्थिति में हेरफेर करने जैसे संचालन कर सकते हैं।
+Java के लिए Aspose.Page एक XPS और पोस्टस्क्रिप्ट दस्तावेज़ प्रसंस्करण और पार्सिंग API है। डेवलपर्स पीएस, एक्सपीएस और ईपीएस फाइलों को पीडीएफ और रास्टर इमेज फॉर्मेट में बदल सकते हैं। एपीआई उपयोगकर्ताओं को एक्सपीएस फाइलों को बनाने, पार्स करने और सहेजने के साथ-साथ दस्तावेजों के भीतर पृष्ठों को जोड़ने और हटाने की भी अनुमति देता है। इसके अलावा, डेवलपर XPS दस्तावेज़ों के लिए कैनवस, पथ और ग्लिफ़ तत्व बना सकते हैं और पृष्ठों को जोड़ने या हटाने, वैक्टर और स्ट्रिंग्स बनाने, ब्रश का उपयोग करने और तत्वों की उपस्थिति में हेरफेर करने जैसे संचालन कर सकते हैं।
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -111,7 +111,7 @@ description: XPS, PS, या EPS दस्तावेज़ बनाने, �
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="जावा एक्सपीएस प्रोसेसिंग एपीआई" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg"/>
+  <img width="70" height="75" alt="Java एक्सपीएस प्रोसेसिंग एपीआई" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg"/>
   <header>
    Aspose.Page
   </header>
@@ -157,7 +157,7 @@ description: XPS, PS, या EPS दस्तावेज़ बनाने, �
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="जावा एक्सपीएस प्रोसेसिंग एपीआई" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg"/>
+  <img width="70" height="75" alt="Java एक्सपीएस प्रोसेसिंग एपीआई" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg"/>
   <header>
    Aspose.Page
   </header>
@@ -243,7 +243,7 @@ description: XPS, PS, या EPS दस्तावेज़ बनाने, �
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="जावा एक्सपीएस एपीआई" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg"/>
+  <img width="70" height="75" alt="Java एक्सपीएस एपीआई" src="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg"/>
   <header>
    Aspose.Page
   </header>
@@ -346,11 +346,11 @@ description: XPS, PS, या EPS दस्तावेज़ बनाने, �
      एपीआई तेजी से एक्सपीएस फाइलें बनाता है या पार्सिंग और हेरफेर के लिए मौजूदा दस्तावेजों को लोड करता है। यह ग्राफिक्स और टेक्स्ट स्ट्रिंग्स की उपस्थिति को बदलने, अलग-अलग रंग स्थानों में रंग निर्दिष्ट करने, डिवाइस कॉन्फ़िगरेशन जानकारी में हेरफेर करने, उपयोगकर्ता के इरादे और बहुत कुछ जैसे विभिन्न ऑपरेशन कर सकता है।
     </p>
     <p>
-     जावा डेवलपर्स इन सभी सुविधाओं को कोड की कुछ पंक्तियों के साथ आसानी से एकीकृत कर सकते हैं।
+     Java डेवलपर्स इन सभी सुविधाओं को कोड की कुछ पंक्तियों के साथ आसानी से एकीकृत कर सकते हैं।
     </p>
     <div class="codeblock" id="code">
      <h3>
-      स्क्रैच से एक्सपीएस फाइल बनाएं - जावा
+      स्क्रैच से एक्सपीएस फाइल बनाएं - Java
      </h3>
      {{< gist "aspose-com-gists" "7804c7e1f9f1ded0fc3b504c0a74f611" "create-xps-file.java" >}}
     </div>
@@ -369,7 +369,7 @@ description: XPS, PS, या EPS दस्तावेज़ बनाने, �
 
 <h2 class="h2title">Easily Manipulate XPS पृष्ठों</h2>
 
-<p>Aspose.XPS for Java provides extensive support for page manipulation. You can add a page to the end of the page list or insert it at any specified position. जावा एक्सपीएस एपीआई also allows to remove pages, select a page by number as “active” or create a page without binding it to the document.</p>
+<p>Aspose.XPS for Java provides extensive support for page manipulation. You can add a page to the end of the page list or insert it at any specified position. Java एक्सपीएस एपीआई also allows to remove pages, select a page by number as “active” or create a page without binding it to the document.</p>
 
 </div>-->
   </div>
@@ -395,7 +395,7 @@ description: XPS, PS, या EPS दस्तावेज़ बनाने, �
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/page/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="जावा के लिए Aspose.Page क्यों?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Java के लिए Aspose.Page क्यों?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
