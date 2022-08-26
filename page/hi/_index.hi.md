@@ -17,7 +17,7 @@ description: ऑन-प्रिमाइसेस या क्लाउड ए
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Page for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" productLink="https://products.aspose.com/page/hi/java" >}}
-जावा एपीआई एक्सपीएस फाइलों को बनाने, पढ़ने या अपडेट करने के लिए। जावा एसई या ईई पर आधारित किसी भी एप्लिकेशन में पीएस, ईपीएस और एक्सपीएस प्रारूपों को पीडीएफ और कई छवि प्रारूपों में लोड और प्रस्तुत करें।
+Java एपीआई एक्सपीएस फाइलों को बनाने, पढ़ने या अपडेट करने के लिए। Java एसई या ईई पर आधारित किसी भी एप्लिकेशन में पीएस, ईपीएस और एक्सपीएस प्रारूपों को पीडीएफ और कई छवि प्रारूपों में लोड और प्रस्तुत करें।
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Page for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productLink="https://products.aspose.com/page/hi/cpp" >}}

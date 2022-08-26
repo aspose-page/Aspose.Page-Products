@@ -17,7 +17,7 @@ h2: Java용 PS, EPS 및 XPS 변환기 API 솔루션
 
 {{<section overview>}}
 ---
-p1: "PostScript PS 및 Encapsulated PostScript EPS 파일 및 XPS 문서를 프로그래밍 방식으로 변환해야 할 때마다 Java API는 이를 원활하게 수행하고 여러 파일을 변환할 수 있습니다. PS 및 EPS의 경우 API는 레벨 1-3 PostScript 연산자와 대부분의 EPS 헤더 주석을 지원하며 일부 글꼴 케이스를 제외하고 최대 적합성을 갖는 PostScript 문서를 변환하고 API는 Time New Roman과 같은 글꼴을 취급합니다."
+p1: "PostScript PS 및 Encapsulated PostScript EPS 파일 및 XPS 문서를 프로그래밍 방식으로 변환해야 할 때마다 Java API는 이를 원활하게 수행하고 여러 파일을 변환할 수 있습니다. PS 및 EPS의 경우 API는 레벨 1-3 PostScript 연산자와 대부분의 EPS 헤더 주석을 지원하며 일부 글꼴 케이스와 API가 Time New Roman과 같은 글꼴을 취급하는 것을 제외하고 최대한 일치하는 PostScript 문서를 변환합니다."
 p2: "또한 XPS 파일 변환의 경우 API는 페이지 추가 또는 제거, 캔버스, 경로 및 글리프 요소 처리, 벡터 그래픽 모양, 텍스트 문자열 생성, XPS 개요 항목 변환 등을 수행할 수 있습니다."
 p3: "여기에서 Java용 API 솔루션을 사용하면 PS, EPS 및 XPS와 같은 PDL 형식의 파일을 프로그래밍 방식으로 변환할 수 있지만 이러한 기본 API에서 개발된 교차 플랫폼을 보고 시도하는 것이 유용할 수 있습니다."
 ---
@@ -53,7 +53,7 @@ title: Java를 통해 XPS를 이미지 JPG, PNG, BMP로 변환합니다.
 h3: XPS를 이미지로 변환하는 Java 코드
 item1: "Java API는 페이지 레이아웃을 나타내는 데 사용되는 XPS 형식을 다룹니다. 어떤 시나리오에서든 XPS를 프로그래밍 방식으로 이미지 BMP, JPG, PNG 및 TIFF로 변환해야 할 때마다 다음 코드를 Java 애플리케이션에 쉽게 통합할 수 있습니다."
 item2: "[*XpsDocument 클래스*](https://reference.aspose.com/page/java/com.aspose.xps/XpsDocument)를 사용하여 XPS 문서를 로드합니다."
-item3: "[*PngSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/PngSaveOptions), [*JpegSaveOptions*](https://reference)와 같은 관련 이미지 옵션 클래스를 사용합니다. .aspose.com/page/java/com.aspose.xps.rendering/JpegSaveOptions), [*BmpSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/BmpSaveOptions) , 이미지 추가 설정은 [*TiffSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/TiffSaveOptions)를 참조하세요."
+item3: "[*PngSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/PngSaveOptions), [*JpegSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/JpegSaveOptions) 와 같은 관련 이미지 옵션 클래스를 사용합니다, [*BmpSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/BmpSaveOptions) , 이미지 추가 설정은 [*TiffSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/TiffSaveOptions)를 참조하세요."
 item4: "[*이미지 장치*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/ImageDevice) 클래스 인스턴스를 만듭니다."
 item5: "[*XpsDocument.save*](https://reference.aspose.com/page/java/com.aspose.xps/XpsDocument#save-com.aspose.page.Device-com.aspose.page.SaveOptions-) 변환된 JPEG 이미지를 ImageDevice 객체에 저장한 다음 ImageDevice를 사용하여 이미지를 JPG로 저장합니다."
 ---

@@ -18,7 +18,7 @@ h2: Řešení API pro převodníky PS, EPS a XPS pro Javu
 {{<section overview>}}
 ---
 p1: "Kdykoli je potřeba programově převést soubory PostScript PS a Encapsulated PostScript EPS, stejně jako dokumenty XPS, Java API to dokáže hladce a převede více souborů. Pro PS a EPS API podporuje PostScriptové operátory úrovní 1-3 a většinu komentářů hlaviček EPS, stejně jako transformuje PostScriptové dokumenty s maximální shodou s výjimkou několika případů písem a API se zabývá písmy jako Time New Roman."
-p2: "Navíc pro transformaci souborů XPS může API přidávat nebo odebírat stránky, zabývá se prvky plátna, cestami a glyfy, vytváří tvary vektorové grafiky, textové řetězce, převádí obrysové položky XPS a další."
+p2: "Navíc pro transformaci souborů XPS může API přidávat nebo odebírat stránky, zabývá se plátny, cestami a prvky glyfů, vytváří tvary vektorové grafiky, textové řetězce, převádí obrysové položky XPS a další."
 p3: "Řešení API pro Javu vám zde umožňuje převádět soubory takových formátů PDL, jako jsou PS, EPS a XPS, programově, ale může být užitečné vidět a vyzkoušet multiplatformní vývoj na těchto nativních rozhraních API."
 ---
 

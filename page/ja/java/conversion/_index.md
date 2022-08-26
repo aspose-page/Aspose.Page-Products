@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-java.md
-title: PDL 変換 API | Java
+title: PDL 変換 API |Java
 url: /java/conversion/
 description: Aspose.Page PDL 変換機能を備えた Java ライブラリを使用して、PS、EPS、および XPS を BMP、JPG、PNG、および TIFF を含む PDF および画像に変換します。
 family: page
@@ -17,9 +17,9 @@ h2: PS、EPS、および XPS コンバーター Java 用 API ソリューショ�
 
 {{<section overview>}}
 ---
-p1: "PostScript PS および Encapsulated PostScript EPS ファイル、XPS ドキュメントをプログラムで変換する必要がある場合はいつでも、Java API を使用するとスムーズに変換でき、複数のファイルを変換できます。 PS および EPS の場合、API はレベル 1 ～ 3 の PostScript オペレーターとほとんどの EPS ヘッダー コメントをサポートし、いくつかのフォント ケースを除いて最大限の適合性を持つ PostScript ドキュメントを変換し、API は Time New Roman などのフォントを扱います。"
+p1: "PostScript PS および Encapsulated PostScript EPS ファイルと XPS ドキュメントをプログラムで変換する必要がある場合はいつでも、Java API を使用するとスムーズに変換でき、複数のファイルを変換できます。 PS および EPS の場合、API はレベル 1 ～ 3 の PostScript オペレーターと大部分の EPS ヘッダー コメントをサポートし、いくつかのフォント ケースを除いて最大限の適合性を持つ PostScript ドキュメントを変換し、API は Time New Roman などのフォントを扱います。"
 p2: "さらに、XPS ファイル変換の場合、API はページの追加または削除、キャンバス、パス、およびグリフ要素の処理、ベクター グラフィックス形状の作成、テキスト文字列の作成、XPS アウトライン アイテムの変換などを行うことができます。"
-p3: "ここにある Java の API ソリューションを使用すると、PS、EPS、XPS などの PDL 形式のファイルをプログラムで変換できますが、これらのネイティブ API で開発されたクロスプラットフォームを確認して試すことが役立つ場合があります。"
+p3: "ここにある Java の API ソリューションを使用すると、PS、EPS、XPS などの PDL 形式のファイルをプログラムで変換できますが、これらのネイティブ API で開発されたクロスプラットフォームを確認して試すと役立つ場合があります。"
 ---
 
 {{<section feature1>}}

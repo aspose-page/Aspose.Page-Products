@@ -17,7 +17,7 @@ h2: 適用於 Java 的 PS、EPS 和 XPS 轉換器 API 解決方案
 
 {{<section overview>}}
 ---
-p1: "每當需要以編程方式轉換 PostScript PS 和 Encapsulated PostScript EPS 文件以及 XPS 文檔時，Java API 都可以順利完成並轉換多個文件。對於 PS 和 EPS，API 支持 1-3 級 PostScript 運算符和大多數 EPS 標題註釋，以及轉換具有最大一致性的 PostScript 文檔，除了少數字體情況和 API 處理諸如 T​​ime New Roman 之類的字體。"
+p1: "每當需要以編程方式轉換 PostScript PS 和 Encapsulated PostScript EPS 文件以及 XPS 文檔時，Java API 都可以順利完成並轉換多個文件。對於 PS 和 EPS，API 支持 1-3 級 PostScript 運算符和大多數 EPS 標題註釋以及轉換具有最大一致性的 PostScript 文檔，除了少數字體情況和 API 處理諸如 T​​ime New Roman 之類的字體。"
 p2: "此外，對於 XPS 文件轉換，API 可以添加或刪除頁面，處理畫布、路徑和字形元素，創建矢量圖形、文本字符串，轉換 XPS 大綱項等等。"
 p3: "此處的 Java API 解決方案允許您以編程方式轉換諸如 PS、EPS 和 XPS 等 PDL 格式的文件，但您可能會發現查看和嘗試在這些原生 API 上開發的跨平台很有用。"
 ---

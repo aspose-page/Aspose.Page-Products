@@ -17,7 +17,7 @@ h2: PS, EPS en XPS converter API-oplossing voor Java
 
 {{<section overview>}}
 ---
-p1: "Wanneer PostScript PS en Encapsulated PostScript EPS-bestanden evenals XPS-documenten programmatisch moeten worden geconverteerd, kan Java API dit soepel doen en meerdere bestanden converteren. Voor PS en EPS ondersteunt API Levels 1-3 PostScript-operators en de meeste EPS-headeropmerkingen, en transformeert PostScript-documenten met maximale conformiteit, met uitzondering van enkele fonts en API-deals zoals fonts zoals Time New Roman."
+p1: "Wanneer het nodig is om PostScript PS en Encapsulated PostScript EPS-bestanden evenals XPS-documenten programmatisch te converteren, kan Java API dit soepel doen en meerdere bestanden converteren. Voor PS en EPS ondersteunt API Levels 1-3 PostScript-operators en de meeste EPS-headeropmerkingen, en transformeert PostScript-documenten met maximale conformiteit, met uitzondering van enkele fonts en API-deals zoals fonts zoals Time New Roman."
 p2: "Bovendien kan API voor de transformatie van XPS-bestanden pagina's toevoegen of verwijderen, canvassen, paden en glyphs-elementen behandelen, vectorafbeeldingsvormen, tekststrings maken, XPS-overzichtsitems converteren en meer."
 p3: "Met de API-oplossing voor Java hier kunt u bestanden van PDL-indelingen zoals PS, EPS en XPS programmatisch converteren, maar het kan nuttig zijn om platformonafhankelijke ontwikkelde op deze native API's te bekijken en uit te proberen."
 ---

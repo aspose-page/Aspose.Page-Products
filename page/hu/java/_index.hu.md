@@ -360,7 +360,7 @@ Az Aspose.Page for Java egy XPS és PostScript dokumentumfeldolgozó és -elemz�
      Rendereljen PostScript fájlokat képek és PDF formátumokba
     </h2>
     <p>
-     A könyvtár speciális osztályokat biztosít az EPS és PS fájlok raszterképekké és PDF-ekké konvertálásához. Az átalakítási folyamat konfigurációjával egyszerűen szabályozható a képminőség a PDF-ben, valamint az önálló képek esetében. Ezenkívül a fejlesztők könnyen elnyomhatják a hibákat, ha kötegekkel dolgoznak.
+     A könyvtár speciális osztályokat biztosít az EPS és PS fájlok raszterképekké és PDF-ekké konvertálásához. Az átalakítási folyamat konfigurációJaval egyszerűen szabályozható a képminőség a PDF-ben, valamint az önálló képek esetében. Ezenkívül a fejlesztők könnyen elnyomhatják a hibákat, ha kötegekkel dolgoznak.
     </p>
    </div>
    <!--

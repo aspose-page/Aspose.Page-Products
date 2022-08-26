@@ -17,9 +17,9 @@ h2: PS-, EPS- und XPS-Konverter-API-Lösung für Java
 
 {{<section overview>}}
 ---
-p1: "Wann immer es erforderlich ist, PostScript PS- und Encapsulated PostScript EPS-Dateien sowie XPS-Dokumente programmgesteuert zu konvertieren, kann die Java-API dies reibungslos tun und mehrere Dateien konvertieren. Für PS und EPS unterstützt die API die PostScript-Operatoren der Ebenen 1–3 und die meisten EPS-Header-Kommentare und transformiert PostScript-Dokumente mit maximaler Konformität mit Ausnahme einiger Schriftartenfälle, und die API behandelt Schriftarten wie Time New Roman."
+p1: "Wann immer es erforderlich ist, PostScript PS- und Encapsulated PostScript EPS-Dateien sowie XPS-Dokumente programmgesteuert zu konvertieren, kann die Java-API dies reibungslos tun und mehrere Dateien konvertieren. Für PS und EPS unterstützt die API die PostScript-Operatoren der Ebenen 1–3 und die meisten EPS-Header-Kommentare und transformiert PostScript-Dokumente mit maximaler Konformität, mit Ausnahme weniger Schriftarten, und die API behandelt Schriftarten wie Time New Roman."
 p2: "Darüber hinaus kann die API für die Transformation von XPS-Dateien Seiten hinzufügen oder entfernen, mit Leinwänden, Pfaden und Glyphenelementen umgehen, Vektorgrafiken, Textzeichenfolgen erstellen, XPS-Gliederungselemente konvertieren und vieles mehr."
-p3: "Mit der API-Lösung für Java hier können Sie Dateien solcher PDL-Formate wie PS, EPS und XPS programmgesteuert konvertieren, aber es kann hilfreich sein, plattformübergreifende Entwicklungen auf diesen nativen APIs zu sehen und auszuprobieren."
+p3: "Mit der API-Lösung für Java hier können Sie Dateien in PDL-Formaten wie PS, EPS und XPS programmgesteuert konvertieren, aber es kann hilfreich sein, plattformübergreifende Entwicklungen auf diesen nativen APIs zu sehen und auszuprobieren."
 ---
 
 {{<section feature1>}}
@@ -62,7 +62,7 @@ item5: "Rufen Sie [*XpsDocument.save*](https://reference.aspose.com/page/java/co
 ---
 title: Konvertieren Sie XPS in PDF über Java.
 h3: Java-Code für die Umwandlung von XPS in PDF
-item1: Der Prozess der programmgesteuerten Konvertierung von XPS- in PDF-Dokumente ist einfach, da bei den Eingabe- und Ausgabedateien High-Fidelity-Ergebnisse erzielt werden.
+item1: Der Prozess der programmgesteuerten Konvertierung von XPS- in PDF-Dokumente ist einfach und bietet High-Fidelity-Ergebnisse zwischen den Eingabe- und Ausgabedateien.
 item2: "Laden Sie die Datei mithilfe der XpsDocument-Klasse. Initialisieren Sie das Objekt [*PdfSaveOptions-Klasse*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/PdfDevice)."
 item3: Erstellen Sie ein PdfDevice-Objekt zum Rendern und speichern Sie zuletzt das ausgegebene PDF-Dokument.
 ---

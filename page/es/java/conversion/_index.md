@@ -17,9 +17,9 @@ h2: Solución API de conversión de PS, EPS y XPS para Java
 
 {{<section overview>}}
 ---
-p1: "Siempre que sea necesario convertir archivos PostScript PS y PostScript EPS encapsulados, así como documentos XPS programáticamente, la API de Java puede hacerlo sin problemas y convertir múltiples archivos. Para PS y EPS, la API admite operadores PostScript de niveles 1 a 3 y la mayoría de los comentarios de encabezado de EPS, además de transformar documentos PostScript con la máxima conformidad con la excepción de unos pocos casos de fuentes y la API trata fuentes como Time New Roman."
+p1: "Siempre que sea necesario convertir archivos PostScript PS y PostScript EPS encapsulados, así como documentos XPS programáticamente, la API de Java puede hacerlo sin problemas y convertir múltiples archivos. Para PS y EPS, la API admite operadores PostScript de niveles 1 a 3 y la mayoría de los comentarios de encabezado de EPS, así como también transforma documentos PostScript con la máxima conformidad con la excepción de algunos casos de fuentes y la API trata fuentes como Time New Roman."
 p2: "Además, para la transformación de archivos XPS, la API puede agregar o eliminar páginas, manejar lienzos, rutas y elementos de glifos, crear formas de gráficos vectoriales, cadenas de texto, convertir elementos de esquema XPS y más."
-p3: "La solución API para Java aquí le permite convertir archivos de formatos PDL como PS, EPS y XPS mediante programación, pero puede resultarle útil ver y probar el desarrollo multiplataforma en estas API nativas."
+p3: "La solución de API para Java aquí le permite convertir archivos de formatos PDL como PS, EPS y XPS mediante programación, pero puede resultarle útil ver y probar el desarrollo multiplataforma en estas API nativas."
 ---
 
 {{<section feature1>}}
@@ -55,7 +55,7 @@ item1: "La API de Java trata el formato XPS que se utiliza para representar el d
 item2: "Use [*XpsDocument class*](https://reference.aspose.com/page/java/com.aspose.xps/XpsDocument) para cargar el documento XPS."
 item3: "Utilice la clase de opción de imagen relevante, como [*PngSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/PngSaveOptions), [*JpegSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/JpegSaveOptions), [*BmpSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/BmpSaveOptions) , [*TiffSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/TiffSaveOptions) para configuraciones adicionales de imagen."
 item4: "Cree la instancia de clase [*dispositivo de imagen*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/ImageDevice)."
-item5: "Llame a [*XpsDocument.save*](https://reference.aspose.com/page/java/com.aspose.xps/XpsDocument#save-com.aspose.page.Device-com.aspose.page.SaveOptions-) para guardar la imagen JPEG convertida en un objeto ImageDevice y luego use ImageDevice para guardar la imagen como JPG."
+item5: "Llame al [*XpsDocument.save*](https://reference.aspose.com/page/java/com.aspose.xps/XpsDocument#save-com.aspose.page.Device-com.aspose.page.SaveOptions-) para guardar la imagen JPEG convertida en un objeto ImageDevice y luego use ImageDevice para guardar la imagen como JPG."
 ---
 
 {{<section feature4>}}

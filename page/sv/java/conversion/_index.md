@@ -17,7 +17,7 @@ h2: PS, EPS och XPS omvandlar API-lösning för Java
 
 {{<section overview>}}
 ---
-p1: "Närhelst det finns behov av att konvertera PostScript PS och Encapsulated PostScript EPS-filer samt XPS-dokument programmässigt, kan Java API göra det smidigt och konvertera flera filer. För PS och EPS stöder API nivåerna 1-3 PostScript-operatorer och de flesta av EPS-rubrikkommentarerna samt transformerar PostScript-dokument med maximal överensstämmelse med undantag för få typsnittsfall och API-avtal som typsnitt som Time New Roman."
+p1: "Närhelst det finns behov av att konvertera PostScript PS och Encapsulated PostScript EPS-filer såväl som XPS-dokument programmässigt, kan Java API göra det smidigt och konvertera flera filer. För PS och EPS stöder API nivåerna 1-3 PostScript-operatorer och de flesta av EPS-rubrikkommentarerna samt transformerar PostScript-dokument med maximal överensstämmelse med undantag för få typsnittsfall och API-avtal som typsnitt som Time New Roman."
 p2: "Dessutom, för transformation av XPS-filer kan API lägga till eller ta bort sidor, hantera dukar, banor och glyferelement, skapa vektorgrafikformer, textsträngar, konvertera XPS-konturobjekt och mer."
 p3: "API-lösningen för Java här låter dig konvertera filer av sådana PDL-format som PS, EPS och XPS programmatiskt, men det kan vara användbart att se och prova plattformsoberoende utvecklade på dessa inbyggda API:er."
 ---

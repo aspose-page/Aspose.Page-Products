@@ -47,5 +47,5 @@ item3: Microsoft Visual C++ версии 2017 или выше.
 {{<section gist>}}
 ---
 p1: "e1af0e06639806637acbe94be7b2c76a"
-p2: "Преобразование EPS в WMF C++"
+p2: "Конверсия EPS в WMF C++"
 ---

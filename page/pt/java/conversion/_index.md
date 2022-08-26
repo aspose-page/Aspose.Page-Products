@@ -3,7 +3,7 @@ translation: true
 template: /_templates/_conversion-java.md
 title: API de conversão de PDL | Java
 url: /java/conversion/
-description: Converta PS, EPS e XPS para PDF e Imagens, incluindo BMP, JPG, PNG e TIFF usando a biblioteca Java com a funcionalidade de conversão Aspose.Page PDL.
+description: Converta PS, EPS e XPS para PDF e Imagens incluindo BMP, JPG, PNG e TIFF usando a biblioteca Java com a funcionalidade de conversão Aspose.Page PDL.
 family: page
 platformtag: net
 feature: conversion
@@ -38,9 +38,9 @@ item6: "Chame o [*PsDocument.Save*](https://reference.aspose.com/page/java/com.a
 ---
 title: PostScript para conversão de imagens via Java.
 h3: "Código Java para conversão de PostScript para imagens"
-item1: "Para qualquer aplicativo conversor EPS/PS PostScript para imagem, o código Java a seguir funciona bem, portanto, execute as próximas etapas:"
+item1: "Para qualquer aplicativo conversor EPS/PS PostScript para imagem, o código Java a seguir funciona bem, portanto, siga as próximas etapas:"
 item2: Inicialize o fluxo de entrada com o arquivo de origem PS.
-item3: "Criar objeto [*PsDocument*](https://reference.aspose.com/page/java/com.aspose.eps/psdocument) com o fluxo de entrada PS criado como parâmetro"
+item3: "Crie o objeto [*PsDocument*](https://reference.aspose.com/page/java/com.aspose.eps/psdocument) com o fluxo de entrada PS criado como parâmetro"
 item4: "Use [*ImageSaveOptions*](https://reference.aspose.com/page/java/com.aspose.eps.device/imagesaveoptions) para especificar AdditionalFontsFolder e SuppressError etc."
 item5: "Use o objeto [*ImageDevice*](https://reference.aspose.com/page/java/com.aspose.eps.device/imagedevice) para especificar um tipo e tamanho de imagem, se necessário."
 item6: Salve o arquivo PS/EPS como uma imagem com opções de salvamento de imagem como uma matriz de matrizes de bytes. Uma matriz de bytes para uma página de um arquivo de entrada.

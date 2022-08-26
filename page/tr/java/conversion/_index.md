@@ -53,9 +53,9 @@ title: XPS'yi Java aracılığıyla JPG, PNG, BMP'ye dönüştürün.
 h3: XPS'den Görüntüye Dönüştürme için Java Kodu
 item1: "Java API, sayfa düzenini temsil etmek için kullanılan XPS biçimiyle ilgilenir. Herhangi bir senaryoda, XPS'yi programlı olarak BMP, JPG, PNG ve TIFF görüntülerine dönüştürme ihtiyacı olduğunda, aşağıdaki kod Java uygulamasına kolayca entegre edilebilir."
 item2: "XPS belgesini yüklemek için [*XpsDocument class*](https://reference.aspose.com/page/java/com.aspose.xps/XpsDocument) kullanın."
-item3: "[*PngSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/PngSaveOptions), [*JpegSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/JpegSaveOptions) gibi ilgili görüntü seçeneği sınıfını kullanın , [*BmpSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/BmpSaveOptions) , görüntü ek ayarları için [*TiffSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/TiffSaveOptions)."
+item3: "[*PngSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/PngSaveOptions), [*JpegSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/JpegSaveOptions) gibi ilgili görüntü seçeneği sınıfını kullanın, [*BmpSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/BmpSaveOptions), görüntü ek ayarları için [*TiffSaveOptions*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/TiffSaveOptions)."
 item4: "[*image device*](https://reference.aspose.com/page/java/com.aspose.xps.rendering/ImageDevice) Sınıf örneğini oluşturun."
-item5: "[*XpsDocument.save*](https://reference.aspose.com/page/java/com.aspose.xps/XpsDocument#save-com.aspose.page.Device-com.aspose.page.SaveOptions-) arayın dönüştürülen JPEG görüntüsünü ImageDevice nesnesine kaydetmek ve ardından görüntüyü JPG olarak kaydetmek için ImageDevice'i kullanmak için."
+item5: "[*XpsDocument.save*](https://reference.aspose.com/page/java/com.aspose.xps/XpsDocument#save-com.aspose.page.Device-com.aspose.page.SaveOptions-) arayın ) dönüştürülen JPEG görüntüsünü ImageDevice nesnesine kaydetmek ve ardından görüntüyü JPG olarak kaydetmek için ImageDevice'i kullanmak için."
 ---
 
 {{<section feature4>}}

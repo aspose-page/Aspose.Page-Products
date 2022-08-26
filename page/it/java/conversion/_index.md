@@ -43,7 +43,7 @@ item2: Inizializza il flusso di input con il file sorgente PS.
 item3: "Crea un oggetto [*PsDocument*](https://reference.aspose.com/page/java/com.aspose.eps/psdocument) con il flusso di input PS creato come parametro"
 item4: "Utilizzare [*ImageSaveOptions*](https://reference.aspose.com/page/java/com.aspose.eps.device/imagesaveoptions) per specificare AdditionalFontsFolder e SuppressError ecc."
 item5: "Utilizzare l'oggetto [*ImageDevice*](https://reference.aspose.com/page/java/com.aspose.eps.device/imagedevice) per specificare un tipo e una dimensione dell'immagine, se necessario."
-item6: Salva il file PS/EPS come e l'immagine con un'opzione di salvataggio dell'immagine come una matrice di array di byte. Un array di byte per una pagina di un file di input.
+item6: Salva il file PS/EPS come e immagine con un'opzione di salvataggio dell'immagine come una matrice di array di byte. Un array di byte per una pagina di un file di input.
 ---
 
 

@@ -395,7 +395,7 @@ Aspose.Page for Java هو واجهة برمجة تطبيقات لمعالجة و
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/page/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Page لجافا؟" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Page لJava؟" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="قصص نجاح" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
