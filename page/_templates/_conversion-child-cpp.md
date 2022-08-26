@@ -32,7 +32,7 @@ otherformats: {{i18n.otherformats}}
 
 ```cs
 
-PM> Install-Package Aspose.Page
+    PM> Install-Package Aspose.Page
 
 ```
 
@@ -68,7 +68,7 @@ PM> Install-Package Aspose.Page
 {{% blocks/products/pf/agp/code-autogen title="{{i18n.gist.p2}}" gistPath="" %}}
 
 
-{{< highlight java >}}
+{{< highlight C >}}
     System::SharedPtr<System::Drawing::Imaging::ImageFormat> imageFormat = System::Drawing::Imaging::ImageFormat::get_{{i18n.outformat}}();
 
     System::SharedPtr<System::IO::FileStream> epsStream = System::MakeObject<System::IO::FileStream>(u"sourceFile.eps", System::IO::FileMode::Open, System::IO::FileAccess::Read);

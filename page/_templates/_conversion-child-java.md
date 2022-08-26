@@ -4,7 +4,7 @@ title: {{i18n.title}}
 description: {{i18n.description}}
 url: {{i18n.url}}
 family: page
-platformtag: net
+platformtag: java
 feature: conversion
 informat: {{i18n.informat}}
 outformat: {{i18n.outformat}}
@@ -14,9 +14,9 @@ otherformats: {{i18n.otherformats}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}">}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-net.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/net/" installationsDocsLink="https://docs.aspose.com/page/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/net/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/java/" installationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page/" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/page/java/" >}}
 
 {{% blocks/products/pf/feature-page-summary h2="{{i18n.overview.title}}" %}}
 
@@ -27,11 +27,30 @@ otherformats: {{i18n.otherformats}}
 -  <p>{{i18n.overview.p4}}</p>
 -  <p>{{i18n.overview.p5}}</p>
 
-{{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
+
+{{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
 ```cs
 
-    PM> Install-Package Aspose.Page
+    <repository>
+    <id>AsposeJavaAPI</id>
+    <name>Aspose Java API</name>
+    <url>https://repository.aspose.com/repo/</url>
+    </repository>
+
+```
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
+
+```cs
+    <dependency>
+    <groupId>com.aspose</groupId>
+    <artifactId>aspose-page</artifactId>
+    <version>version of aspose-page API</version>
+    <classifier>jdk17</classifier>
+    </dependency>
 
 ```
 
@@ -66,24 +85,20 @@ otherformats: {{i18n.otherformats}}
 
 {{% blocks/products/pf/agp/code-autogen title="{{i18n.gist.p2}}" gistPath="" %}}
 
-{{< highlight csharp >}}
-    // create a stream for input {{i18n.informat}} file
-    using (var psStream = new System.IO.FileStream("template.{{i18n.informat}}", System.IO.FileMode.Create, System.IO.FileAccess.Read))
-    {
-        // create a stream for output {{i18n.outformat}} file
-        using (var pdfStream = System.IO.File.Open("output.gif", System.IO.FileMode.Open, System.IO.FileAccess.Write))
-        {
-            // load the {{i18n.informat}} file from stream
-            var document = new Aspose.Page.{{i18n.informat}}.PsDocument(psStream);
-            // create an instance of ImageSaveOptions
-            var options = new Aspose.Page.{{i18n.informat}}.Device.ImageSaveOptions();
-            // create rendering device for {{i18n.outformat}}
-            var device = new Aspose.Page.{{i18n.informat}}.Device.ImageDevice(System.Drawing.Imaging.ImageFormat.{{i18n.outformat}});
-            // save {{i18n.informat}} as {{i18n.outformat}}
-            document.Save(device, options);
-        }
-    }
-{{< /highlight >}} 
+{{< highlight java >}}
+    // initialize PostScript input stream
+    FileInputStream psStream = new FileInputStream("input.{{i18n.informat lower}}");
+
+    // load {{i18n.informat}} document
+    PsDocument document = new PsDocument(psStream);
+
+    //create an instance of {{i18n.outformat}}SaveOptions
+    {{i18n.outformat}}SaveOptions options = new {{i18n.outformat}}SaveOptions();
+    //create rendering device for {{i18n.informat}} format
+    ImageDevice device = new ImageDevice();
+    //save {{i18n.informat}} as {{i18n.outformat}}
+    document.save(device, options);
+    {{< /highlight >}} 
 
 {{% /blocks/products/pf/agp/code-autogen %}}
 
