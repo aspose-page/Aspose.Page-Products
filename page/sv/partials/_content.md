@@ -50,3 +50,13 @@ p2: Du behöver inte skriva någon kod.
 p3: "Ladda bara upp din {{i18n.informat}}-fil, den kommer att renderas om ett ögonblick."
 p4: Spara resultatet som en bild.
 ---
+
+{{<section widgetbackupsign>}}
+---
+title: "{{i18n.informat}} Signature Web Application"
+overview: "[Signeringsfilen {{i18n.informat}}](https://products.aspose.app/page/signature/xps) just nu genom att besöka vår Live Demos-webbplats."
+p1: Du behöver inte ladda ner Aspose API.
+p2: Du behöver inte skriva någon kod.
+p3: "Ladda bara upp din {{i18n.informat}}-fil och välj typ av signatur"
+p4: Det kommer att signeras elektroniskt direkt.
+---

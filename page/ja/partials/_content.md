@@ -50,3 +50,13 @@ p2: コードを書く必要はありません。
 p3: "{{i18n.informat}} ファイルをアップロードするだけで、すぐにレンダリングされます。"
 p4: 結果を画像として保存します。
 ---
+
+{{<section widgetbackupsign>}}
+---
+title: 「{{i18n.informat}} 署名 Web アプリケーション」
+overview: 「[{{i18n.informat}} ファイルに署名](https://products.aspose.app/page/signature/xps) ライブ デモ Web サイトにアクセスして今すぐ。」
+p1: Aspose API をダウンロードする必要はありません。
+p2: コードを書く必要はありません。
+p3: "{{i18n.informat}} ファイルをアップロードして、署名の種類を選択するだけです"
+p4: 即座に電子署名されます。
+---

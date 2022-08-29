@@ -50,3 +50,13 @@ p2: 无需编写任何代码。
 p3: "只需上传您的 {{i18n.informat}} 文件，它会立即呈现。"
 p4: 将结果另存为图像。
 ---
+
+{{<section widgetbackupsign>}}
+---
+title: "{{i18n.informat}} 签名网络应用程序"
+overview: "[签署 {{i18n.informat}} 文件](https://products.aspose.app/page/signature/xps) 立即访问我们的现场演示网站。"
+p1: 无需下载 Aspose API。
+p2: 无需编写任何代码。
+p3: "只需上传您的 {{i18n.informat}} 文件，然后选择签名类型"
+p4: 会立即进行电子签名。
+---

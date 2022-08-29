@@ -50,3 +50,13 @@ p2: No es necesario escribir ningún código.
 p3: "Simplemente cargue su archivo {{i18n.informat}}, se procesará en un momento."
 p4: Guarda el resultado como una imagen.
 ---
+
+{{<section widgetbackupsign>}}
+---
+title: "{{i18n.informat}} Aplicación web de firma"
+overview: "[Firme el archivo {{i18n.informat}}](https://products.aspose.app/page/signature/xps) ahora mismo visitando nuestro sitio web de demostraciones en vivo."
+p1: No es necesario descargar la API de Aspose.
+p2: No es necesario escribir ningún código.
+p3: "Simplemente cargue su archivo {{i18n.informat}} y elija el tipo de firma"
+p4: Se firmará electrónicamente al instante.
+---

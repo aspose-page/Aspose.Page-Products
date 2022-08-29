@@ -44,9 +44,19 @@ p4: Otrzymasz link do pobrania.
 {{<section widgetbackupview>}}
 ---
 title: "{{i18n.informat}} Aplikacja internetowa przeglądarki"
-overview: „[Otwórz plik {{i18n.informat}}](https://products.aspose.app/page/viewer/{{i18n.informat lower}}) już teraz, odwiedzając naszą witrynę Live Demos”.
+overview: "[Otwórz plik {{i18n.informat}}](https://products.aspose.app/page/viewer/{{i18n.informat lower}}) już teraz, odwiedzając naszą witrynę Live Demos."
 p1: Nie ma potrzeby pobierania Aspose API.
 p2: Nie trzeba pisać żadnego kodu.
 p3: "Po prostu prześlij swój plik {{i18n.informat}}, zostanie wyrenderowany za chwilę."
 p4: Zapisz wynik jako obraz.
+---
+
+{{<section widgetbackupsign>}}
+---
+title: "{{i18n.informat}} Podpis aplikacji internetowej"
+overview: "[Podpisz {{i18n.informat}} plik](https://products.aspose.app/page/signature/xps) już teraz, odwiedzając naszą witrynę Live Demos."
+p1: Nie ma potrzeby pobierania Aspose API.
+p2: Nie trzeba pisać żadnego kodu.
+p3: "Po prostu prześlij swój plik {{i18n.informat}} i wybierz typ podpisu"
+p4: Zostanie natychmiast podpisany elektronicznie.
 ---

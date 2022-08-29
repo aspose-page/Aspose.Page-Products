@@ -26,7 +26,7 @@ p5: "Open NuGet package manager, search for Aspose.Page and install. You may als
 
 {{<section feature1>}}
 ---
-title: "Steps to View via C#"
+title: "Steps to View EPS via C#"
 h3: "This sample code shows how to open EPS file"
 item1: "Aspose.Page makes it easy for the developers to view the EPS file with just a few lines of code."
 item2: Load EPS file with an instance of the PsDocument Class.

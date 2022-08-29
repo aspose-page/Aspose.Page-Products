@@ -2,7 +2,6 @@
 translation: true
 template: /_templates/_viewer-child-net.md
 title: View XPS Format Files | .NET 
-weight: 170
 url: /net/viewer/xps/ 
 description: Open to view XPS files. C# source code to load, render and display XPS documents on .NET Framework Platform, Windows, and ASP.NET Applications.
 informat: XPS
@@ -27,7 +26,7 @@ p5: "Open NuGet package manager, search for Aspose.Page and install. You may als
 
 {{<section feature1>}}
 ---
-title: "Steps to View via C#"
+title: "Steps to View XPS via C#"
 h3: "This sample code shows how to open XPS file"
 item1: "Aspose.Page makes it easy for the developers to view the XPS file with just a few lines of code."
 item2: Load XPS file with an instance of the PsDocument Class.

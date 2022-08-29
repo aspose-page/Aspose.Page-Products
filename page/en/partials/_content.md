@@ -50,3 +50,14 @@ p2: No need to write any code.
 p3: "Just upload your {{i18n.informat}} file, it will be rendered just in a moment."
 p4: Save the result as an image.
 ---
+
+{{<section widgetbackupsign>}}
+---
+title: "{{i18n.informat}} Signature Web Application"
+overview: "[Sign {{i18n.informat}} file](https://products.aspose.app/page/signature/xps) right now by visiting our Live Demos website."
+p1: No need to download Aspose API.
+p2: No need to write any code.
+p3: "Just upload your {{i18n.informat}} file, and choose the type of signature"
+p4: It will be electronically signed instantly.
+---
+

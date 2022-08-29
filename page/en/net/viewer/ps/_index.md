@@ -26,7 +26,7 @@ p5: "Open NuGet package manager, search for Aspose.Page and install. You may als
 
 {{<section feature1>}}
 ---
-title: "Steps to View via C#"
+title: "Steps to View PS via C#"
 h3: "This sample code shows how to open PS file"
 item1: "Aspose.Page makes it easy for the developers to view the PS file with just a few lines of code."
 item2: Load PS file with an instance of the PsDocument Class.
