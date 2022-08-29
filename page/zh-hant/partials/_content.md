@@ -40,3 +40,13 @@ p2: 無需編寫任何代碼。
 p3: "只需上傳您的 {{i18n.informat}} 文件，它就會立即轉換為 {{i18n.outformat}}。"
 p4: 您將獲得下載鏈接。
 ---
+
+{{<section widgetbackupview>}}
+---
+title: "{{i18n.informat}} 查看器 Web 應用程序"
+overview: "[打開 {{i18n.informat}} 文件](https://products.aspose.app/page/viewer/{{i18n.informat lower}}) 立即訪問我們的現場演示網站。"
+p1: 無需下載 Aspose API。
+p2: 無需編寫任何代碼。
+p3: "只需上傳您的 {{i18n.informat}} 文件，它會立即呈現。"
+p4: 將結果另存為圖像。
+---

@@ -40,3 +40,13 @@ p2: 코드를 작성할 필요가 없습니다.
 p3: "{{i18n.informat}} 파일을 업로드하기만 하면 즉시 {{i18n.outformat}}으로 변환됩니다."
 p4: 다운로드 링크가 나옵니다.
 ---
+
+{{<section widgetbackupview>}}
+---
+title: "{{i18n.informat}} 뷰어 웹 애플리케이션"
+overview: "지금 바로 라이브 데모 웹사이트를 방문하여 [{{i18n.informat}} 파일 열기](https://products.aspose.app/page/viewer/{{i18n.informat lower}}) 를 방문하세요."
+p1: Aspose API를 다운로드할 필요가 없습니다.
+p2: 코드를 작성할 필요가 없습니다.
+p3: "{{i18n.informat}} 파일을 업로드하세요. 잠시 후 렌더링됩니다."
+p4: 결과를 이미지로 저장합니다.
+---

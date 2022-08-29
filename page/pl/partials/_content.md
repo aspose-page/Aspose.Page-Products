@@ -40,3 +40,13 @@ p2: Nie musisz pisać żadnego kodu.
 p3: "Po prostu prześlij swój plik {{i18n.informat}}, zostanie on natychmiast przekonwertowany na {{i18n.outformat}}."
 p4: Otrzymasz link do pobrania.
 ---
+
+{{<section widgetbackupview>}}
+---
+title: "{{i18n.informat}} Aplikacja internetowa przeglądarki"
+overview: „[Otwórz plik {{i18n.informat}}](https://products.aspose.app/page/viewer/{{i18n.informat lower}}) już teraz, odwiedzając naszą witrynę Live Demos”.
+p1: Nie ma potrzeby pobierania Aspose API.
+p2: Nie trzeba pisać żadnego kodu.
+p3: "Po prostu prześlij swój plik {{i18n.informat}}, zostanie wyrenderowany za chwilę."
+p4: Zapisz wynik jako obraz.
+---

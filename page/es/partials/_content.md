@@ -40,3 +40,13 @@ p2: No es necesario escribir ningún código.
 p3: "Simplemente cargue su archivo {{i18n.informat}}, se convertirá instantáneamente a {{i18n.outformat}}."
 p4: Obtendrá el enlace de descarga.
 ---
+
+{{<section widgetbackupview>}}
+---
+title: "{{i18n.informat}} aplicación web de visor"
+overview: "[Abra el archivo {{i18n.informat}}](https://products.aspose.app/page/viewer/{{i18n.informat lower}}) ahora mismo visitando nuestro sitio web de demostraciones en vivo."
+p1: No es necesario descargar la API de Aspose.
+p2: No es necesario escribir ningún código.
+p3: "Simplemente cargue su archivo {{i18n.informat}}, se procesará en un momento."
+p4: Guarda el resultado como una imagen.
+---
