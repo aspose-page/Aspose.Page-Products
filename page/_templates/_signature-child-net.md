@@ -9,6 +9,8 @@ feature: signature
 informat: {{i18n.informat}}
 ---
 
+{{<meta path="/{{lang}}/meta/signature/default.md" section="faqchild">}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}">}}
 

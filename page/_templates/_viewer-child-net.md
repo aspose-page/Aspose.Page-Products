@@ -10,6 +10,8 @@ informat: {{i18n.informat}}
 otherformats: {{i18n.otherformats}}
 ---
 
+{{<meta path="/{{lang}}/meta/viewer/default.md" section="faqchild">}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}">}}
 
