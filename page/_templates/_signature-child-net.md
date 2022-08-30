@@ -82,6 +82,7 @@ informat: {{i18n.informat}}
 
 {{% /blocks/products/pf/agp/code-autogen %}}
 
+
 {{< blocks/products/pf/agp/demobox sectionTitle="{{<import path="/{{lang}}/partials/_content.md" section="widgetbackupsign.title">}}" sectionDescription="{{<import path="/{{lang}}/partials/_content.md" section="widgetbackupsign.overview">}}" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="{{<import path="/{{lang}}/partials/_content.md" section="widgetbackupsign.p1">}}" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="{{<import path="/{{lang}}/partials/_content.md" section="widgetbackupsign.p2">}}" >}}
@@ -89,6 +90,29 @@ informat: {{i18n.informat}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="{{<import path="/{{lang}}/partials/_content.md" section="widgetbackupsign.p4">}}" >}}
 {{< /blocks/products/pf/agp/demobox >}}
 
+{{% blocks/products/pf/agp/content %}}
+
+<br><br>
+
+<h2>{{<import path="/{{lang}}/partials/_faqs.md" section="faq-signature-child.h2">}}</h2>
+
+<b>1. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-signature-child.Q1">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-signature-child.A1">}}
+
+<b>2. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-signature-child.Q2">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-signature-child.A2">}}
+
+<b>3. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-signature-child.Q3">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-signature-child.A3">}}
+
+<b>4. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-signature-child.Q4">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-signature-child.A4">}}
+
+{{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/about-file-section >}}     
 {{< blocks/products/pf/agp/about-file-text fileFormat="{{i18n.informat}}" section="{{i18n.informat}}" >}}

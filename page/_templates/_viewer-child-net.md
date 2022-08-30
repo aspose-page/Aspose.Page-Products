@@ -99,6 +99,27 @@ otherformats: {{i18n.otherformats}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="{{<import path="/{{lang}}/partials/_content.md" section="widgetbackupview.p4">}}" >}}
 {{< /blocks/products/pf/agp/demobox >}}
 
+{{% blocks/products/pf/agp/content %}}
+
+<br><br>
+
+<h2>{{<import path="/{{lang}}/partials/_faqs.md" section="faq-viewer-child.h2">}}</h2>
+
+<b>1. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-viewer-child.Q1">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-viewer-child.A1">}}
+
+<b>2. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-viewer-child.Q2">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-viewer-child.A2">}}
+
+<b>3. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-viewer-child.Q3">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-viewer-child.A3">}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+
 {{< blocks/products/pf/agp/other-supported-section title="{{i18n.otherformats.p1}}" subTitle="{{i18n.otherformats.p2}}" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/page/net/viewer/xps/" name="XPS" description="XML Paper Specifications" >}}

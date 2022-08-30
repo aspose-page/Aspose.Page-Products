@@ -109,7 +109,25 @@ otherformats: {{i18n.otherformats}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="{{<import path="/{{lang}}/partials/_content.md" section="widgetbackup.p4">}}" >}}
 {{< /blocks/products/pf/agp/demobox >}}
 
+{{% blocks/products/pf/agp/content %}}
 
+<br><br>
+
+<h2>{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.h2">}}</h2>
+
+<b>1. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.Q1">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.A1">}}
+
+<b>2. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.Q2">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.A2">}}
+
+<b>3. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.Q3">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.A3">}}
+
+{{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/about-file-section >}}     
 {{< blocks/products/pf/agp/about-file-text fileFormat="{{i18n.informat}}" section="{{i18n.informat}}" >}}

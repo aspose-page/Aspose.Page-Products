@@ -83,6 +83,26 @@ feature: conversion
 
 {{% /blocks/products/pf/feature-page-section %}}
 
+{{% blocks/products/pf/agp/content %}}
+
+<br><br>
+
+<h2>{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.h2">}}</h2>
+
+<b>1. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.Q1">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.A1">}}
+
+<b>2. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.Q2">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.A2">}}
+
+<b>3. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.Q3">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.A3">}}
+
+{{% /blocks/products/pf/agp/content %}}
+
 {{< blocks/products/pf/feature-page-options pairs="xps-to-bmp xps-to-png xps-to-tiff xps-to-jpeg" >}}
 
 
