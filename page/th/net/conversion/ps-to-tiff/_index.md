@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: PS เป็น TIFF Conversion API สำหรับ C# | .สุทธิ
+title: PS เป็น TIFF Conversion API สำหรับ C# | .NET
 url: /net/conversion/ps-to-tiff/
 description: โค้ดตัวอย่างสำหรับการแปลง PS เป็น TIFF C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ PS เป็นการแปลง TIFF ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 informat: PS

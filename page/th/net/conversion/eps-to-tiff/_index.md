@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: EPS เป็น TIFF Conversion API สำหรับ C# | .สุทธิ
+title: EPS เป็น TIFF Conversion API สำหรับ C# | .NET
 url: /net/conversion/eps-to-tiff/
 description: โค้ดตัวอย่างสำหรับการแปลง EPS เป็น TIFF C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์ EPS แบบแบตช์เป็นการแปลง TIFF ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 informat: EPS

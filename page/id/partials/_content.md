@@ -40,3 +40,23 @@ p2: Tidak perlu menulis kode apa pun.
 p3: "Cukup unggah file {{i18n.informat}} Anda, itu akan langsung dikonversi ke {{i18n.outformat}}."
 p4: Anda akan mendapatkan tautan unduhan.
 ---
+
+{{<section widgetbackupview>}}
+---
+title: "{{i18n.informat}} Aplikasi Web Penampil"
+overview: "[Buka file {{i18n.informat}}](https://products.aspose.app/page/viewer/{{i18n.informat lower}}) sekarang juga dengan mengunjungi situs web Live Demo kami."
+p1: Tidak perlu mengunduh Aspose API.
+p2: Tidak perlu menulis kode apa pun.
+p3: "Unggah saja file {{i18n.informat}} Anda, file akan segera dirender."
+p4: Simpan hasilnya sebagai gambar.
+---
+
+{{<section widgetbackupsign>}}
+---
+title: "{{i18n.informat}} Aplikasi Web Tanda Tangan"
+overview: "[Masuk file {{i18n.informat}}](https://products.aspose.app/page/signature/xps) sekarang juga dengan mengunjungi situs web Demo Langsung kami."
+p1: Tidak perlu mengunduh Aspose API.
+p2: Tidak perlu menulis kode apa pun.
+p3: "Cukup unggah file {{i18n.informat}} Anda, dan pilih jenis tanda tangan"
+p4: Ini akan ditandatangani secara elektronik secara instan.
+---

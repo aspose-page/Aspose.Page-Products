@@ -40,3 +40,23 @@ p2: Není třeba psát žádný kód.
 p3: "Stačí nahrát svůj soubor {{i18n.informat}}, bude okamžitě převeden na {{i18n.outformat}}."
 p4: Dostanete odkaz ke stažení.
 ---
+
+{{<section widgetbackupview>}}
+---
+title: "{{i18n.informat}} webová aplikace prohlížeče"
+overview: "[Otevřete {{i18n.informat}} soubor](https://products.aspose.app/page/viewer/{{i18n.informat lower}}) právě teď na našem webu s živými ukázkami."
+p1: Není třeba stahovat Aspose API.
+p2: Není třeba psát žádný kód.
+p3: "Stačí nahrát svůj soubor {{i18n.informat}}, za chvíli bude vykreslen."
+p4: Uložte výsledek jako obrázek.
+---
+
+{{<section widgetbackupsign>}}
+---
+title: "{{i18n.informat}} Podpisová webová aplikace"
+overview: "[Podepište soubor {{i18n.informat}}](https://products.aspose.app/page/signature/xps) právě teď na našem webu s živými ukázkami."
+p1: Není třeba stahovat Aspose API.
+p2: Není třeba psát žádný kód.
+p3: "Stačí nahrát svůj soubor {{i18n.informat}} a vybrat typ podpisu"
+p4: Bude okamžitě elektronicky podepsán.
+---

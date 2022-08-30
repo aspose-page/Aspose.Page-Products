@@ -40,3 +40,23 @@ p2: Es muss kein Code geschrieben werden.
 p3: "Laden Sie einfach Ihre {{i18n.informat}}-Datei hoch, sie wird sofort in {{i18n.outformat}} konvertiert."
 p4: Sie erhalten den Download-Link.
 ---
+
+{{<section widgetbackupview>}}
+---
+title: "{{i18n.informat}} Betrachter-Webanwendung"
+overview: "[Öffnen Sie die {{i18n.informat}}-Datei](https://products.aspose.app/page/viewer/{{i18n.informat lower}}) gleich jetzt, indem Sie unsere Live-Demo-Website besuchen."
+p1: Aspose-API muss nicht heruntergeladen werden.
+p2: Es muss kein Code geschrieben werden.
+p3: "Lade einfach deine {{i18n.informat}}-Datei hoch, sie wird gleich gerendert."
+p4: Speichern Sie das Ergebnis als Bild.
+---
+
+{{<section widgetbackupsign>}}
+---
+title: "{{i18n.informat}} Signatur-Webanwendung"
+overview: "[Signieren Sie die {{i18n.informat}}-Datei](https://products.aspose.app/page/signature/xps) jetzt, indem Sie unsere Live-Demo-Website besuchen."
+p1: Aspose-API muss nicht heruntergeladen werden.
+p2: Es muss kein Code geschrieben werden.
+p3: „Lade einfach deine {{i18n.informat}}-Datei hoch und wähle den Signaturtyp.“
+p4: Es wird sofort elektronisch signiert.
+---

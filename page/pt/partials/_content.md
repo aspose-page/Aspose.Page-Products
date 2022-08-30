@@ -40,3 +40,23 @@ p2: Não há necessidade de escrever nenhum código.
 p3: "Basta enviar seu arquivo {{i18n.informat}}, ele será convertido instantaneamente para {{i18n.outformat}}."
 p4: Você receberá o link para download.
 ---
+
+{{<section widgetbackupview>}}
+---
+title: "{{i18n.informat}} Aplicativo da Web Visualizador"
+overview: "[Abra {{i18n.informat}} arquivo](https://products.aspose.app/page/viewer/{{i18n.informat lower}}) agora mesmo visitando nosso site de Demonstrações ao vivo."
+p1: Não há necessidade de baixar a API Aspose.
+p2: Não há necessidade de escrever nenhum código.
+p3: "Basta enviar seu arquivo {{i18n.informat}}, ele será renderizado em um momento."
+p4: Salve o resultado como uma imagem.
+---
+
+{{<section widgetbackupsign>}}
+---
+title: "{{i18n.informat}} Aplicativo da Web de assinatura"
+overview: "[Assine o arquivo {{i18n.informat}}](https://products.aspose.app/page/signature/xps) agora mesmo visitando nosso site de Demonstrações ao vivo."
+p1: Não há necessidade de baixar a API Aspose.
+p2: Não há necessidade de escrever nenhum código.
+p3: "Basta enviar seu arquivo {{i18n.informat}} e escolher o tipo de assinatura"
+p4: Será assinado eletronicamente instantaneamente.
+---

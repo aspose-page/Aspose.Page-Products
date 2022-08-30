@@ -40,3 +40,23 @@ p2: Không cần phải viết bất kỳ mã nào.
 p3: "Chỉ cần tải lên tệp {{i18n.informat}} của bạn, tệp sẽ được chuyển đổi ngay lập tức thành {{i18n.outformat}}."
 p4: Bạn sẽ nhận được liên kết tải xuống.
 ---
+
+{{<section widgetbackupview>}}
+---
+title: "{{i18n.informat}} Ứng dụng Web của Người xem"
+overview: "[Mở {{i18n.informat}} tệp](https://products.aspose.app/page/viewer/{{i18n.informat lower}}) ngay bây giờ bằng cách truy cập trang web Bản trình diễn trực tiếp của chúng tôi."
+p1: Không cần tải xuống API Aspose.
+p2: Không cần viết bất kỳ mã nào.
+p3: "Chỉ cần tải lên tệp {{i18n.informat}} của bạn, tệp sẽ được hiển thị trong giây lát."
+p4: Lưu kết quả dưới dạng ảnh.
+---
+
+{{<section widgetbackupsign>}}
+---
+title: "{{i18n.informat}} Ứng dụng Web Chữ ký"
+overview: "[Đăng {{i18n.informat}} tệp] (https://products.aspose.app/page/signature/xps) ngay bây giờ bằng cách truy cập trang web Bản trình diễn trực tiếp của chúng tôi."
+p1: Không cần tải xuống API Aspose.
+p2: Không cần viết bất kỳ mã nào.
+p3: "Chỉ cần tải lên tệp {{i18n.informat}} của bạn và chọn loại chữ ký"
+p4: Nó sẽ được ký điện tử ngay lập tức.
+---

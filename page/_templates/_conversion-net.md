@@ -8,6 +8,8 @@ platformtag: net
 feature: conversion
 ---
 
+{{<meta path="/{{lang}}/meta/conversion/default.md" section="faq">}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}">}}
 
@@ -59,6 +61,26 @@ feature: conversion
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/agp/content %}}
+
+<br><br>
+
+<h2>{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.h2">}}</h2>
+
+<b>1. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.Q1">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.A1">}}
+
+<b>2. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.Q2">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.A2">}}
+
+<b>3. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.Q3">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.A3">}}
+
+{{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/feature-page-options pairs="ps-to-bmp ps-to-png ps-to-jpeg ps-to-tiff ps-to-gif eps-to-gif eps-to-tiff eps-to-jpeg eps-to-png eps-to-bmp" >}}
 

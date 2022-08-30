@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: PS เป็น PDF Conversion API สำหรับ C# | .สุทธิ
+title: PS เป็น PDF Conversion API สำหรับ C# | .NET
 url: /net/conversion/ps-to-pdf/
 description: โค้ดตัวอย่างสำหรับการแปลง PS เป็น PDF C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ PS เป็นการแปลง PDF ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 informat: PS

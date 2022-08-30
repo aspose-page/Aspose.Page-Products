@@ -40,3 +40,23 @@ p2: Herhangi bir kod yazmaya gerek yok.
 p3: "Sadece {{i18n.informat}} dosyanızı yükleyin, anında {{i18n.outformat}} dosyasına dönüştürülecektir."
 p4: İndirme bağlantısını alacaksınız.
 ---
+
+{{<section widgetbackupview>}}
+---
+title: "{{i18n.informat}} Görüntüleyici Web Uygulaması"
+overview: "Şu anda Canlı Demolar web sitemizi ziyaret ederek [{{i18n.informat}} dosyasını](https://products.aspose.app/page/viewer/{{i18n.informat lower}}) açın."
+p1: Aspose API'yi indirmenize gerek yok.
+p2: Herhangi bir kod yazmaya gerek yok.
+p3: "{{i18n.informat}} dosyanızı yükleyin, hemen işlenecek."
+p4: Sonucu bir resim olarak kaydedin.
+---
+
+{{<section widgetbackupsign>}}
+---
+title: "{{i18n.informat}} İmza Web Uygulaması"
+overview: "Şu anda Canlı Demolar web sitemizi ziyaret ederek [{{i18n.informat}} dosyasını](https://products.aspose.app/page/signature/xps) imzalayın."
+p1: Aspose API'yi indirmenize gerek yok.
+p2: Herhangi bir kod yazmaya gerek yok.
+p3: "{{i18n.informat}} dosyanızı yükleyin ve imza türünü seçin"
+p4: Anında elektronik olarak imzalanacaktır.
+---

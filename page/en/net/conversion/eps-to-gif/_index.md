@@ -20,7 +20,7 @@ h2: Convert EPS to GIF via API Solution for .NET.
 title: "How to Convert EPS to GIF Using C#"
 p1: "Aspose.Page for EPS to GIF converter offers conversion of Encapsulated PostScript (EPS) file to GIF image with using of any language supported by .NET platform: C#, VB, J#."
 p2: "The API you see here can be used to create your own cross-platform application or be integrated into your .NET project."
-p3: "In order to convert XPS to PNG, we’ll use:"
+p3: "In order to convert EPS to PNG, we’ll use:"
 p4: "Aspose.Page for .NET API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform."
 p5: "Open NuGet package manager, search for Aspose.Page and install. You may also use the following command from the Package Manager Console."
 ---

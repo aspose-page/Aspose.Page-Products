@@ -40,3 +40,23 @@ p2: ไม่ต้องเขียนโค้ดใดๆ
 p3: "เพียงอัปโหลดไฟล์ {{i18n.informat}} ของคุณ ไฟล์จะถูกแปลงเป็น {{i18n.outformat}} ทันที"
 p4: คุณจะได้รับลิงค์ดาวน์โหลด
 ---
+
+{{<section widgetbackupview>}}
+---
+title: "{{i18n.informat}} โปรแกรมดูเว็บแอปพลิเคชัน"
+overview: "[เปิดไฟล์ {{i18n.informat}}](https://products.aspose.app/page/viewer/{{i18n.informat lower}}) ทันทีโดยไปที่เว็บไซต์ Live Demos ของเรา"
+p1: ไม่จำเป็นต้องดาวน์โหลด Aspose API
+p2: ไม่จำเป็นต้องเขียนโค้ดใดๆ
+p3: "เพียงอัปโหลดไฟล์ {{i18n.informat}} ของคุณ ไฟล์จะแสดงผลในอีกสักครู่"
+p4: บันทึกผลลัพธ์เป็นรูปภาพ
+---
+
+{{<section widgetbackupsign>}}
+---
+title: "{{i18n.informat}} เว็บแอปพลิเคชันลายเซ็น"
+overview: "[ลงชื่อไฟล์ {{i18n.informat}}](https://products.aspose.app/page/signature/xps) ทันทีโดยไปที่เว็บไซต์ Live Demos ของเรา"
+p1: ไม่จำเป็นต้องดาวน์โหลด Aspose API
+p2: ไม่จำเป็นต้องเขียนโค้ดใดๆ
+p3: "เพียงอัปโหลดไฟล์ {{i18n.informat}} ของคุณแล้วเลือกประเภทของลายเซ็น"
+p4: จะมีการเซ็นชื่อแบบอิเล็กทรอนิกส์ทันที
+---

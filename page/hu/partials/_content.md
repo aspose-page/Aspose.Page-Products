@@ -40,3 +40,23 @@ p2: Nem kell kódot írni.
 p3: "Csak töltse fel a {{i18n.informat}} fájlt, és azonnal konvertálódik a {{i18n.outformat}} fájlba."
 p4: Megkapod a letöltési linket.
 ---
+
+{{<section widgetbackupview>}}
+---
+title: "{{i18n.informat}} Viewer Web Application"
+overview: "[Nyissa meg az {{i18n.informat}} fájlt](https://products.aspose.app/page/viewer/{{i18n.informat lower}}) most, az Élő bemutatók webhelyén."
+p1: Nem kell letöltenie az Aspose API-t.
+p2: Nem kell kódot írni.
+p3: "Csak töltsd fel a {{i18n.informat}} fájlodat, és pillanatokon belül megtörténik."
+p4: Az eredmény mentése képként.
+---
+
+{{<section widgetbackupsign>}}
+---
+title: "{{i18n.informat}} Signature Web Application"
+overview: "[Aláírja a {{i18n.informat}} fájlt](https://products.aspose.app/page/signature/xps) most, az élő bemutatók webhelyén."
+p1: Nem kell letöltenie az Aspose API-t.
+p2: Nem kell kódot írni.
+p3: "Csak töltse fel a {{i18n.informat}} fájlt, és válassza ki az aláírás típusát"
+p4: Azonnal elektronikus aláírásra kerül.
+---
