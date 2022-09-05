@@ -3,6 +3,7 @@ translation: true
 template: /_templates/_signature-child-net.md
 title: XPS 파일에 전자 서명하는 API | .NET
 url: /net/signature/xps/
+aliases: /net/signature/
 description: ".NET Framework 플랫폼, Windows 및 ASP.NET 응용 프로그램에서 XPS 문서에 전자 서명하기 위한 C# 소스 코드. XPS 서명 기능을 위한 간단한 API."
 informat: XPS
 ---

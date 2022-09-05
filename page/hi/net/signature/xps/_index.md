@@ -3,6 +3,7 @@ translation: true
 template: /_templates/_signature-child-net.md
 title: एक्सपीएस फाइलों को ई-साइन करने के लिए एपीआई | .NET
 url: /net/signature/xps/
+aliases: /net/signature/
 description: ".NET फ्रेमवर्क प्लेटफॉर्म, विंडोज़ और ASP.NET अनुप्रयोगों पर XPS दस्तावेज़ों को ई-साइन करने के लिए C# स्रोत कोड। एक्सपीएस हस्ताक्षर कार्यक्षमता के लिए सरल एपीआई।"
 informat: XPS
 ---

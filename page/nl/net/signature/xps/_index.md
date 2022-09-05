@@ -3,6 +3,7 @@ translation: true
 template: /_templates/_signature-child-net.md
 title: API om XPS-bestanden elektronisch te ondertekenen | .NET
 url: /net/signature/xps/
+aliases: /net/signature/
 description: "C#-broncode voor e-Sign XPS-documenten op .NET Framework Platform, Windows en ASP.NET-toepassingen. Eenvoudige API's voor XPS Signature-functionaliteit."
 informat: XPS
 ---
