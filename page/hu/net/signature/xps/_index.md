@@ -3,6 +3,7 @@ translation: true
 template: /_templates/_signature-child-net.md
 title: API az XPS-fájlok eSign-hez | .NET
 url: /net/signature/xps/
+aliases: /net/signature/
 description: "C#-forráskód XPS-dokumentumok e-Sign-hez .NET-keretrendszer platformon, Windowson és ASP.NET-alkalmazásokon. Egyszerű API-k az XPS Signature funkciókhoz."
 informat: XPS
 ---

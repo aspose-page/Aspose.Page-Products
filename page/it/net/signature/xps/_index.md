@@ -3,6 +3,7 @@ translation: true
 template: /_templates/_signature-child-net.md
 title: API per firmare file XPS | .NET
 url: /net/signature/xps/
+aliases: /net/signature/
 description: "Codice sorgente C# per la firma elettronica di documenti XPS su piattaforma .NET Framework, Windows e applicazioni ASP.NET. API semplici per la funzionalità di firma XPS."
 informat: XPS
 ---
