@@ -6,11 +6,11 @@ description: XPS、PS、またはEPSドキュメントを作成、読み取り�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="XPS、PS、およびEPSファイル操作Java API" h2="XPS、PS、およびEPSドキュメントを、ソフトウェアに依存せずにPDFおよびさまざまな画像に変換します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-java.svg" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/page/java" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="XPS、PS、およびEPSファイル操作Java API" h2="XPS、PS、およびEPSドキュメントを、ソフトウェアに依存せずにPDFおよびさまざまな画像に変換します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-java.svg" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/page/java" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/java/" installationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="" nugetPackageName="固定レイアウト：" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-page" directDownloadLink="https://downloads.aspose.com/page/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/java/" installationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="" nugetPackageName="固定レイアウト：" mavenRepoLink="https://repository.aspose.com/page/" directDownloadLink="https://releases.aspose.com/page/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -402,7 +402,7 @@ Aspose.Page for Javaは、XPSおよびPostScriptドキュメントの処理お�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/java" pricingInformationLink="https://purchase.aspose.com/pricing/page/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page/java" pricingInformationLink="https://purchase.aspose.com/pricing/page/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Aspose.Pageは、以下に示すように、一般的な開発環境向けに個別のAPIを提供します。" >}}
 

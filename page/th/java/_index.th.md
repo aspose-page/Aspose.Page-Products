@@ -6,11 +6,11 @@ description: ไลบรารี Java เพื่อสร้าง อ่า
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="ไฟล์ XPS, PS และ EPS การจัดการ Java APIs" h2="แปลงเอกสาร XPS, PS และ EPS เป็น PDF และรูปภาพต่างๆ โดยไม่ต้องพึ่งพาซอฟต์แวร์ใดๆ" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-java.svg" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/page/java" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="ไฟล์ XPS, PS และ EPS การจัดการ Java APIs" h2="แปลงเอกสาร XPS, PS และ EPS เป็น PDF และรูปภาพต่างๆ โดยไม่ต้องพึ่งพาซอฟต์แวร์ใดๆ" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-java.svg" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/page/java" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/java/" installationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="" nugetPackageName="เค้าโครงคงที่:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-page" directDownloadLink="https://downloads.aspose.com/page/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/java/" installationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="" nugetPackageName="เค้าโครงคงที่:" mavenRepoLink="https://repository.aspose.com/page/" directDownloadLink="https://releases.aspose.com/page/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -402,7 +402,7 @@ Aspose.Page สำหรับ Java คือการประมวลผล�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/java" pricingInformationLink="https://purchase.aspose.com/pricing/page/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page/java" pricingInformationLink="https://purchase.aspose.com/pricing/page/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Aspose.Page นำเสนอ API แต่ละรายการสำหรับสภาพแวดล้อมการพัฒนายอดนิยมตามรายการด้านล่าง:" >}}
 

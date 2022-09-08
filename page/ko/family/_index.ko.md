@@ -6,7 +6,7 @@ description: 이 솔루션으로 XPS, PS 및 EPS 파일을 조작하십시오. .
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PS, EPS 및 XPS 파일 형식 개발자 API" h2="이 기본 API를 사용하여 XPS, PS 및 EPS 파일을 만들고 조작하십시오." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page.svg" pfName="Aspose.Page" downloadUrl="https://downloads.aspose.com/page" tryOnlineUrl="https://products.aspose.app/page/family" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PS, EPS 및 XPS 파일 형식 개발자 API" h2="이 기본 API를 사용하여 XPS, PS 및 EPS 파일을 만들고 조작하십시오." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page.svg" pfName="Aspose.Page" downloadUrl="https://releases.aspose.com/page" tryOnlineUrl="https://products.aspose.app/page/family" >}}
 
 
 {{< blocks/products/pf/main-container >}}
@@ -48,6 +48,6 @@ Windows Forms, ASP.NET 또는 .NET Framework 2.0 이상을 기반으로 하는 �
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page" pricingInformationLink="https://purchase.aspose.com/pricing/page/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page" pricingInformationLink="https://purchase.aspose.com/pricing/page/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

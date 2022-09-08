@@ -6,11 +6,11 @@ description: Java-Bibliothek zum Erstellen, Lesen oder Aktualisieren von XPS-, P
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java-APIs zur Manipulation von XPS-, PS- und EPS-Dateien" h2="Konvertieren Sie XPS-, PS- und EPS-Dokumente ohne Softwareabhängigkeiten in PDF und verschiedene Bilder." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-java.svg" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/page/java" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java-APIs zur Manipulation von XPS-, PS- und EPS-Dateien" h2="Konvertieren Sie XPS-, PS- und EPS-Dokumente ohne Softwareabhängigkeiten in PDF und verschiedene Bilder." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/headers/aspose_page-for-java.svg" pfName="Aspose.Page" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/page/java" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/java/" installationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="" nugetPackageName="Festes Layout:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-page" directDownloadLink="https://downloads.aspose.com/page/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-java.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/java/" installationsDocsLink="https://docs.aspose.com/page/java/installation/" nugetLink="" nugetPackageName="Festes Layout:" mavenRepoLink="https://repository.aspose.com/page/" directDownloadLink="https://releases.aspose.com/page/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -402,7 +402,7 @@ Aspose.Page für Java ist eine API zum Verarbeiten und Analysieren von XPS- und 
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/java" pricingInformationLink="https://purchase.aspose.com/pricing/page/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page/java" pricingInformationLink="https://purchase.aspose.com/pricing/page/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Aspose.Page bietet individuelle APIs für gängige Entwicklungsumgebungen wie unten aufgeführt:" >}}
 

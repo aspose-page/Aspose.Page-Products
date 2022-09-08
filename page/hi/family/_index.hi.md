@@ -6,7 +6,7 @@ description: इस समाधान के साथ एक्सपीएस
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="पीएस, ईपीएस और एक्सपीएस फ़ाइल प्रारूप डेवलपर एपीआई" h2="इस मूल एपीआई के साथ एक्सपीएस, पीएस और ईपीएस फाइलें बनाएं और उनमें हेरफेर करें" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page.svg" pfName="Aspose.Page" downloadUrl="https://downloads.aspose.com/page" tryOnlineUrl="https://products.aspose.app/page/family" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="पीएस, ईपीएस और एक्सपीएस फ़ाइल प्रारूप डेवलपर एपीआई" h2="इस मूल एपीआई के साथ एक्सपीएस, पीएस और ईपीएस फाइलें बनाएं और उनमें हेरफेर करें" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page.svg" pfName="Aspose.Page" downloadUrl="https://releases.aspose.com/page" tryOnlineUrl="https://products.aspose.app/page/family" >}}
 
 
 {{< blocks/products/pf/main-container >}}
@@ -48,6 +48,6 @@ Java एसई या ईई पर आधारित डेस्कटॉप,
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page" pricingInformationLink="https://purchase.aspose.com/pricing/page/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page" pricingInformationLink="https://purchase.aspose.com/pricing/page/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

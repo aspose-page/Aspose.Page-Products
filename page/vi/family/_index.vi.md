@@ -6,7 +6,7 @@ description: Thao tác với các tệp XPS, PS và EPS với giải pháp này.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API nhà phát triển định dạng tệp PS, EPS và XPS" h2="Tạo và thao tác các tệp XPS, PS và EPS với các API gốc này" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page.svg" pfName="Aspose.Page" downloadUrl="https://downloads.aspose.com/page" tryOnlineUrl="https://products.aspose.app/page/family" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API nhà phát triển định dạng tệp PS, EPS và XPS" h2="Tạo và thao tác các tệp XPS, PS và EPS với các API gốc này" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page.svg" pfName="Aspose.Page" downloadUrl="https://releases.aspose.com/page" tryOnlineUrl="https://products.aspose.app/page/family" >}}
 
 
 {{< blocks/products/pf/main-container >}}
@@ -48,6 +48,6 @@ Tạo, tải, thao tác hoặc hiển thị các tệp Postscript và XPS sang �
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page" pricingInformationLink="https://purchase.aspose.com/pricing/page/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page" pricingInformationLink="https://purchase.aspose.com/pricing/page/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

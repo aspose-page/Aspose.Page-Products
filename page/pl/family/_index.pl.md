@@ -6,7 +6,7 @@ description: Dzięki temu rozwiązaniu możesz manipulować plikami XPS, PS i EP
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Programy API dla programistów formatów plików PS, EPS i XPS" h2="Twórz i manipuluj plikami XPS, PS i EPS za pomocą natywnych interfejsów API" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page.svg" pfName="Aspose.Page" downloadUrl="https://downloads.aspose.com/page" tryOnlineUrl="https://products.aspose.app/page/family" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Programy API dla programistów formatów plików PS, EPS i XPS" h2="Twórz i manipuluj plikami XPS, PS i EPS za pomocą natywnych interfejsów API" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page.svg" pfName="Aspose.Page" downloadUrl="https://releases.aspose.com/page" tryOnlineUrl="https://products.aspose.app/page/family" >}}
 
 
 {{< blocks/products/pf/main-container >}}
@@ -48,6 +48,6 @@ Twórz, ładuj, manipuluj lub renderuj pliki Postscript i XPS do formatów obraz
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page" pricingInformationLink="https://purchase.aspose.com/pricing/page/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page" pricingInformationLink="https://purchase.aspose.com/pricing/page/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

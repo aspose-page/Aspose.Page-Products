@@ -6,11 +6,11 @@ description: Töltsön be és konvertáljon PS, EPS és XPS fájlokat PDF-be és
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ könyvtár PostScript és XPS formátumokhoz" h2="Töltsön be, egyesítsen és konvertáljon PostScript PS-, EPS- és XPS-fájlokat PDF- és raszterképekké a C++ alkalmazásokban." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-cpp.png" pfName="Aspose.Page" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/page/cpp" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ könyvtár PostScript és XPS formátumokhoz" h2="Töltsön be, egyesítsen és konvertáljon PostScript PS-, EPS- és XPS-fájlokat PDF- és raszterképekké a C++ alkalmazásokban." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-cpp.png" pfName="Aspose.Page" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/page/cpp" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/cpp/release-notes/" installationsDocsLink="https://docs.aspose.com/page/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page.cpp" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/cpp/release-notes/" installationsDocsLink="https://docs.aspose.com/page/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page.cpp" nugetPackageName="Aspose.Page" mavenRepoLink="https://repository.aspose.com/page/" directDownloadLink="https://releases.aspose.com/page/cpp" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -415,7 +415,7 @@ Ez a megoldás támogatja a PS, EPS és XPS PDL-eket.
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/page/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/page/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Az Aspose.Page egyedi API-kat kínál népszerű fejlesztői környezetekhez, az alábbiak szerint:" >}}
 

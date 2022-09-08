@@ -6,7 +6,7 @@ description: Bearbeiten Sie XPS-, PS- und EPS-Dateien mit dieser Lösung. Seine 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Entwickler-APIs für PS-, EPS- und XPS-Dateiformate" h2="Erstellen und bearbeiten Sie XPS-, PS- und EPS-Dateien mit diesen nativen APIs" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page.svg" pfName="Aspose.Page" downloadUrl="https://downloads.aspose.com/page" tryOnlineUrl="https://products.aspose.app/page/family" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Entwickler-APIs für PS-, EPS- und XPS-Dateiformate" h2="Erstellen und bearbeiten Sie XPS-, PS- und EPS-Dateien mit diesen nativen APIs" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page.svg" pfName="Aspose.Page" downloadUrl="https://releases.aspose.com/page" tryOnlineUrl="https://products.aspose.app/page/family" >}}
 
 
 {{< blocks/products/pf/main-container >}}
@@ -48,6 +48,6 @@ Erstellen, laden, manipulieren oder rendern Sie Postscript- und XPS-Dateien in B
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page" pricingInformationLink="https://purchase.aspose.com/pricing/page/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page" pricingInformationLink="https://purchase.aspose.com/pricing/page/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

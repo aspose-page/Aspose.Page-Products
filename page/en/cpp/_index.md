@@ -6,11 +6,11 @@ description: Load and convert PS, EPS and XPS files to PDF and Images with this 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Library for PostScript and XPS Formats" h2="Load, merge and convert PostScript PS, EPS and XPS files to PDF and raster images within C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-cpp.png" pfName="Aspose.Page" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/page/cpp" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Library for PostScript and XPS Formats" h2="Load, merge and convert PostScript PS, EPS and XPS files to PDF and raster images within C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-cpp.png" pfName="Aspose.Page" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/page/cpp" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/cpp/release-notes/" installationsDocsLink="https://docs.aspose.com/page/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page.cpp" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/cpp/release-notes/" installationsDocsLink="https://docs.aspose.com/page/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page.cpp" nugetPackageName="Aspose.Page" mavenRepoLink="https://repository.aspose.com/page/" directDownloadLink="https://releases.aspose.com/page/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -398,6 +398,7 @@ This solution supports PS, EPS, and XPS PDLs.
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/page/cpp/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-page/Aspose.Page-for-C" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/page/cpp" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/page/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -415,7 +416,7 @@ This solution supports PS, EPS, and XPS PDLs.
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/page/cpp" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/page/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/page/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Aspose.Page offers individual APIs for popular development environments as listed below:" >}}
 

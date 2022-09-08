@@ -6,11 +6,11 @@ description: इस पुस्तकालय के साथ पीएस, �
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="पोस्टस्क्रिप्ट और एक्सपीएस प्रारूपों के लिए सी ++ लाइब्रेरी" h2="पोस्टस्क्रिप्ट पीएस, ईपीएस और एक्सपीएस फाइलों को लोड करें, मर्ज करें और सी ++ अनुप्रयोगों के भीतर पीडीएफ और रेखापुंज छवियों में कनवर्ट करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-cpp.png" pfName="Aspose.Page" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/page/cpp" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="पोस्टस्क्रिप्ट और एक्सपीएस प्रारूपों के लिए सी ++ लाइब्रेरी" h2="पोस्टस्क्रिप्ट पीएस, ईपीएस और एक्सपीएस फाइलों को लोड करें, मर्ज करें और सी ++ अनुप्रयोगों के भीतर पीडीएफ और रेखापुंज छवियों में कनवर्ट करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/header/aspose_page-for-cpp.png" pfName="Aspose.Page" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/page/cpp" tryOnlineUrl="https://products.aspose.app/page/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Page" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/cpp/release-notes/" installationsDocsLink="https://docs.aspose.com/page/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page.cpp" nugetPackageName="Aspose.Page" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/page/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/page/aspose_page-for-cpp.svg" liveDemosLink="https://products.aspose.app/page/applications" PricingLink="https://purchase.aspose.com/pricing/page/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/page/cpp/release-notes/" installationsDocsLink="https://docs.aspose.com/page/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Page.cpp" nugetPackageName="Aspose.Page" mavenRepoLink="https://repository.aspose.com/page/" directDownloadLink="https://releases.aspose.com/page/cpp" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -415,7 +415,7 @@ description: इस पुस्तकालय के साथ पीएस, �
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/page/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/page/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/page/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/page/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Page" description="Aspose.Page नीचे सूचीबद्ध लोकप्रिय विकास परिवेशों के लिए अलग-अलग API प्रदान करता है:" >}}
 
